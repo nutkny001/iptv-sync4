@@ -1,11 +1,12 @@
-import os
 from datetime import datetime
+import os
 import requests
+from zoneinfo import ZoneInfo
 
 PORTAL_URL = "http://91.208.115.23:80/c/"
 MAC_ADDRESS = "00:1A:79:47:36:F9"
 OUTPUT_M3U = "stalker_playlist.m3u"
-OUTPUT_LIVE_M3U = OUTPUT_M3U  # ใช้ไฟล์เดียวกัน หรือเปลี่ยนชื่อตัวแปรตามต้องการ
+OUTPUT_LIVE_M3U = OUTPUT_M3U  # ใช้ไฟล์เดียวกัน
 
 # กำหนดรหัสหมวดหมู่ที่ต้องการดึง (อ้างอิงตาม ID ของ Server)
 CATEGORY_MAPPING = {
@@ -49,9 +50,11 @@ def generate_stalker_m3u():
 
     print(f"[+] กำลังกรองช่องจากทั้งหมด {len(channels)} ช่อง...")
 
-    # เตรียมข้อมูลวันที่ปัจจุบัน และลิงก์ EPG (สามารถปรับแต่ง URL EPG ได้ตามต้องการ)
-    now_str = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-    epg_url = ""  
+    # ดึงเวลาปัจจุบันตามโซนประเทศไทย (Asia/Bangkok) อย่างแม่นยำ
+    now_str = datetime.now(ZoneInfo("Asia/Bangkok")).strftime(
+        "%Y-%m-%d %H:%M:%S"
+    )
+    epg_url = ""
 
     success_count = 0
     with open(OUTPUT_LIVE_M3U, "w", encoding="utf-8") as f:
