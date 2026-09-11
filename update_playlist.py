@@ -6,12 +6,11 @@ PORTAL_URL = os.getenv("STALKER_PORTAL_URL", "http://91.208.115.23:80/c/").strip
 MAC_ADDRESS = os.getenv("STALKER_MAC", "00:1A:79:47:36:F9").strip()
 OUTPUT_M3U = "stalker_playlist.m3u"
 
-# กำหนดรหัสหมวดหมู่หรือชื่อกลุ่มที่ต้องการดึง (สามารถระบุเฉพาะ ID หรือชื่อกลุ่มที่ต้องการได้ที่นี่)
+# กำหนดรหัสหมวดหมู่หรือชื่อกลุ่มที่ต้องการดึง
 CATEGORY_MAPPING = {
     "3362": "|UK|TNT SPORTS RAW DOLBY",
-	"3402": "|UK|SKY SPORTS SPORTS RAW DOLBY",
-	"2686": "|UK|HUB PREMIER PPV"\
-    # เพิ่ม ID หรือเปลี่ยนกลุ่มอื่น ๆ ตามต้องการ เช่น "1": "General"
+    "3402": "|UK|SKY SPORTS SPORTS RAW DOLBY",
+    "2686": "|UK|HUB PREMIER PPV"
 }
 
 headers = {
@@ -67,7 +66,6 @@ def generate_stalker_m3u():
             for item in channels:
                 genre_id = str(item.get("genre", "0"))
                 
-                # ตรวจสอบว่า genre_id ตรงกับที่กำหนดใน CATEGORY_MAPPING หรือไม่
                 if genre_id not in CATEGORY_MAPPING:
                     continue
 
@@ -75,12 +73,11 @@ def generate_stalker_m3u():
                 ch_cmd = item.get("cmd", "")
                 tvg_id = item.get("tvg_id", "")
                 stream_icon = item.get("logo", "")
-                group_title = CATEGORY_MAPPING[genre_id] # ใช้ชื่อกลุ่มใหม่ที่กำหนด
+                group_title = CATEGORY_MAPPING[genre_id]
 
                 if not ch_cmd:
                     continue
 
-                # ขอลิงก์สตรีมจริง (Direct URL) ของแต่ละช่อง
                 try:
                     create_link_url = f"{PORTAL_URL}/server/load.php?type=itv&action=create_link&cmd={ch_cmd}&series_id=0&forced_storage=0&disable_neondrm=0&JsHttpRequest=1-xml"
                     link_res = session.get(create_link_url, timeout=10)
