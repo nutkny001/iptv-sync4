@@ -5,8 +5,7 @@ on:
   repository_dispatch:
     types: [run-sync]
   schedule:
-    # ตั้งเวลาให้รันทุกวันเวลา 12:00 น. ตามเวลาประเทศไทย (แปลงเป็น UTC คือ 05:00 น.)
-    - cron: "0 5 * * *"
+    - cron: "0 0 * * *"
 
 jobs:
   update:
