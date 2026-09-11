@@ -24,9 +24,6 @@ jobs:
           pip install requests
 
       - name: Run playlist generator
-        env:
-          STALKER_PORTAL_URL: ${{ secrets.STALKER_PORTAL_URL }}
-          STALKER_MAC: ${{ secrets.STALKER_MAC }}
         run: |
           python update_playlist.py
 
