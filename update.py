@@ -1,0 +1,104 @@
+import os
+import requests
+
+# กำหนดค่าพารามิเตอร์สำหรับเชื่อมต่อ Stalker Portal และบันทึกไฟล์
+PORTAL_URL = os.getenv("STALKER_PORTAL_URL", "http://91.208.115.23:80/c/").strip().rstrip("/")
+MAC_ADDRESS = os.getenv("STALKER_MAC", "00:1A:79:47:36:F9").strip()
+OUTPUT_M3U = "stalker_playlist.m3u"
+
+# กำหนดรหัสหมวดหมู่หรือชื่อกลุ่มที่ต้องการดึง (สามารถระบุเฉพาะ ID หรือชื่อกลุ่มที่ต้องการได้ที่นี่)
+CATEGORY_MAPPING = {
+    "3362": "|UK|TNT SPORTS RAW DOLBY",
+	"3402": "|UK|SKY SPORTS SPORTS RAW DOLBY",
+	"2686": "|UK|HUB PREMIER PPV"\
+    # เพิ่ม ID หรือเปลี่ยนกลุ่มอื่น ๆ ตามต้องการ เช่น "1": "General"
+}
+
+headers = {
+    "User-Agent": "Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3",
+    "Cookie": f"mac={MAC_ADDRESS}; stb_lang=en; timezone=Asia/Bangkok"
+}
+
+def generate_stalker_m3u():
+    print("[1] กำลังเชื่อมต่อ Stalker Server เพื่อขอ Token...")
+    session = requests.Session()
+    session.headers.update(headers)
+
+    try:
+        # 1. Handshake ขอ Token
+        handshake_url = f"{PORTAL_URL}/server/load.php?type=stb&action=handshake&mac={MAC_ADDRESS}"
+        res = session.get(handshake_url, timeout=15)
+        res_json = res.json()
+        token = res_json.get('js', {}).get('token')
+
+        if not token:
+            print("[-] ไม่สามารถขอ Token ได้ (MAC อาจไม่ถูกต้องหรือถูกบล็อก)")
+            return
+
+        print(f"[+] Token สำเร็จ: {token[:10]}...")
+        session.headers.update({"Authorization": f"Bearer {token}"})
+
+        # 1.1 ดึงข้อมูลหมวดหมู่
+        print("[1.1] กำลังดึงข้อมูลหมวดหมู่...")
+        cat_url = f"{PORTAL_URL}/server/load.php?type=itv&action=get_genres&JsHttpRequest=1-xml"
+        res_cat = session.get(cat_url, timeout=15)
+        cat_data = res_cat.json().get('js', [])
+
+        category_mapping = {}
+        if isinstance(cat_data, list):
+            for cat in cat_data:
+                category_mapping[str(cat.get("id"))] = cat.get("title", "General")
+
+        # 2. ดึงรายชื่อช่องทั้งหมด
+        print("[2] กำลังดึงรายชื่อช่องรายการทั้งหมด...")
+        channels_url = f"{PORTAL_URL}/server/load.php?type=itv&action=get_all_channels&JsHttpRequest=1-xml"
+        res_ch = session.get(channels_url, timeout=30)
+        channels = res_ch.json().get('js', {}).get('data', [])
+
+        if not channels:
+            print("[-] ไม่พบรายการช่องสดในระบบ")
+            return
+
+        print(f"[+] กำลังกรองช่องเฉพาะที่อยู่ในเงื่อนไขและสร้างลิงก์สตรีม...")
+
+        success_count = 0
+        with open(OUTPUT_M3U, "w", encoding="utf-8") as f:
+            f.write("#EXTM3U\n")
+            for item in channels:
+                genre_id = str(item.get("genre", "0"))
+                
+                # ตรวจสอบว่า genre_id ตรงกับที่กำหนดใน CATEGORY_MAPPING หรือไม่
+                if genre_id not in CATEGORY_MAPPING:
+                    continue
+
+                name = item.get("name", "Unknown")
+                ch_cmd = item.get("cmd", "")
+                tvg_id = item.get("tvg_id", "")
+                stream_icon = item.get("logo", "")
+                group_title = CATEGORY_MAPPING[genre_id] # ใช้ชื่อกลุ่มใหม่ที่กำหนด
+
+                if not ch_cmd:
+                    continue
+
+                # ขอลิงก์สตรีมจริง (Direct URL) ของแต่ละช่อง
+                try:
+                    create_link_url = f"{PORTAL_URL}/server/load.php?type=itv&action=create_link&cmd={ch_cmd}&series_id=0&forced_storage=0&disable_neondrm=0&JsHttpRequest=1-xml"
+                    link_res = session.get(create_link_url, timeout=10)
+                    link_data = link_res.json().get('js', {})
+                    raw_url = link_data.get('cmd', '')
+                    stream_url = raw_url.replace("ffmpeg ", "").replace("auto ", "").strip()
+
+                    if stream_url:
+                        f.write(f'#EXTINF:-1 tvg-id="{tvg_id}" tvg-logo="{stream_icon}" group-title="{group_title}",{name}\n')
+                        f.write(f"{stream_url}\n")
+                        success_count += 1
+                except Exception:
+                    continue
+
+        print(f"[✔] บันทึกไฟล์ M3U สำเร็จ {success_count} ช่อง ไปที่: {OUTPUT_M3U}")
+
+    except Exception as e:
+        print(f"[-] เกิดข้อผิดพลาด: {e}")
+
+if __name__ == "__main__":
+    generate_stalker_m3u()
