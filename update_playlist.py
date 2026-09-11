@@ -1,17 +1,9 @@
 import os
 import requests
 
-# กำหนดค่าพารามิเตอร์สำหรับเชื่อมต่อ Stalker Portal และบันทึกไฟล์
-PORTAL_URL = os.getenv("STALKER_PORTAL_URL", "http://91.208.115.23:80/c/").strip().rstrip("/")
-MAC_ADDRESS = os.getenv("STALKER_MAC", "00:1A:79:47:36:F9").strip()
+PORTAL_URL = "http://91.208.115.23:80/c/"
+MAC_ADDRESS = "00:1A:79:47:36:F9"
 OUTPUT_M3U = "stalker_playlist.m3u"
-
-# กำหนดรหัสหมวดหมู่หรือชื่อกลุ่มที่ต้องการดึง
-CATEGORY_MAPPING = {
-    "3362": "|UK|TNT SPORTS RAW DOLBY",
-    "3402": "|UK|SKY SPORTS SPORTS RAW DOLBY",
-    "2686": "|UK|HUB PREMIER PPV"
-}
 
 headers = {
     "User-Agent": "Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3",
@@ -19,7 +11,7 @@ headers = {
 }
 
 def generate_stalker_m3u():
-    print("[1] กำลังเชื่อมต่อ Stalker Server เพื่อขอ Token...")
+    print(f"[1] กำลังเชื่อมต่อ Stalker Server ({PORTAL_URL})...")
     session = requests.Session()
     session.headers.update(headers)
 
@@ -37,16 +29,17 @@ def generate_stalker_m3u():
         print(f"[+] Token สำเร็จ: {token[:10]}...")
         session.headers.update({"Authorization": f"Bearer {token}"})
 
-        # 1.1 ดึงข้อมูลหมวดหมู่
-        print("[1.1] กำลังดึงข้อมูลหมวดหมู่...")
+        # 1.1 ดึงข้อมูลหมวดหมู่เพื่อมาเช็ค ID จริง
+        print("[1.1] กำลังดึงข้อมูลหมวดหมู่ทั้งหมดจาก Server...")
         cat_url = f"{PORTAL_URL}/server/load.php?type=itv&action=get_genres&JsHttpRequest=1-xml"
         res_cat = session.get(cat_url, timeout=15)
         cat_data = res_cat.json().get('js', [])
 
-        category_mapping = {}
+        print("--- รายชื่อหมวดหมู่ทั้งหมดที่มีใน Server ---")
         if isinstance(cat_data, list):
             for cat in cat_data:
-                category_mapping[str(cat.get("id"))] = cat.get("title", "General")
+                print(f"ID: {cat.get('id')} | ชื่อกลุ่ม: {cat.get('title')}")
+        print("---------------------------------------")
 
         # 2. ดึงรายชื่อช่องทั้งหมด
         print("[2] กำลังดึงรายชื่อช่องรายการทั้งหมด...")
@@ -58,7 +51,18 @@ def generate_stalker_m3u():
             print("[-] ไม่พบรายการช่องสดในระบบ")
             return
 
-        print(f"[+] กำลังกรองช่องเฉพาะที่อยู่ในเงื่อนไขและสร้างลิงก์สตรีม...")
+        # ทดลองพิมพ์ 3 ช่องแรกดูว่าโครงสร้างหมวดหมู่ของช่องคืออะไร
+        print("--- ตัวอย่างข้อมูลช่องใน Server (3 ช่องแรก) ---")
+        for item in channels[:3]:
+            print(f"ชื่อช่อง: {item.get('name')} | Genre ID ของช่องนี้: {item.get('genre')}")
+        print("---------------------------------------")
+
+        # กำหนดรหัสหมวดหมู่ที่ต้องการดึง (หลังจากตรวจสอบจาก Log แล้วค่อยมาเปลี่ยนตรงนี้)
+        CATEGORY_MAPPING = {
+            "3362": "|UK|TNT SPORTS RAW DOLBY",
+            "3402": "|UK|SKY SPORTS SPORTS RAW DOLBY",
+            "2686": "|UK|HUB PREMIER PPV"
+        }
 
         success_count = 0
         with open(OUTPUT_M3U, "w", encoding="utf-8") as f:
