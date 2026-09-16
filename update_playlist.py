@@ -11,7 +11,15 @@ OUTPUT_LIVE_M3U = OUTPUT_M3U
 # กำหนดรหัสหมวดหมู่ที่ต้องการดึง (อ้างอิงตาม ID ของ Server)
 CATEGORY_MAPPING = {
     "111": "Australia & New Zealand",
+    "658": "EFL UK"
+    "657": "EFL CUP UK"
+    "659": "Italy Serie A UK"
+    "716": "Hub Premier(EPL) UK"
     "761": "UK SPORTS",
+    "737": "Paramount+ Original US"
+    "1323": "World Football Events"
+    "1504": "LaLiga+ Eventos ES"
+    "1534": "Ligue Plus FR"
 }
 
 headers = {
