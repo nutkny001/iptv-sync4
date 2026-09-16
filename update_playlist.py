@@ -3,16 +3,15 @@ import os
 import requests
 from zoneinfo import ZoneInfo
 
-PORTAL_URL = "http://91.208.115.23:80/c/"
-MAC_ADDRESS = "00:1A:79:47:36:F9"
+PORTAL_URL = "http://45.139.122.199:8080/c"
+MAC_ADDRESS = "00:1A:79:C0:16:27"
 OUTPUT_M3U = "stalker_playlist.m3u"
 OUTPUT_LIVE_M3U = OUTPUT_M3U
 
 # กำหนดรหัสหมวดหมู่ที่ต้องการดึง (อ้างอิงตาม ID ของ Server)
 CATEGORY_MAPPING = {
-    "3362": "┃UK┃ TNT SPORTS RAW DOLBY",
-    "3402": "┃UK┃ SKY SPORTS RAW DOLBY",
-    "2686": "┃UK┃ HUB PREMIER PPV",
+    "111": "Australia & New Zealand",
+    "761": "UK SPORTS",
 }
 
 headers = {
