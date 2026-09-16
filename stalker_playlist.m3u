@@ -1,97 +1,97 @@
 #EXTM3U url-tvg=""
-#EXTINF:-1 group-title="ℹ️ SYSTEM INFO",🕒 🟢 อัปเดตล่าสุด: 2026-09-15 11:17:19 🟢
+#EXTINF:-1 group-title="ℹ️ SYSTEM INFO",🕒 🟢 อัปเดตล่าสุด: 2026-09-16 11:13:05 🟢
 http://clients.link/updated
 #EXTINF:-1 tvg-id="" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="┃UK┃ TNT SPORTS RAW DOLBY",☰☰☰☰ ┃UK┃ TNT SPORTS RAW 50FPS ☰☰☰☰
-http://91.208.115.23:80/play/live.php?mac=00:1A:79:47:36:F9&stream=1174223&extension=ts&play_token=o7S8GGDg5S
+http://91.208.115.23:80/play/live.php?mac=00:1A:79:47:36:F9&stream=1174223&extension=ts&play_token=yhantO0Bgd
 #EXTINF:-1 tvg-id="" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="┃UK┃ TNT SPORTS RAW DOLBY",┃UK┃ TNT SPORTS ULTIMATE 4K
-http://91.208.115.23:80/play/live.php?mac=00:1A:79:47:36:F9&stream=1174213&extension=ts&play_token=6Oah3XW0oV
+http://91.208.115.23:80/play/live.php?mac=00:1A:79:47:36:F9&stream=1174213&extension=ts&play_token=T151DCbBWF
 #EXTINF:-1 tvg-id="" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="┃UK┃ TNT SPORTS RAW DOLBY",┃UK┃ TNT SPORTS 1 RAW 50FPS
-http://91.208.115.23:80/play/live.php?mac=00:1A:79:47:36:F9&stream=1174218&extension=ts&play_token=TBRV6wEUyI
+http://91.208.115.23:80/play/live.php?mac=00:1A:79:47:36:F9&stream=1174218&extension=ts&play_token=njBrKt2BZP
 #EXTINF:-1 tvg-id="" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="┃UK┃ TNT SPORTS RAW DOLBY",┃UK┃ TNT SPORTS 2 RAW 50FPS
-http://91.208.115.23:80/play/live.php?mac=00:1A:79:47:36:F9&stream=1174219&extension=ts&play_token=H6orUw7Qv7
+http://91.208.115.23:80/play/live.php?mac=00:1A:79:47:36:F9&stream=1174219&extension=ts&play_token=RmDVkCRvRB
 #EXTINF:-1 tvg-id="" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="┃UK┃ TNT SPORTS RAW DOLBY",┃UK┃ TNT SPORTS 3 RAW 50FPS
-http://91.208.115.23:80/play/live.php?mac=00:1A:79:47:36:F9&stream=1174220&extension=ts&play_token=ZPo6xolc3f
+http://91.208.115.23:80/play/live.php?mac=00:1A:79:47:36:F9&stream=1174220&extension=ts&play_token=S8oRdC8shh
 #EXTINF:-1 tvg-id="" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="┃UK┃ TNT SPORTS RAW DOLBY",┃UK┃ TNT SPORTS 4 RAW 50FPS
-http://91.208.115.23:80/play/live.php?mac=00:1A:79:47:36:F9&stream=1174221&extension=ts&play_token=RFbSqxCxb0
+http://91.208.115.23:80/play/live.php?mac=00:1A:79:47:36:F9&stream=1174221&extension=ts&play_token=qcIhspN7h9
 #EXTINF:-1 tvg-id="" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="┃UK┃ TNT SPORTS RAW DOLBY",☰☰☰☰ ┃UK┃ TNT SPORTS RAW ☰☰☰☰
-http://91.208.115.23:80/play/live.php?mac=00:1A:79:47:36:F9&stream=1174222&extension=ts&play_token=vXrtiABTLA
+http://91.208.115.23:80/play/live.php?mac=00:1A:79:47:36:F9&stream=1174222&extension=ts&play_token=pNSWXLFWmS
 #EXTINF:-1 tvg-id="" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="┃UK┃ TNT SPORTS RAW DOLBY",┃UK┃ TNT SPORTS 1 RAW
-http://91.208.115.23:80/play/live.php?mac=00:1A:79:47:36:F9&stream=1174214&extension=ts&play_token=RR6VXR9KWh
+http://91.208.115.23:80/play/live.php?mac=00:1A:79:47:36:F9&stream=1174214&extension=ts&play_token=OCspROV4Rc
 #EXTINF:-1 tvg-id="" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="┃UK┃ TNT SPORTS RAW DOLBY",┃UK┃ TNT SPORTS 2 RAW
-http://91.208.115.23:80/play/live.php?mac=00:1A:79:47:36:F9&stream=1174215&extension=ts&play_token=8nRdX5prM0
+http://91.208.115.23:80/play/live.php?mac=00:1A:79:47:36:F9&stream=1174215&extension=ts&play_token=Im5XFk6JUG
 #EXTINF:-1 tvg-id="" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="┃UK┃ TNT SPORTS RAW DOLBY",┃UK┃ TNT SPORTS 3 RAW
-http://91.208.115.23:80/play/live.php?mac=00:1A:79:47:36:F9&stream=1174216&extension=ts&play_token=PB7R2JejYY
+http://91.208.115.23:80/play/live.php?mac=00:1A:79:47:36:F9&stream=1174216&extension=ts&play_token=LYPpTMgVXG
 #EXTINF:-1 tvg-id="" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="┃UK┃ TNT SPORTS RAW DOLBY",┃UK┃ TNT SPORTS 4 RAW
-http://91.208.115.23:80/play/live.php?mac=00:1A:79:47:36:F9&stream=1174217&extension=ts&play_token=9cjBheva8h
+http://91.208.115.23:80/play/live.php?mac=00:1A:79:47:36:F9&stream=1174217&extension=ts&play_token=N0HKd5R9l3
 #EXTINF:-1 tvg-id="" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="┃UK┃ TNT SPORTS RAW DOLBY",☰☰☰☰ ┃UK┃ TNT SPORTS HEVC RAW ☰☰☰☰
-http://91.208.115.23:80/play/live.php?mac=00:1A:79:47:36:F9&stream=1311893&extension=ts&play_token=oOUzQnVRaW
+http://91.208.115.23:80/play/live.php?mac=00:1A:79:47:36:F9&stream=1311893&extension=ts&play_token=cwcPlJwK9O
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="┃UK┃ TNT SPORTS RAW DOLBY",┃UK┃ TNT SPORTS 1 HEVC RAW
-http://91.208.115.23:80/play/live.php?mac=00:1A:79:47:36:F9&stream=1311894&extension=ts&play_token=9mo9cygfao
+http://91.208.115.23:80/play/live.php?mac=00:1A:79:47:36:F9&stream=1311894&extension=ts&play_token=7JwPmWPkzi
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="┃UK┃ TNT SPORTS RAW DOLBY",┃UK┃ TNT SPORTS 2 HEVC RAW
-http://91.208.115.23:80/play/live.php?mac=00:1A:79:47:36:F9&stream=1311895&extension=ts&play_token=JeEB8S60O9
+http://91.208.115.23:80/play/live.php?mac=00:1A:79:47:36:F9&stream=1311895&extension=ts&play_token=ANUAew0QIK
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="┃UK┃ TNT SPORTS RAW DOLBY",┃UK┃ TNT SPORTS 3 HEVC RAW
-http://91.208.115.23:80/play/live.php?mac=00:1A:79:47:36:F9&stream=1311896&extension=ts&play_token=k9bHCWCVPk
+http://91.208.115.23:80/play/live.php?mac=00:1A:79:47:36:F9&stream=1311896&extension=ts&play_token=OIRNLj9dFI
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="┃UK┃ TNT SPORTS RAW DOLBY",┃UK┃ TNT SPORTS 4 HEVC RAW
-http://91.208.115.23:80/play/live.php?mac=00:1A:79:47:36:F9&stream=1311897&extension=ts&play_token=Pbec94jn2B
+http://91.208.115.23:80/play/live.php?mac=00:1A:79:47:36:F9&stream=1311897&extension=ts&play_token=S8sktpAher
 #EXTINF:-1 tvg-id="" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS RAW DOLBY/SKY SPORTS.png" group-title="┃UK┃ SKY SPORTS RAW DOLBY",☰☰☰☰ ┃UK┃ SKY SPORTS 4K ☰☰☰☰
-http://91.208.115.23:80/play/live.php?mac=00:1A:79:47:36:F9&stream=1312010&extension=ts&play_token=YgbLZTS0yQ
+http://91.208.115.23:80/play/live.php?mac=00:1A:79:47:36:F9&stream=1312010&extension=ts&play_token=ObLg1xmfvz
 #EXTINF:-1 tvg-id="" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/┃UK┃ SKY SPORTS RAW DOLBY/SKY SPORTS MAIN EVENTS.png" group-title="┃UK┃ SKY SPORTS RAW DOLBY",┃UK┃ SKY SPORTS MAIN EVENTS 4K
-http://91.208.115.23:80/play/live.php?mac=00:1A:79:47:36:F9&stream=1312008&extension=ts&play_token=5B2PLQuHZP
+http://91.208.115.23:80/play/live.php?mac=00:1A:79:47:36:F9&stream=1312008&extension=ts&play_token=UnNZax2PaS
 #EXTINF:-1 tvg-id="" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS RAW DOLBY/SKY SPORTS F1.png" group-title="┃UK┃ SKY SPORTS RAW DOLBY",┃UK┃ SKY SPORTS F1 4K
-http://91.208.115.23:80/play/live.php?mac=00:1A:79:47:36:F9&stream=1312007&extension=ts&play_token=UkiEJhCNbt
+http://91.208.115.23:80/play/live.php?mac=00:1A:79:47:36:F9&stream=1312007&extension=ts&play_token=wPDKcsx4tR
 #EXTINF:-1 tvg-id="" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS RAW DOLBY/SKY SPORTS 1.png" group-title="┃UK┃ SKY SPORTS RAW DOLBY",┃UK┃ SKY SPORTS 1 4K
-http://91.208.115.23:80/play/live.php?mac=00:1A:79:47:36:F9&stream=1312005&extension=ts&play_token=TmTEFEOv2A
+http://91.208.115.23:80/play/live.php?mac=00:1A:79:47:36:F9&stream=1312005&extension=ts&play_token=Jel678PqYN
 #EXTINF:-1 tvg-id="" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS RAW DOLBY/SKY SPORTS 2.png" group-title="┃UK┃ SKY SPORTS RAW DOLBY",┃UK┃ SKY SPORTS 2 4K
-http://91.208.115.23:80/play/live.php?mac=00:1A:79:47:36:F9&stream=1312006&extension=ts&play_token=sPiZi6PG4d
+http://91.208.115.23:80/play/live.php?mac=00:1A:79:47:36:F9&stream=1312006&extension=ts&play_token=zdZ3HgW9ro
 #EXTINF:-1 tvg-id="" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS RAW DOLBY/SKY SPORTS.png" group-title="┃UK┃ SKY SPORTS RAW DOLBY",☰☰☰☰ ┃UK┃ SKY SPORTS RAW DOLBY ☰☰☰☰
-http://91.208.115.23:80/play/live.php?mac=00:1A:79:47:36:F9&stream=1312009&extension=ts&play_token=enMujeDvzh
+http://91.208.115.23:80/play/live.php?mac=00:1A:79:47:36:F9&stream=1312009&extension=ts&play_token=NyznlxCYXa
 #EXTINF:-1 tvg-id="" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS RAW DOLBY/SKY SPORTS NEWS.png" group-title="┃UK┃ SKY SPORTS RAW DOLBY",┃UK┃ SKY SPORTS NEWS RAW 50FPS
-http://91.208.115.23:80/play/live.php?mac=00:1A:79:47:36:F9&stream=1312001&extension=ts&play_token=EJmq2XTA5P
+http://91.208.115.23:80/play/live.php?mac=00:1A:79:47:36:F9&stream=1312001&extension=ts&play_token=SxHlYegQ1q
 #EXTINF:-1 tvg-id="" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS RAW DOLBY/SKY SPORTS MAIN EVENT.png" group-title="┃UK┃ SKY SPORTS RAW DOLBY",┃UK┃ SKY SPORTS MAIN EVENT 50 FPS
-http://91.208.115.23:80/play/live.php?mac=00:1A:79:47:36:F9&stream=1311999&extension=ts&play_token=SLxAXlEPl1
+http://91.208.115.23:80/play/live.php?mac=00:1A:79:47:36:F9&stream=1311999&extension=ts&play_token=TEMbf9yWfF
 #EXTINF:-1 tvg-id="" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS RAW DOLBY/SKY SPORTS PREMIER LEAUGE.png" group-title="┃UK┃ SKY SPORTS RAW DOLBY",┃UK┃ SKY SPORTS PREMIER LEAUGE 50FPS
-http://91.208.115.23:80/play/live.php?mac=00:1A:79:47:36:F9&stream=1312002&extension=ts&play_token=Ogz2P4fUlB
+http://91.208.115.23:80/play/live.php?mac=00:1A:79:47:36:F9&stream=1312002&extension=ts&play_token=OAXABYgcff
 #EXTINF:-1 tvg-id="" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS RAW DOLBY/SKY SPORTS FOOTBALL.png" group-title="┃UK┃ SKY SPORTS RAW DOLBY",┃UK┃ SKY SPORTS FOOTBALL 50 FPS
-http://91.208.115.23:80/play/live.php?mac=00:1A:79:47:36:F9&stream=1311997&extension=ts&play_token=4WQ7QZLPEZ
+http://91.208.115.23:80/play/live.php?mac=00:1A:79:47:36:F9&stream=1311997&extension=ts&play_token=yfsnHdQGEj
 #EXTINF:-1 tvg-id="" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS RAW DOLBY/SKY SPORTS MIX.png" group-title="┃UK┃ SKY SPORTS RAW DOLBY",┃UK┃ SKY SPORTS MIX RAW 50FPS
-http://91.208.115.23:80/play/live.php?mac=00:1A:79:47:36:F9&stream=1312000&extension=ts&play_token=zqJuDu8IWh
+http://91.208.115.23:80/play/live.php?mac=00:1A:79:47:36:F9&stream=1312000&extension=ts&play_token=rdPpDzCqOh
 #EXTINF:-1 tvg-id="" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS RAW DOLBY/SKY SPORTS ACTION.png" group-title="┃UK┃ SKY SPORTS RAW DOLBY",┃UK┃ SKY SPORTS ACTION / NFL RAW 50FPS
-http://91.208.115.23:80/play/live.php?mac=00:1A:79:47:36:F9&stream=1311993&extension=ts&play_token=9GgWLEjr22
+http://91.208.115.23:80/play/live.php?mac=00:1A:79:47:36:F9&stream=1311993&extension=ts&play_token=3EbqrsiwqF
 #EXTINF:-1 tvg-id="" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS RAW DOLBY/SKY SPORTS F1.png" group-title="┃UK┃ SKY SPORTS RAW DOLBY",┃UK┃ SKY SPORTS F1 RAW 50FPS
-http://91.208.115.23:80/play/live.php?mac=00:1A:79:47:36:F9&stream=1311996&extension=ts&play_token=9IsxlNGGxm
+http://91.208.115.23:80/play/live.php?mac=00:1A:79:47:36:F9&stream=1311996&extension=ts&play_token=SorWOdunnA
 #EXTINF:-1 tvg-id="" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS RAW DOLBY/SKY SPORTS RACING.png" group-title="┃UK┃ SKY SPORTS RAW DOLBY",┃UK┃ SKY SPORTS RACING RAW 50FPS
-http://91.208.115.23:80/play/live.php?mac=00:1A:79:47:36:F9&stream=1312003&extension=ts&play_token=yyTVx1uUdo
+http://91.208.115.23:80/play/live.php?mac=00:1A:79:47:36:F9&stream=1312003&extension=ts&play_token=OoBY4b4pIe
 #EXTINF:-1 tvg-id="" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS RAW DOLBY/SKY SPORTS TENNIS.png" group-title="┃UK┃ SKY SPORTS RAW DOLBY",┃UK┃ SKY SPORTS TENNIS RAW 50FPS
-http://91.208.115.23:80/play/live.php?mac=00:1A:79:47:36:F9&stream=1312004&extension=ts&play_token=kh3ylBVdIo
+http://91.208.115.23:80/play/live.php?mac=00:1A:79:47:36:F9&stream=1312004&extension=ts&play_token=msPxaxWrxL
 #EXTINF:-1 tvg-id="" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS RAW DOLBY/SKY SPORTS GOLF.png" group-title="┃UK┃ SKY SPORTS RAW DOLBY",┃UK┃ SKY SPORTS GOLF 50FPS
-http://91.208.115.23:80/play/live.php?mac=00:1A:79:47:36:F9&stream=1311998&extension=ts&play_token=kzgRJxRU2o
+http://91.208.115.23:80/play/live.php?mac=00:1A:79:47:36:F9&stream=1311998&extension=ts&play_token=1qazJ43NUV
 #EXTINF:-1 tvg-id="" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS RAW DOLBY/SKY SPORTS CRICKET.png" group-title="┃UK┃ SKY SPORTS RAW DOLBY",┃UK┃ SKY SPORTS CRICKET RAW 50FPS
-http://91.208.115.23:80/play/live.php?mac=00:1A:79:47:36:F9&stream=1311995&extension=ts&play_token=xCU8Qx6WFf
+http://91.208.115.23:80/play/live.php?mac=00:1A:79:47:36:F9&stream=1311995&extension=ts&play_token=oCY8x3B5ce
 #EXTINF:-1 tvg-id="" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS RAW DOLBY/SKY SPORTS+.png" group-title="┃UK┃ SKY SPORTS RAW DOLBY",┃UK┃ SKY SPORTS+ RAW 50FPS
-http://91.208.115.23:80/play/live.php?mac=00:1A:79:47:36:F9&stream=1311994&extension=ts&play_token=7br6G1c8Cw
+http://91.208.115.23:80/play/live.php?mac=00:1A:79:47:36:F9&stream=1311994&extension=ts&play_token=DhHPxeWFjY
 #EXTINF:-1 tvg-id="" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/┃UK┃ HUB PREMIER PPV/HUB PREMIER 1.png" group-title="┃UK┃ HUB PREMIER PPV",┃UK┃ ☰☰☰☰ ┃UK┃ HUB PREMIER PPV ☰☰☰☰
-http://91.208.115.23:80/play/live.php?mac=00:1A:79:47:36:F9&stream=1314076&extension=ts&play_token=OCwVvinNQr
+http://91.208.115.23:80/play/live.php?mac=00:1A:79:47:36:F9&stream=1314076&extension=ts&play_token=iTVxYWRmPs
 #EXTINF:-1 tvg-id="" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/┃UK┃ HUB PREMIER PPV/HUB PREMIER 1.png" group-title="┃UK┃ HUB PREMIER PPV",┃UK┃ HUB PREMIER 2 4K UHD
-http://91.208.115.23:80/play/live.php?mac=00:1A:79:47:36:F9&stream=1314088&extension=ts&play_token=vt7NdJNglF
+http://91.208.115.23:80/play/live.php?mac=00:1A:79:47:36:F9&stream=1314088&extension=ts&play_token=q8x0L2N8Uo
 #EXTINF:-1 tvg-id="" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/┃UK┃ HUB PREMIER PPV/HUB PREMIER 1.png" group-title="┃UK┃ HUB PREMIER PPV",┃UK┃ HUB PREMIER 1 FHD
-http://91.208.115.23:80/play/live.php?mac=00:1A:79:47:36:F9&stream=1314077&extension=ts&play_token=24gH7lcxEZ
+http://91.208.115.23:80/play/live.php?mac=00:1A:79:47:36:F9&stream=1314077&extension=ts&play_token=YLXrgNdq6c
 #EXTINF:-1 tvg-id="" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/┃UK┃ HUB PREMIER PPV/HUB PREMIER 2.png" group-title="┃UK┃ HUB PREMIER PPV",┃UK┃ HUB PREMIER 2 FHD
-http://91.208.115.23:80/play/live.php?mac=00:1A:79:47:36:F9&stream=1314078&extension=ts&play_token=WxesIhy1h4
+http://91.208.115.23:80/play/live.php?mac=00:1A:79:47:36:F9&stream=1314078&extension=ts&play_token=fmwD1gwdxZ
 #EXTINF:-1 tvg-id="" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/┃UK┃ HUB PREMIER PPV/HUB PREMIER 3.png" group-title="┃UK┃ HUB PREMIER PPV",┃UK┃ HUB PREMIER 3 FHD
-http://91.208.115.23:80/play/live.php?mac=00:1A:79:47:36:F9&stream=1314079&extension=ts&play_token=j60RNhfPbu
+http://91.208.115.23:80/play/live.php?mac=00:1A:79:47:36:F9&stream=1314079&extension=ts&play_token=IRTr7LlDLD
 #EXTINF:-1 tvg-id="" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/┃UK┃ HUB PREMIER PPV/HUB PREMIER 4.png" group-title="┃UK┃ HUB PREMIER PPV",┃UK┃ HUB PREMIER 4 FHD
-http://91.208.115.23:80/play/live.php?mac=00:1A:79:47:36:F9&stream=1314080&extension=ts&play_token=ViyIdWWhNv
+http://91.208.115.23:80/play/live.php?mac=00:1A:79:47:36:F9&stream=1314080&extension=ts&play_token=MO69qsZlPl
 #EXTINF:-1 tvg-id="" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/┃UK┃ HUB PREMIER PPV/HUB PREMIER 5.png" group-title="┃UK┃ HUB PREMIER PPV",┃UK┃ HUB PREMIER 5 FHD
-http://91.208.115.23:80/play/live.php?mac=00:1A:79:47:36:F9&stream=1314081&extension=ts&play_token=Mg3MwbT2CX
+http://91.208.115.23:80/play/live.php?mac=00:1A:79:47:36:F9&stream=1314081&extension=ts&play_token=wRBO5LkCkH
 #EXTINF:-1 tvg-id="" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/┃UK┃ HUB PREMIER PPV/HUB PREMIER 6.png" group-title="┃UK┃ HUB PREMIER PPV",┃UK┃ HUB PREMIER 6 FHD
-http://91.208.115.23:80/play/live.php?mac=00:1A:79:47:36:F9&stream=1314082&extension=ts&play_token=Qs16Rwv2Xw
+http://91.208.115.23:80/play/live.php?mac=00:1A:79:47:36:F9&stream=1314082&extension=ts&play_token=berZ0zJNBn
 #EXTINF:-1 tvg-id="" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/┃UK┃ HUB PREMIER PPV/HUB PREMIER 7.png" group-title="┃UK┃ HUB PREMIER PPV",┃UK┃ HUB PREMIER 7 FHD
-http://91.208.115.23:80/play/live.php?mac=00:1A:79:47:36:F9&stream=1314083&extension=ts&play_token=KzZv37prGR
+http://91.208.115.23:80/play/live.php?mac=00:1A:79:47:36:F9&stream=1314083&extension=ts&play_token=yQOnHyYewl
 #EXTINF:-1 tvg-id="" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/┃UK┃ HUB PREMIER PPV/HUB PREMIER 8.png" group-title="┃UK┃ HUB PREMIER PPV",┃UK┃ HUB PREMIER 8 FHD
-http://91.208.115.23:80/play/live.php?mac=00:1A:79:47:36:F9&stream=1314084&extension=ts&play_token=sky0TnOn72
+http://91.208.115.23:80/play/live.php?mac=00:1A:79:47:36:F9&stream=1314084&extension=ts&play_token=4lZFsnCgLc
 #EXTINF:-1 tvg-id="" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/┃UK┃ HUB PREMIER PPV/HUB PREMIER 9.png" group-title="┃UK┃ HUB PREMIER PPV",┃UK┃ HUB PREMIER 9 FHD
-http://91.208.115.23:80/play/live.php?mac=00:1A:79:47:36:F9&stream=1314085&extension=ts&play_token=7uK9LrlVsy
+http://91.208.115.23:80/play/live.php?mac=00:1A:79:47:36:F9&stream=1314085&extension=ts&play_token=aV9GJHaBVc
 #EXTINF:-1 tvg-id="" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/┃UK┃ HUB PREMIER PPV/HUB PREMIER 10.png" group-title="┃UK┃ HUB PREMIER PPV",┃UK┃ HUB PREMIER 10 FHD
-http://91.208.115.23:80/play/live.php?mac=00:1A:79:47:36:F9&stream=1314086&extension=ts&play_token=A1piKjhQfM
+http://91.208.115.23:80/play/live.php?mac=00:1A:79:47:36:F9&stream=1314086&extension=ts&play_token=QW8SvDfu1m
 #EXTINF:-1 tvg-id="" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/┃UK┃ HUB PREMIER PPV/HUB PREMIER 11.png" group-title="┃UK┃ HUB PREMIER PPV",┃UK┃ HUB PREMIER 11 FHD
-http://91.208.115.23:80/play/live.php?mac=00:1A:79:47:36:F9&stream=1314087&extension=ts&play_token=OvUFKzCCWu
+http://91.208.115.23:80/play/live.php?mac=00:1A:79:47:36:F9&stream=1314087&extension=ts&play_token=SEw1cKwnvV
