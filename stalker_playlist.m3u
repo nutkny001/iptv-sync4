@@ -1,97 +1,713 @@
 #EXTM3U url-tvg=""
-#EXTINF:-1 group-title="ℹ️ SYSTEM INFO",🕒 🟢 อัปเดตล่าสุด: 2026-09-16 11:13:05 🟢
+#EXTINF:-1 group-title="ℹ️ SYSTEM INFO",🕒 🟢 อัปเดตล่าสุด: 2026-09-16 15:05:59 🟢
 http://clients.link/updated
-#EXTINF:-1 tvg-id="" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="┃UK┃ TNT SPORTS RAW DOLBY",☰☰☰☰ ┃UK┃ TNT SPORTS RAW 50FPS ☰☰☰☰
-http://91.208.115.23:80/play/live.php?mac=00:1A:79:47:36:F9&stream=1174223&extension=ts&play_token=yhantO0Bgd
-#EXTINF:-1 tvg-id="" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="┃UK┃ TNT SPORTS RAW DOLBY",┃UK┃ TNT SPORTS ULTIMATE 4K
-http://91.208.115.23:80/play/live.php?mac=00:1A:79:47:36:F9&stream=1174213&extension=ts&play_token=T151DCbBWF
-#EXTINF:-1 tvg-id="" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="┃UK┃ TNT SPORTS RAW DOLBY",┃UK┃ TNT SPORTS 1 RAW 50FPS
-http://91.208.115.23:80/play/live.php?mac=00:1A:79:47:36:F9&stream=1174218&extension=ts&play_token=njBrKt2BZP
-#EXTINF:-1 tvg-id="" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="┃UK┃ TNT SPORTS RAW DOLBY",┃UK┃ TNT SPORTS 2 RAW 50FPS
-http://91.208.115.23:80/play/live.php?mac=00:1A:79:47:36:F9&stream=1174219&extension=ts&play_token=RmDVkCRvRB
-#EXTINF:-1 tvg-id="" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="┃UK┃ TNT SPORTS RAW DOLBY",┃UK┃ TNT SPORTS 3 RAW 50FPS
-http://91.208.115.23:80/play/live.php?mac=00:1A:79:47:36:F9&stream=1174220&extension=ts&play_token=S8oRdC8shh
-#EXTINF:-1 tvg-id="" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="┃UK┃ TNT SPORTS RAW DOLBY",┃UK┃ TNT SPORTS 4 RAW 50FPS
-http://91.208.115.23:80/play/live.php?mac=00:1A:79:47:36:F9&stream=1174221&extension=ts&play_token=qcIhspN7h9
-#EXTINF:-1 tvg-id="" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="┃UK┃ TNT SPORTS RAW DOLBY",☰☰☰☰ ┃UK┃ TNT SPORTS RAW ☰☰☰☰
-http://91.208.115.23:80/play/live.php?mac=00:1A:79:47:36:F9&stream=1174222&extension=ts&play_token=pNSWXLFWmS
-#EXTINF:-1 tvg-id="" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="┃UK┃ TNT SPORTS RAW DOLBY",┃UK┃ TNT SPORTS 1 RAW
-http://91.208.115.23:80/play/live.php?mac=00:1A:79:47:36:F9&stream=1174214&extension=ts&play_token=OCspROV4Rc
-#EXTINF:-1 tvg-id="" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="┃UK┃ TNT SPORTS RAW DOLBY",┃UK┃ TNT SPORTS 2 RAW
-http://91.208.115.23:80/play/live.php?mac=00:1A:79:47:36:F9&stream=1174215&extension=ts&play_token=Im5XFk6JUG
-#EXTINF:-1 tvg-id="" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="┃UK┃ TNT SPORTS RAW DOLBY",┃UK┃ TNT SPORTS 3 RAW
-http://91.208.115.23:80/play/live.php?mac=00:1A:79:47:36:F9&stream=1174216&extension=ts&play_token=LYPpTMgVXG
-#EXTINF:-1 tvg-id="" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="┃UK┃ TNT SPORTS RAW DOLBY",┃UK┃ TNT SPORTS 4 RAW
-http://91.208.115.23:80/play/live.php?mac=00:1A:79:47:36:F9&stream=1174217&extension=ts&play_token=N0HKd5R9l3
-#EXTINF:-1 tvg-id="" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="┃UK┃ TNT SPORTS RAW DOLBY",☰☰☰☰ ┃UK┃ TNT SPORTS HEVC RAW ☰☰☰☰
-http://91.208.115.23:80/play/live.php?mac=00:1A:79:47:36:F9&stream=1311893&extension=ts&play_token=cwcPlJwK9O
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="┃UK┃ TNT SPORTS RAW DOLBY",┃UK┃ TNT SPORTS 1 HEVC RAW
-http://91.208.115.23:80/play/live.php?mac=00:1A:79:47:36:F9&stream=1311894&extension=ts&play_token=7JwPmWPkzi
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="┃UK┃ TNT SPORTS RAW DOLBY",┃UK┃ TNT SPORTS 2 HEVC RAW
-http://91.208.115.23:80/play/live.php?mac=00:1A:79:47:36:F9&stream=1311895&extension=ts&play_token=ANUAew0QIK
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="┃UK┃ TNT SPORTS RAW DOLBY",┃UK┃ TNT SPORTS 3 HEVC RAW
-http://91.208.115.23:80/play/live.php?mac=00:1A:79:47:36:F9&stream=1311896&extension=ts&play_token=OIRNLj9dFI
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="┃UK┃ TNT SPORTS RAW DOLBY",┃UK┃ TNT SPORTS 4 HEVC RAW
-http://91.208.115.23:80/play/live.php?mac=00:1A:79:47:36:F9&stream=1311897&extension=ts&play_token=S8sktpAher
-#EXTINF:-1 tvg-id="" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS RAW DOLBY/SKY SPORTS.png" group-title="┃UK┃ SKY SPORTS RAW DOLBY",☰☰☰☰ ┃UK┃ SKY SPORTS 4K ☰☰☰☰
-http://91.208.115.23:80/play/live.php?mac=00:1A:79:47:36:F9&stream=1312010&extension=ts&play_token=ObLg1xmfvz
-#EXTINF:-1 tvg-id="" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/┃UK┃ SKY SPORTS RAW DOLBY/SKY SPORTS MAIN EVENTS.png" group-title="┃UK┃ SKY SPORTS RAW DOLBY",┃UK┃ SKY SPORTS MAIN EVENTS 4K
-http://91.208.115.23:80/play/live.php?mac=00:1A:79:47:36:F9&stream=1312008&extension=ts&play_token=UnNZax2PaS
-#EXTINF:-1 tvg-id="" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS RAW DOLBY/SKY SPORTS F1.png" group-title="┃UK┃ SKY SPORTS RAW DOLBY",┃UK┃ SKY SPORTS F1 4K
-http://91.208.115.23:80/play/live.php?mac=00:1A:79:47:36:F9&stream=1312007&extension=ts&play_token=wPDKcsx4tR
-#EXTINF:-1 tvg-id="" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS RAW DOLBY/SKY SPORTS 1.png" group-title="┃UK┃ SKY SPORTS RAW DOLBY",┃UK┃ SKY SPORTS 1 4K
-http://91.208.115.23:80/play/live.php?mac=00:1A:79:47:36:F9&stream=1312005&extension=ts&play_token=Jel678PqYN
-#EXTINF:-1 tvg-id="" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS RAW DOLBY/SKY SPORTS 2.png" group-title="┃UK┃ SKY SPORTS RAW DOLBY",┃UK┃ SKY SPORTS 2 4K
-http://91.208.115.23:80/play/live.php?mac=00:1A:79:47:36:F9&stream=1312006&extension=ts&play_token=zdZ3HgW9ro
-#EXTINF:-1 tvg-id="" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS RAW DOLBY/SKY SPORTS.png" group-title="┃UK┃ SKY SPORTS RAW DOLBY",☰☰☰☰ ┃UK┃ SKY SPORTS RAW DOLBY ☰☰☰☰
-http://91.208.115.23:80/play/live.php?mac=00:1A:79:47:36:F9&stream=1312009&extension=ts&play_token=NyznlxCYXa
-#EXTINF:-1 tvg-id="" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS RAW DOLBY/SKY SPORTS NEWS.png" group-title="┃UK┃ SKY SPORTS RAW DOLBY",┃UK┃ SKY SPORTS NEWS RAW 50FPS
-http://91.208.115.23:80/play/live.php?mac=00:1A:79:47:36:F9&stream=1312001&extension=ts&play_token=SxHlYegQ1q
-#EXTINF:-1 tvg-id="" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS RAW DOLBY/SKY SPORTS MAIN EVENT.png" group-title="┃UK┃ SKY SPORTS RAW DOLBY",┃UK┃ SKY SPORTS MAIN EVENT 50 FPS
-http://91.208.115.23:80/play/live.php?mac=00:1A:79:47:36:F9&stream=1311999&extension=ts&play_token=TEMbf9yWfF
-#EXTINF:-1 tvg-id="" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS RAW DOLBY/SKY SPORTS PREMIER LEAUGE.png" group-title="┃UK┃ SKY SPORTS RAW DOLBY",┃UK┃ SKY SPORTS PREMIER LEAUGE 50FPS
-http://91.208.115.23:80/play/live.php?mac=00:1A:79:47:36:F9&stream=1312002&extension=ts&play_token=OAXABYgcff
-#EXTINF:-1 tvg-id="" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS RAW DOLBY/SKY SPORTS FOOTBALL.png" group-title="┃UK┃ SKY SPORTS RAW DOLBY",┃UK┃ SKY SPORTS FOOTBALL 50 FPS
-http://91.208.115.23:80/play/live.php?mac=00:1A:79:47:36:F9&stream=1311997&extension=ts&play_token=yfsnHdQGEj
-#EXTINF:-1 tvg-id="" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS RAW DOLBY/SKY SPORTS MIX.png" group-title="┃UK┃ SKY SPORTS RAW DOLBY",┃UK┃ SKY SPORTS MIX RAW 50FPS
-http://91.208.115.23:80/play/live.php?mac=00:1A:79:47:36:F9&stream=1312000&extension=ts&play_token=rdPpDzCqOh
-#EXTINF:-1 tvg-id="" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS RAW DOLBY/SKY SPORTS ACTION.png" group-title="┃UK┃ SKY SPORTS RAW DOLBY",┃UK┃ SKY SPORTS ACTION / NFL RAW 50FPS
-http://91.208.115.23:80/play/live.php?mac=00:1A:79:47:36:F9&stream=1311993&extension=ts&play_token=3EbqrsiwqF
-#EXTINF:-1 tvg-id="" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS RAW DOLBY/SKY SPORTS F1.png" group-title="┃UK┃ SKY SPORTS RAW DOLBY",┃UK┃ SKY SPORTS F1 RAW 50FPS
-http://91.208.115.23:80/play/live.php?mac=00:1A:79:47:36:F9&stream=1311996&extension=ts&play_token=SorWOdunnA
-#EXTINF:-1 tvg-id="" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS RAW DOLBY/SKY SPORTS RACING.png" group-title="┃UK┃ SKY SPORTS RAW DOLBY",┃UK┃ SKY SPORTS RACING RAW 50FPS
-http://91.208.115.23:80/play/live.php?mac=00:1A:79:47:36:F9&stream=1312003&extension=ts&play_token=OoBY4b4pIe
-#EXTINF:-1 tvg-id="" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS RAW DOLBY/SKY SPORTS TENNIS.png" group-title="┃UK┃ SKY SPORTS RAW DOLBY",┃UK┃ SKY SPORTS TENNIS RAW 50FPS
-http://91.208.115.23:80/play/live.php?mac=00:1A:79:47:36:F9&stream=1312004&extension=ts&play_token=msPxaxWrxL
-#EXTINF:-1 tvg-id="" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS RAW DOLBY/SKY SPORTS GOLF.png" group-title="┃UK┃ SKY SPORTS RAW DOLBY",┃UK┃ SKY SPORTS GOLF 50FPS
-http://91.208.115.23:80/play/live.php?mac=00:1A:79:47:36:F9&stream=1311998&extension=ts&play_token=1qazJ43NUV
-#EXTINF:-1 tvg-id="" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS RAW DOLBY/SKY SPORTS CRICKET.png" group-title="┃UK┃ SKY SPORTS RAW DOLBY",┃UK┃ SKY SPORTS CRICKET RAW 50FPS
-http://91.208.115.23:80/play/live.php?mac=00:1A:79:47:36:F9&stream=1311995&extension=ts&play_token=oCY8x3B5ce
-#EXTINF:-1 tvg-id="" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS RAW DOLBY/SKY SPORTS+.png" group-title="┃UK┃ SKY SPORTS RAW DOLBY",┃UK┃ SKY SPORTS+ RAW 50FPS
-http://91.208.115.23:80/play/live.php?mac=00:1A:79:47:36:F9&stream=1311994&extension=ts&play_token=DhHPxeWFjY
-#EXTINF:-1 tvg-id="" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/┃UK┃ HUB PREMIER PPV/HUB PREMIER 1.png" group-title="┃UK┃ HUB PREMIER PPV",┃UK┃ ☰☰☰☰ ┃UK┃ HUB PREMIER PPV ☰☰☰☰
-http://91.208.115.23:80/play/live.php?mac=00:1A:79:47:36:F9&stream=1314076&extension=ts&play_token=iTVxYWRmPs
-#EXTINF:-1 tvg-id="" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/┃UK┃ HUB PREMIER PPV/HUB PREMIER 1.png" group-title="┃UK┃ HUB PREMIER PPV",┃UK┃ HUB PREMIER 2 4K UHD
-http://91.208.115.23:80/play/live.php?mac=00:1A:79:47:36:F9&stream=1314088&extension=ts&play_token=q8x0L2N8Uo
-#EXTINF:-1 tvg-id="" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/┃UK┃ HUB PREMIER PPV/HUB PREMIER 1.png" group-title="┃UK┃ HUB PREMIER PPV",┃UK┃ HUB PREMIER 1 FHD
-http://91.208.115.23:80/play/live.php?mac=00:1A:79:47:36:F9&stream=1314077&extension=ts&play_token=YLXrgNdq6c
-#EXTINF:-1 tvg-id="" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/┃UK┃ HUB PREMIER PPV/HUB PREMIER 2.png" group-title="┃UK┃ HUB PREMIER PPV",┃UK┃ HUB PREMIER 2 FHD
-http://91.208.115.23:80/play/live.php?mac=00:1A:79:47:36:F9&stream=1314078&extension=ts&play_token=fmwD1gwdxZ
-#EXTINF:-1 tvg-id="" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/┃UK┃ HUB PREMIER PPV/HUB PREMIER 3.png" group-title="┃UK┃ HUB PREMIER PPV",┃UK┃ HUB PREMIER 3 FHD
-http://91.208.115.23:80/play/live.php?mac=00:1A:79:47:36:F9&stream=1314079&extension=ts&play_token=IRTr7LlDLD
-#EXTINF:-1 tvg-id="" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/┃UK┃ HUB PREMIER PPV/HUB PREMIER 4.png" group-title="┃UK┃ HUB PREMIER PPV",┃UK┃ HUB PREMIER 4 FHD
-http://91.208.115.23:80/play/live.php?mac=00:1A:79:47:36:F9&stream=1314080&extension=ts&play_token=MO69qsZlPl
-#EXTINF:-1 tvg-id="" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/┃UK┃ HUB PREMIER PPV/HUB PREMIER 5.png" group-title="┃UK┃ HUB PREMIER PPV",┃UK┃ HUB PREMIER 5 FHD
-http://91.208.115.23:80/play/live.php?mac=00:1A:79:47:36:F9&stream=1314081&extension=ts&play_token=wRBO5LkCkH
-#EXTINF:-1 tvg-id="" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/┃UK┃ HUB PREMIER PPV/HUB PREMIER 6.png" group-title="┃UK┃ HUB PREMIER PPV",┃UK┃ HUB PREMIER 6 FHD
-http://91.208.115.23:80/play/live.php?mac=00:1A:79:47:36:F9&stream=1314082&extension=ts&play_token=berZ0zJNBn
-#EXTINF:-1 tvg-id="" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/┃UK┃ HUB PREMIER PPV/HUB PREMIER 7.png" group-title="┃UK┃ HUB PREMIER PPV",┃UK┃ HUB PREMIER 7 FHD
-http://91.208.115.23:80/play/live.php?mac=00:1A:79:47:36:F9&stream=1314083&extension=ts&play_token=yQOnHyYewl
-#EXTINF:-1 tvg-id="" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/┃UK┃ HUB PREMIER PPV/HUB PREMIER 8.png" group-title="┃UK┃ HUB PREMIER PPV",┃UK┃ HUB PREMIER 8 FHD
-http://91.208.115.23:80/play/live.php?mac=00:1A:79:47:36:F9&stream=1314084&extension=ts&play_token=4lZFsnCgLc
-#EXTINF:-1 tvg-id="" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/┃UK┃ HUB PREMIER PPV/HUB PREMIER 9.png" group-title="┃UK┃ HUB PREMIER PPV",┃UK┃ HUB PREMIER 9 FHD
-http://91.208.115.23:80/play/live.php?mac=00:1A:79:47:36:F9&stream=1314085&extension=ts&play_token=aV9GJHaBVc
-#EXTINF:-1 tvg-id="" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/┃UK┃ HUB PREMIER PPV/HUB PREMIER 10.png" group-title="┃UK┃ HUB PREMIER PPV",┃UK┃ HUB PREMIER 10 FHD
-http://91.208.115.23:80/play/live.php?mac=00:1A:79:47:36:F9&stream=1314086&extension=ts&play_token=QW8SvDfu1m
-#EXTINF:-1 tvg-id="" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/┃UK┃ HUB PREMIER PPV/HUB PREMIER 11.png" group-title="┃UK┃ HUB PREMIER PPV",┃UK┃ HUB PREMIER 11 FHD
-http://91.208.115.23:80/play/live.php?mac=00:1A:79:47:36:F9&stream=1314087&extension=ts&play_token=SEw1cKwnvV
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/countries/united-kingdom/--United-Kingdom-Sports--.png" group-title="UK SPORTS",-= United Kingdom Sports =-
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=1433590&extension=ts&play_token=Kx4DMyWNHB
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/united-kingdom/sky-sports-main-event-icon-uk.png" group-title="UK SPORTS",Sky Sports Main Event UK
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=127988&extension=ts&play_token=dzERhRHpM4
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/countries/united-kingdom/sky-sports-main-event-icon-uk.png" group-title="UK SPORTS",Sky Sports Main Event HD UK
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=24461&extension=ts&play_token=rz3q8vux7y
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/united-kingdom/sky-sports-main-event-icon-uk.png" group-title="UK SPORTS",Sky Sports Main Event FHD UK
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=37073&extension=ts&play_token=8Kzi62IezP
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/united-kingdom/sky-sports-main-event-icon-uk.png" group-title="UK SPORTS",Sky Sports Main Event 4K UHD UK [Only On 4K Devices]
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=514345&extension=ts&play_token=UpEFKYeH0h
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/united-kingdom/sky-sports-icon-uk.png" group-title="UK SPORTS",Sky Sports 1 4K UHD UK [Only On 4K Devices]
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=1417263&extension=ts&play_token=sclkk8KY31
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/united-kingdom/sky-sports-icon-uk.png" group-title="UK SPORTS",Sky Sports 2 4K UHD UK [Only On 4K Devices]
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=1417264&extension=ts&play_token=byyvO5UbVP
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/united-kingdom/sky-sports-f1-icon-uk.png" group-title="UK SPORTS",Sky Sports F1 UK
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=127990&extension=ts&play_token=AZV89MvfvJ
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/united-kingdom/sky-sports-f1-icon-uk.png" group-title="UK SPORTS",Sky Sports F1 HD UK
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=24460&extension=ts&play_token=C3KFPJ12yq
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/united-kingdom/sky-sports-f1-icon-uk.png" group-title="UK SPORTS",Sky Sports F1 FHD UK
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=37068&extension=ts&play_token=aEWfLI4GAf
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/united-kingdom/sky-sports-f1-icon-uk.png" group-title="UK SPORTS",Sky Sports F1 4K UHD UK [Only On 4K Devices]
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=1186321&extension=ts&play_token=sJTybJqLTB
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/united-kingdom/sky-sports-cricket-icon-uk.png" group-title="UK SPORTS",Sky Sports Cricket UK
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=127991&extension=ts&play_token=OH6Z76ALX2
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/united-kingdom/sky-sports-cricket-icon-uk.png" group-title="UK SPORTS",Sky Sports Cricket HD UK
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=117730&extension=ts&play_token=5BMYplIctP
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/united-kingdom/sky-sports-cricket-icon-uk.png" group-title="UK SPORTS",Sky Sports Cricket FHD UK
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=37072&extension=ts&play_token=es9hU3uBO0
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/united-kingdom/sky-sports-golf-icon-uk.png" group-title="UK SPORTS",Sky Sports Golf UK
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=127994&extension=ts&play_token=uU4ub6QXcS
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/united-kingdom/sky-sports-golf-icon-uk.png" group-title="UK SPORTS",Sky Sports Golf HD UK
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=38049&extension=ts&play_token=7DKu3Vu4Rh
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/united-kingdom/sky-sports-golf-icon-uk.png" group-title="UK SPORTS",Sky Sports Golf FHD UK
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=37070&extension=ts&play_token=IZAvcwjAGu
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/united-kingdom/sky-sports-tennis-icon-uk.png" group-title="UK SPORTS",Sky Sports Tennis UK
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=865639&extension=ts&play_token=0rI1LGOW7f
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/united-kingdom/sky-sports-tennis-icon-uk.png" group-title="UK SPORTS",Sky Sports Tennis HD UK
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=865638&extension=ts&play_token=ilQ3Ub0vNP
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/united-kingdom/sky-sports-tennis-icon-uk.png" group-title="UK SPORTS",Sky Sports Tennis FHD UK
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=865637&extension=ts&play_token=6USyqUrgc9
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/united-kingdom/sky-sports-arena-icon-uk.png" group-title="UK SPORTS",Sky Sports Arena UK
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=127992&extension=ts&play_token=cvNB3EeCdO
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/united-kingdom/sky-sports-arena-icon-uk.png" group-title="UK SPORTS",Sky Sports Arena HD UK
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=11656&extension=ts&play_token=vZAJhdS007
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/united-kingdom/sky-sports-arena-icon-uk.png" group-title="UK SPORTS",Sky Sports Arena FHD UK
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=11655&extension=ts&play_token=EFAWW8kHDD
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/united-kingdom/sky-sports-action-icon-uk.png" group-title="UK SPORTS",Sky Sports Action UK
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=127993&extension=ts&play_token=PZT2roQFpG
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/united-kingdom/sky-sports-action-icon-uk.png" group-title="UK SPORTS",Sky Sports Action HD UK
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=35621&extension=ts&play_token=00w5137whk
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/united-kingdom/sky-sports-action-icon-uk.png" group-title="UK SPORTS",Sky Sports Action FHD UK
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=37071&extension=ts&play_token=2W8YW0Ew1e
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/united-kingdom/sky-sports-nfl-icon-uk.png" group-title="UK SPORTS",Sky Sports NFL HD UK
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=85893&extension=ts&play_token=ScrrNveimm
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/united-kingdom/sky-sports-nfl-icon-uk.png" group-title="UK SPORTS",Sky Sports NFL FHD UK
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=2113470&extension=ts&play_token=YRKZa16JgV
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/united-kingdom/sky-sports-mix-icon-uk.png" group-title="UK SPORTS",Sky Sports Mix UK
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=127986&extension=ts&play_token=z9IhI1vds7
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/united-kingdom/sky-sports-mix-icon-uk.png" group-title="UK SPORTS",Sky Sports Mix HD UK
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=24462&extension=ts&play_token=kLO7BMlDTp
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/united-kingdom/sky-sports-mix-icon-uk.png" group-title="UK SPORTS",Sky Sports Mix FHD UK
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=8336&extension=ts&play_token=N6Rl9ZGZcn
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/countries/united-kingdom/sky-sports-plus-icon-uk.png" group-title="UK SPORTS",Sky Sports+ UK
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=2113471&extension=ts&play_token=uJwmy6TlpB
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/countries/united-kingdom/sky-sports-plus-icon-uk.png" group-title="UK SPORTS",Sky Sports+ HD UK
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=2113472&extension=ts&play_token=zy2tVF5VDg
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/countries/united-kingdom/sky-sports-plus-icon-uk.png" group-title="UK SPORTS",Sky Sports+ FHD UK
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=959940&extension=ts&play_token=iA9DVUN46k
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/united-kingdom/sky-sports-racing-icon-uk.png" group-title="UK SPORTS",Sky Sports Racing UK
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=1451625&extension=ts&play_token=PsEar6gncd
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/united-kingdom/sky-sports-racing-icon-uk.png" group-title="UK SPORTS",Sky Sports Racing HD UK
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=37959&extension=ts&play_token=L7KOwOlPCA
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/united-kingdom/sky-sports-racing-icon-uk.png" group-title="UK SPORTS",Sky Sports Racing FHD UK
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=39793&extension=ts&play_token=w3ZBW3E9Km
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/united-kingdom/sky-sports-news-icon-uk.png" group-title="UK SPORTS",Sky Sports News UK
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=24463&extension=ts&play_token=tDDfQjWcV4
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/united-kingdom/sky-sports-news-icon-uk.png" group-title="UK SPORTS",Sky Sports News HD UK
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=18362&extension=ts&play_token=xRGA7hRDZQ
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/united-kingdom/sky-sports-news-icon-uk.png" group-title="UK SPORTS",Sky Sports News FHD UK
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=1434780&extension=ts&play_token=fdTjjqDXz7
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/united-kingdom/sky-sports-box-office-icon-uk.png" group-title="UK SPORTS",Sky Sport Box Office UK [Live During Events Only]
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=1451628&extension=ts&play_token=F647rfnFZW
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/united-kingdom/sky-sports-box-office-icon-uk.png" group-title="UK SPORTS",Sky Sport Box Office HD UK [Live During Events Only]
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=353478&extension=ts&play_token=yRMBFl0QZc
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/united-kingdom/sky-sports-box-office-icon-uk.png" group-title="UK SPORTS",Sky Sport Box Office FHD UK [Live During Events Only]
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=353477&extension=ts&play_token=ld6gPYzhNd
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/united-kingdom/sky-sports-premier-league-icon-uk.png" group-title="UK SPORTS",Sky Sports Premier League UK
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=127985&extension=ts&play_token=8HCTDQaAYv
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/united-kingdom/sky-sports-premier-league-icon-uk.png" group-title="UK SPORTS",Sky Sports Premier League HD UK
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=9807&extension=ts&play_token=tnHwWceV5W
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/united-kingdom/sky-sports-premier-league-icon-uk.png" group-title="UK SPORTS",Sky Sports Premier League FHD UK
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=37069&extension=ts&play_token=BLAEum91rD
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/united-kingdom/sky-sports-football-icon-uk.png" group-title="UK SPORTS",Sky Sports Football UK
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=127989&extension=ts&play_token=qLkLX1j1ML
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/united-kingdom/sky-sports-football-icon-uk.png" group-title="UK SPORTS",Sky Sports Football HD UK
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=11659&extension=ts&play_token=nVi5MjQ8uE
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/united-kingdom/sky-sports-football-icon-uk.png" group-title="UK SPORTS",Sky Sports Football FHD UK
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=11658&extension=ts&play_token=UQB11Fo3kp
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/united-kingdom/tnt-sports-1-uk.png" group-title="UK SPORTS",TNT Sports 1 UK
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=128229&extension=ts&play_token=DWD9Eu6RE9
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/united-kingdom/tnt-sports-1-uk.png" group-title="UK SPORTS",TNT Sports 1 HD UK
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=9851&extension=ts&play_token=DNeV5j53j2
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/united-kingdom/tnt-sports-1-uk.png" group-title="UK SPORTS",TNT Sports 1 FHD UK
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=9850&extension=ts&play_token=ufS4WdAilV
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/united-kingdom/tnt-sports-2-uk.png" group-title="UK SPORTS",TNT Sports 2 UK
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=128230&extension=ts&play_token=QzFBSj1XtR
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/united-kingdom/tnt-sports-2-uk.png" group-title="UK SPORTS",TNT Sports 2 HD UK
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=9849&extension=ts&play_token=roD2t1ZIBq
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/united-kingdom/tnt-sports-2-uk.png" group-title="UK SPORTS",TNT Sports 2 FHD UK
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=9848&extension=ts&play_token=btiwocGu07
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/united-kingdom/tnt-sports-3-uk.png" group-title="UK SPORTS",TNT Sports 3 UK
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=128231&extension=ts&play_token=CvgxPxQ76y
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/united-kingdom/tnt-sports-3-uk.png" group-title="UK SPORTS",TNT Sports 3 HD UK
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=9847&extension=ts&play_token=1Ic2n5tt7m
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/united-kingdom/tnt-sports-3-uk.png" group-title="UK SPORTS",TNT Sports 3 FHD UK
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=9846&extension=ts&play_token=wvCoDhTNZB
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/united-kingdom/tnt-sports-4-uk.png" group-title="UK SPORTS",TNT Sports 4 UK
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=389198&extension=ts&play_token=4iISTif0Ub
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/united-kingdom/tnt-sports-4-uk.png" group-title="UK SPORTS",TNT Sports 4 HD UK
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=389197&extension=ts&play_token=MbpjH0bkX4
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/united-kingdom/tnt-sports-4-uk.png" group-title="UK SPORTS",TNT Sports 4 FHD UK
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=23657&extension=ts&play_token=WyLU1qVeMb
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/united-kingdom/tnt-sports-5-uk.png" group-title="UK SPORTS",TNT Sports 5 UK
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=9813&extension=ts&play_token=7Hpt96pQlR
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/united-kingdom/tnt-sports-5-uk.png" group-title="UK SPORTS",TNT Sports 5 FHD UK
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=1001596&extension=ts&play_token=bLrwwIoK2O
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/united-kingdom/tnt-sports-6-uk.png" group-title="UK SPORTS",TNT Sports 6 UK
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=9814&extension=ts&play_token=CgIxiKTAoB
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/united-kingdom/tnt-sports-7-uk.png" group-title="UK SPORTS",TNT Sports 7 UK
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=9815&extension=ts&play_token=0FjL6D0fqH
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/united-kingdom/tnt-sports-8-uk.png" group-title="UK SPORTS",TNT Sports 8 UK
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=9816&extension=ts&play_token=qzDePTSiKq
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/united-kingdom/tnt-sports-9-uk.png" group-title="UK SPORTS",TNT Sports 9 UK
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=9817&extension=ts&play_token=yq47NoBJ7I
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/united-kingdom/tnt-sports-10-uk.png" group-title="UK SPORTS",TNT Sports 10 UK
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=389199&extension=ts&play_token=r0Ia0uhiX8
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/united-kingdom/tnt-sports-box-office-uk.png" group-title="UK SPORTS",TNT Sports Box Office HD UK [Live During Events Only]
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=242562&extension=ts&play_token=U1o8GdJpqZ
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/united-kingdom/tnt-sports-box-office-uk.png" group-title="UK SPORTS",TNT Sports Box Office FHD UK [Live During Events Only]
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=242561&extension=ts&play_token=cG5bI3RiYf
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/united-kingdom/tnt-sports-ultimate-uk.png" group-title="UK SPORTS",TNT Sports Ultimate 4K [Live During Events Only]
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=643684&extension=ts&play_token=NWVKI0ZoLu
+#EXTINF:-1 tvg-id="" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-ITALY/EUROSPORT1.png" group-title="UK SPORTS",Eurosport 1 FHD UK
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=2193334&extension=ts&play_token=050JRUrMPu
+#EXTINF:-1 tvg-id="" tvg-logo="http://xplatinmedia.com:8080/images/589b0e65f4552faff219b48a074cb925.png" group-title="UK SPORTS",Eurosport 2 FHD UK
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=2193335&extension=ts&play_token=JlXT6cgk2Q
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/united-kingdom/premier-sports-1-uk.png" group-title="UK SPORTS",Premier Sports 1 UK
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=128364&extension=ts&play_token=aIfCXWj71T
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/united-kingdom/premier-sports-1-uk.png" group-title="UK SPORTS",Premier Sports 1 HD UK
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=11364&extension=ts&play_token=aI5X25psPp
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/united-kingdom/premier-sports-1-uk.png" group-title="UK SPORTS",Premier Sports 1 FHD UK
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=39094&extension=ts&play_token=0bcOU8cE3K
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/united-kingdom/premier-sports-2-uk.png" group-title="UK SPORTS",Premier Sports 2 UK
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=128365&extension=ts&play_token=n5CgZuS3i8
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/united-kingdom/premier-sports-2-uk.png" group-title="UK SPORTS",Premier Sports 2 HD UK
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=39095&extension=ts&play_token=cjKTgbTCGI
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/united-kingdom/premier-sports-2-uk.png" group-title="UK SPORTS",Premier Sports 2 FHD UK
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=38072&extension=ts&play_token=VMKQqU3Av2
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/countries/united-kingdom/DAZN-Padel-Time-TV-HD-UK-Live-During-Events-Only.png" group-title="UK SPORTS",DAZN Padel Time TV HD UK [Live During Events Only]
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=595193&extension=ts&play_token=l0jSQrFMvG
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/countries/united-kingdom/DAZN-Boxing-TV-HD-UK-Live-During-Events-Only.png" group-title="UK SPORTS",DAZN Boxing TV HD UK [Live During Events Only]
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=595192&extension=ts&play_token=hm6BiU5UUp
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/countries/united-kingdom/DAZN-PPV-FHD-UK-Live-During-Events-Only.png" group-title="UK SPORTS",DAZN PPV FHD UK [Live During Events Only]
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=704687&extension=ts&play_token=IpVnPMPfFj
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/countries/united-kingdom/DAZN-PDC-Darts-HD-UK-Live-During-Events-Only.png" group-title="UK SPORTS",DAZN PDC Darts HD UK [Live During Events Only]
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=719912&extension=ts&play_token=01GBBDJR8l
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/united-kingdom/viaplay-sports-1-uk.png" group-title="UK SPORTS",Viaplay Sports 1 HD UK
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=595188&extension=ts&play_token=4iMmvtmE2Z
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/united-kingdom/viaplay-sports-1-uk.png" group-title="UK SPORTS",Viaplay Sports 1 FHD UK
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=595187&extension=ts&play_token=tij5vwNM3G
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/united-kingdom/viaplay-sports-2-uk.png" group-title="UK SPORTS",Viaplay Sports 2 HD UK
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=595190&extension=ts&play_token=tGQeKitu2X
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/united-kingdom/viaplay-sports-2-uk.png" group-title="UK SPORTS",Viaplay Sports 2 FHD UK
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=595189&extension=ts&play_token=wjcPvFzcbi
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/countries/united-kingdom/local-tv-liverpool-uk.png" group-title="UK SPORTS",Liverpool FC TV HD UK
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=9844&extension=ts&play_token=BIUGua7fyc
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/countries/united-kingdom/local-tv-liverpool-uk.png" group-title="UK SPORTS",Liverpool FC TV FHD UK
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=117748&extension=ts&play_token=ZEv5A3Kona
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/sco/a/a8/Celtic_FC.png" group-title="UK SPORTS",Celtic TV HD UK [Live Matches Only]
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=746811&extension=ts&play_token=m4EAr9EjiN
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/countries/united-kingdom/MUTV-FHD-UK.png" group-title="UK SPORTS",MUTV HD UK
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=56381&extension=ts&play_token=TacUwjfLoi
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/countries/united-kingdom/MUTV-FHD-UK.png" group-title="UK SPORTS",MUTV FHD UK
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=717526&extension=ts&play_token=2CdOL5kzMa
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/united-kingdom/racing-tv-uk.png" group-title="UK SPORTS",Racing TV HD UK
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=117771&extension=ts&play_token=LnMUqzewjr
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/united-kingdom/racing-tv-uk.png" group-title="UK SPORTS",Racing TV FHD UK
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=16132&extension=ts&play_token=HTJliRcS3X
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/logos/LogoEVDTV/Other/by_category/Red%20Bull.png" group-title="UK SPORTS",Red Bull TV FHD UK
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=25084&extension=ts&play_token=kzBxtz3J2I
+#EXTINF:-1 tvg-id="" tvg-logo="http://logos.ti7an.net/logos/ENG_United_Kindon_Sports/LaLiga_TV.png" group-title="UK SPORTS",LaLiga TV FHD UK
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=2125805&extension=ts&play_token=9E6ngToY31
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn2.iconfinder.com/data/icons/america-asia-oceania-africa-3/100/australia-128.png" group-title="Australia & New Zealand",-= Australia =-
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=19813&extension=ts&play_token=NGnKoU1blZ
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Australia & New Zealand",2GB Sydney FHD AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=648963&extension=ts&play_token=3Dv2pgV02s
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Australia & New Zealand",6PR Perth FHD AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=648965&extension=ts&play_token=rFRf04v1oe
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/10-shake-au.png" group-title="Australia & New Zealand",10 Bold Adelaide HD AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=110541&extension=ts&play_token=OwbNJm5UcV
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/10%20Shake%20Sydney%20AU%20(Copy).png" group-title="Australia & New Zealand",10 Shake Brisbane AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=141812&extension=ts&play_token=o8C3cBhMpR
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/10-shake-au.png" group-title="Australia & New Zealand",10 Shake Sydney AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=141814&extension=ts&play_token=REXi3pJaU3
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/7%20FLIX%20AU%20(Copy).png" group-title="Australia & New Zealand",7 FLIX AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=1061745&extension=ts&play_token=UXMbHNf3tH
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/7flix_logo_without_background.png" group-title="Australia & New Zealand",7 Flix Brisbane AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=141768&extension=ts&play_token=QDnIgVnZB8
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/7%20FLIX%20AU%20(Copy).png" group-title="Australia & New Zealand",7 FLIX Melbourne AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=1061741&extension=ts&play_token=0UV0WdgH5L
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/7flix_logo_without_background.png" group-title="Australia & New Zealand",7 Flix Melbourne AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=141769&extension=ts&play_token=QoXS6E0QsL
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/7%20FLIX%20AU%20(Copy).png" group-title="Australia & New Zealand",7 FLIX Perth AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=1061742&extension=ts&play_token=jkuRade5nw
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/7flix_logo_without_background.png" group-title="Australia & New Zealand",7 Flix Perth AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=141770&extension=ts&play_token=SYsJfU7vLH
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/7%20FLIX%20AU%20(Copy).png" group-title="Australia & New Zealand",7 FLIX Sydney AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=1061743&extension=ts&play_token=d3tP7Aa8ZU
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/7flix_logo_without_background.png" group-title="Australia & New Zealand",7 Flix Sydney AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=141771&extension=ts&play_token=IzPUMMQcGN
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/7%20HD%20AU%20(Copy).png" group-title="Australia & New Zealand",7 HD AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=141772&extension=ts&play_token=x1x7v5Ewi3
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/7mate-au.png" group-title="Australia & New Zealand",7 MATE Brisbane AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=1061746&extension=ts&play_token=9299sBD6r9
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/7%20MATE%20HD%20AU%20(Copy).png" group-title="Australia & New Zealand",7 Mate Brisbane AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=141774&extension=ts&play_token=GbUemF1goi
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/7%20MATE%20HD%20AU%20(Copy).png" group-title="Australia & New Zealand",7 MATE HD AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=1061750&extension=ts&play_token=M3w40aWmbe
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/7mate-au.png" group-title="Australia & New Zealand",7 Mate Melbourne AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=141775&extension=ts&play_token=Zwivt3zNP0
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/7%20MATE%20HD%20AU%20(Copy).png" group-title="Australia & New Zealand",7 MATE Melbourne AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=1061747&extension=ts&play_token=Slq2TMf7Wd
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/7mate-au.png" group-title="Australia & New Zealand",7 Mate Perth AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=141776&extension=ts&play_token=CpA82dY5qo
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/7%20MATE%20HD%20AU%20(Copy).png" group-title="Australia & New Zealand",7 MATE Sydney AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=1061749&extension=ts&play_token=WZkuP3ra18
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/7%20MATE%20HD%20AU%20(Copy).png" group-title="Australia & New Zealand",7 Mate Sydney AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=141777&extension=ts&play_token=QuRtKkl2eH
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/Seven_Olympics_logo%20(Copy).png" group-title="Australia & New Zealand",7 Olympic AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=1061751&extension=ts&play_token=WzLQoQcCxd
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/Seven_Olympics_logo%20(Copy).png" group-title="Australia & New Zealand",7 Olympic HD AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=1061752&extension=ts&play_token=BVLSbZ1ofI
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/7two-au.png" group-title="Australia & New Zealand",7 TWO AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=1061756&extension=ts&play_token=pJ9JLWfTmS
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/7two-au.png" group-title="Australia & New Zealand",7 TWO HD AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=1061753&extension=ts&play_token=dTFJgaQlwf
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/7two-au.png" group-title="Australia & New Zealand",7 Two HD AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=141782&extension=ts&play_token=JCAcPtE729
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/7two-au.png" group-title="Australia & New Zealand",7 TWO Sydney AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=1061757&extension=ts&play_token=ldvg9btMBn
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/9Gem%20Adelaide%20HD%20AU%20(Copy).png" group-title="Australia & New Zealand",9 GEM Adelaide AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=1061758&extension=ts&play_token=7rjE3QGVbx
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/nine-gem-au.png" group-title="Australia & New Zealand",9 Gem HD AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=110519&extension=ts&play_token=261aGE0gqs
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/9Gem%20Adelaide%20HD%20AU%20(Copy).png" group-title="Australia & New Zealand",9 GEM HD AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=1061761&extension=ts&play_token=W3yVTkv99X
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/9%20LIFE%20Sydney%20AU%20(Copy).png" group-title="Australia & New Zealand",9 GEM Perth AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=1061771&extension=ts&play_token=DKD8lF9SZ7
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/283c7b13cd99a47b5cec3c408ec87c39.png" group-title="Australia & New Zealand",9 Go! HD AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=110518&extension=ts&play_token=NrM4F2CuB8
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/nine-go-au.png" group-title="Australia & New Zealand",9 GO! Melbourne AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=1061764&extension=ts&play_token=BCcweS5vgS
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/nine-go-au.png" group-title="Australia & New Zealand",9 GO! Perth AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=1061765&extension=ts&play_token=Qkx1nogCL1
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/nine-go-au.png" group-title="Australia & New Zealand",9 GO! Sydney AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=1061766&extension=ts&play_token=kcwDz9N0cR
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/nine-go-au.png" group-title="Australia & New Zealand",9 Go! Sydney AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=65296&extension=ts&play_token=DWozD4eTt5
+#EXTINF:-1 tvg-id="" tvg-logo="https://vectorflags.s3.amazonaws.com/flags/au-circle-01.png" group-title="Australia & New Zealand",9 LIFE AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=1061774&extension=ts&play_token=Qn1GPtV1VC
+#EXTINF:-1 tvg-id="" tvg-logo="https://lo1.in/aust/9lf.png" group-title="Australia & New Zealand",9 Life Brisbane AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=141799&extension=ts&play_token=4A6SWbUPqL
+#EXTINF:-1 tvg-id="" tvg-logo="https://vectorflags.s3.amazonaws.com/flags/au-circle-01.png" group-title="Australia & New Zealand",9 LIFE HD AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=1061773&extension=ts&play_token=CtkHpeEwRi
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/9%20LIFE%20Sydney%20AU%20(Copy).png" group-title="Australia & New Zealand",9 Life HD AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=110517&extension=ts&play_token=0L5GLBhH8g
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/9%20LIFE%20Sydney%20AU%20(Copy).png" group-title="Australia & New Zealand",9 LIFE Perth AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=1061770&extension=ts&play_token=gyhFpfmIv0
+#EXTINF:-1 tvg-id="" tvg-logo="https://img.favpng.com/9/16/18/9life-logo-nine-network-9go-television-png-favpng-QPaQQC4Ngpg9aicZ8uVuQBrRv.jpg" group-title="Australia & New Zealand",9 Life Sydney AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=141800&extension=ts&play_token=Sg1KeB3H95
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/9%20LIFE%20Sydney%20AU%20(Copy).png" group-title="Australia & New Zealand",9 LIFE Sydney AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=1061772&extension=ts&play_token=wECcrbgFRw
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/9Gem%20Adelaide%20HD%20AU%20(Copy).png" group-title="Australia & New Zealand",9Gem Adelaide HD AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=1061696&extension=ts&play_token=S4cJL8XyO6
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/nine-gem-au.png" group-title="Australia & New Zealand",9Gem HD AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=141788&extension=ts&play_token=DPhAg895YP
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/nine-go-au.png" group-title="Australia & New Zealand",9Go! AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=141792&extension=ts&play_token=sxu2wym6WA
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/nine-go-au.png" group-title="Australia & New Zealand",9Go! Melbourne HD AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=1061710&extension=ts&play_token=x4jae2umg0
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/nine-go-au.png" group-title="Australia & New Zealand",9Go! Sydney HD AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=1061715&extension=ts&play_token=z5E3YlV1Xd
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/nine-life-au.png" group-title="Australia & New Zealand",9Life Adelaide HD AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=1061694&extension=ts&play_token=c08Uxoqw5N
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/nine-life-au.png" group-title="Australia & New Zealand",9Life Brisbane HD AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=1061704&extension=ts&play_token=SFZvWJAvgi
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/nine-life-au.png" group-title="Australia & New Zealand",9Life Melbourne HD AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=1061709&extension=ts&play_token=yE0TsTdV8Y
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/nine-life-au.png" group-title="Australia & New Zealand",9Life Perth HD AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=1061699&extension=ts&play_token=zE0t6eC4hW
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/nine-life-au.png" group-title="Australia & New Zealand",9Life Sydney HD AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=1061714&extension=ts&play_token=52d1kBvtJT
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/nine-rush-au.png" group-title="Australia & New Zealand",9Rush Adelaide HD AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=1061693&extension=ts&play_token=Ir46qsuhzY
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/nine-rush-au.png" group-title="Australia & New Zealand",9Rush AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=141806&extension=ts&play_token=oQ5Idh4iM0
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/nine-rush-au.png" group-title="Australia & New Zealand",9Rush Melbourne HD AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=1061708&extension=ts&play_token=rM6zB3ohd9
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/nine-rush-au.png" group-title="Australia & New Zealand",9Rush Sydney AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=141805&extension=ts&play_token=AcOHJXNo2o
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/nine-rush-au.png" group-title="Australia & New Zealand",9Rush Sydney HD AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=1061713&extension=ts&play_token=9Q8BvWqbzQ
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/ABC%20Sydney%20HD%20AU%20(Copy).png" group-title="Australia & New Zealand",ABC Adelaide HD AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=1061628&extension=ts&play_token=pli5yAiLWr
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/abc-au.png" group-title="Australia & New Zealand",ABC Australia HD AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=60002&extension=ts&play_token=n21C3znRwr
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/ABC%20Brisbane%20AU%20(Copy).png" group-title="Australia & New Zealand",ABC Brisbane AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=141820&extension=ts&play_token=rzi6i9Hgbr
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/ABC%20Sydney%20HD%20AU%20(Copy).png" group-title="Australia & New Zealand",ABC Brisbane HD AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=1061630&extension=ts&play_token=Wom2CSVeYa
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/ABC%20Sydney%20HD%20AU%20(Copy).png" group-title="Australia & New Zealand",ABC Canberra HD AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=1061627&extension=ts&play_token=IO781XQYgz
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/ABC%20Sydney%20HD%20AU%20(Copy).png" group-title="Australia & New Zealand",ABC Darwin HD AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=1061626&extension=ts&play_token=V9IWMC2E6N
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/ABC%20HD%20AU%20(1)%20(Copy).png" group-title="Australia & New Zealand",ABC HD AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=1061781&extension=ts&play_token=TbURXQdBBg
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/ABC%20Sydney%20HD%20AU%20(Copy).png" group-title="Australia & New Zealand",ABC Hobart HD AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=1061625&extension=ts&play_token=fkAiM5EiA6
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/abc-kids-au.png" group-title="Australia & New Zealand",ABC Kids AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=1061624&extension=ts&play_token=iFhK0BN4vY
+#EXTINF:-1 tvg-id="" tvg-logo="https://vectorflags.s3.amazonaws.com/flags/au-circle-01.png" group-title="Australia & New Zealand",ABC Kids AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=1061776&extension=ts&play_token=yP4gkEgG9j
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/abc-kids-hz-au.png" group-title="Australia & New Zealand",ABC Kids National AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=141824&extension=ts&play_token=9hWkviJdCr
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/abc-kids-au.png" group-title="Australia & New Zealand",ABC Kids Sydney HD AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=110531&extension=ts&play_token=0R1WHVayAG
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/abc-me%20(Copy).png" group-title="Australia & New Zealand",ABC ME AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=1061622&extension=ts&play_token=TcO6djfbfw
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Australia & New Zealand",ABC Entertains HD AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=141827&extension=ts&play_token=u1ADGvYDsO
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/abc-me%20(Copy).png" group-title="Australia & New Zealand",ABC Me HD AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=141828&extension=ts&play_token=jhdQ5YJVOt
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.imgbin.com/13/5/15/imgbin-australia-abc-me-television-show-broadcasting-abc-9fHYKsyuB281jVTwFBu8MHFhC.jpg" group-title="Australia & New Zealand",ABC Melbourne AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=59999&extension=ts&play_token=E06WGOb2zD
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/ABC%20Sydney%20HD%20AU%20(Copy).png" group-title="Australia & New Zealand",ABC Melbourne HD AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=1061631&extension=ts&play_token=1YN82X0jmM
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/ABC%20HD%20AU%20(1)%20(Copy).png" group-title="Australia & New Zealand",ABC News 24 HD AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=1061778&extension=ts&play_token=mlVY5j5Vkn
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/abc-news-au.png" group-title="Australia & New Zealand",ABC News AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=141834&extension=ts&play_token=5LMcYy6wVh
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/abc-news-au.png" group-title="Australia & New Zealand",ABC NEWS AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=1061621&extension=ts&play_token=OEakg0l1Vf
+#EXTINF:-1 tvg-id="" tvg-logo="http://138.199.27.237:8080/0tv_logo/3504.png" group-title="Australia & New Zealand",ABC News Perth HD AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=110540&extension=ts&play_token=b0hmYF65a3
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/ABC%20HD%20AU%20(1)%20(Copy).png" group-title="Australia & New Zealand",ABC One HD AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=141838&extension=ts&play_token=zhyR7UTSKY
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/ABC%20HD%20AU%20(1)%20(Copy).png" group-title="Australia & New Zealand",ABC Perth AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=1061779&extension=ts&play_token=36c2pLqLwh
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/ABC%20Sydney%20HD%20AU%20(Copy).png" group-title="Australia & New Zealand",ABC Perth HD AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=1061629&extension=ts&play_token=PKGUOtRWn3
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/ABC%20Sydney%20HD%20AU%20(Copy).png" group-title="Australia & New Zealand",ABC Sydney HD AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=1061632&extension=ts&play_token=UvRxlFzvHJ
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/ABC%20HD%20AU%20(1)%20(Copy).png" group-title="Australia & New Zealand",ABC TV Plus AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=1061780&extension=ts&play_token=0hso8KlMQ1
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/abc-family-au.png" group-title="Australia & New Zealand",ABC TV Plus AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=1061623&extension=ts&play_token=gNl17YYWf6
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/ACC%20TV%20AU%20(Copy).png" group-title="Australia & New Zealand",ACC TV AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=1061783&extension=ts&play_token=VMPWGkZFSH
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/ausbiz-au.png" group-title="Australia & New Zealand",ausbiz TV HD AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=1061638&extension=ts&play_token=1JuQnXD64f
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/Ausbiz%20TV%20HD%20AU%20(Copy).png" group-title="Australia & New Zealand",Ausbiz TV HD AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=1061785&extension=ts&play_token=BpJfF47yQz
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa.png" group-title="Australia & New Zealand",beIN Sports 1 AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=141846&extension=ts&play_token=9RrTTjnyXJ
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/Bloomberg%20Australia%20AU%20(Copy).png" group-title="Australia & New Zealand",Bloomberg Australia AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=1061787&extension=ts&play_token=RaTSNaeXaH
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/Bloomberg%20Australia%20AU%20(Copy).png" group-title="Australia & New Zealand",Bloomberg TV Asia HD AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=60047&extension=ts&play_token=UKT5sEGzda
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/Bloomberg%20Australia%20AU%20(Copy).png" group-title="Australia & New Zealand",Bloomberg TV Asia Live Event HD AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=110515&extension=ts&play_token=rSfAwWudA1
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/Channel%2031%20Melbourne%20AU%20(Copy).png" group-title="Australia & New Zealand",Channel 31 Melbourne AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=1061789&extension=ts&play_token=0HYBeE6srI
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Australia & New Zealand",CTB Perth News HD AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=1061684&extension=ts&play_token=SNKGrpIVMu
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/1024px-Flag_of_Australia_%28converted%29.svg.png" group-title="Australia & New Zealand",CTB Perth Movies HD AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=1061688&extension=ts&play_token=vcZoZanjvo
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Australia & New Zealand",CTB Perth HD AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=1061686&extension=ts&play_token=3w1Tsjy22Q
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/52/Nine2012_Glossed_Logo.png" group-title="Australia & New Zealand",Channel 9 Brisbane AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=1061791&extension=ts&play_token=vRj92VjClH
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/Channel%209%20Sydney%20HD%20AU%20(Copy).png" group-title="Australia & New Zealand",Channel 9 Brisbane AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=65297&extension=ts&play_token=tMaEhE171s
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/52/Nine2012_Glossed_Logo.png" group-title="Australia & New Zealand",Channel 9 HD AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=1061796&extension=ts&play_token=skSKkaCznI
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/52/Nine2012_Glossed_Logo.png" group-title="Australia & New Zealand",Channel 9 Melbourne HD AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=1061792&extension=ts&play_token=iox3f0K0Vu
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/Channel%209%20Sydney%20HD%20AU%20(Copy).png" group-title="Australia & New Zealand",Channel 9 Sydney AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=65298&extension=ts&play_token=XXPm1bYvyR
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/52/Nine2012_Glossed_Logo.png" group-title="Australia & New Zealand",Channel 9 Sydney AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=1061795&extension=ts&play_token=av4hEYrk2s
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/Channel%209%20Sydney%20HD%20AU%20(Copy).png" group-title="Australia & New Zealand",Channel 9 Sydney HD AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=1061717&extension=ts&play_token=tDl0SWnlpD
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/Channel%20News%20Asia%20(CNA)%20HD%20AU%20(Copy).png" group-title="Australia & New Zealand",Channel News Asia (CNA) HD AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=1061646&extension=ts&play_token=5AXkohxKM3
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/Cooking%20&%20Culture%20AU%20(Copy).png" group-title="Australia & New Zealand",Cooking & Culture AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=1061666&extension=ts&play_token=oEqykyi8wt
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/ee/espn_us.png" group-title="Australia & New Zealand",ESPN 1 AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=141786&extension=ts&play_token=0fXtitEmcC
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/ESPN%202%20FHD%20AU%20(Copy).png" group-title="Australia & New Zealand",ESPN 1 FHD AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=1061799&extension=ts&play_token=6Nd5YjpiLX
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/ESPN%202%20FHD%20AU%20(Copy).png" group-title="Australia & New Zealand",ESPN 2 FHD AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=1061800&extension=ts&play_token=PmxGkOVQ39
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/espn-2-au.png" group-title="Australia & New Zealand",ESPN 2 HD AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=141848&extension=ts&play_token=0RKnPUf31N
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/Flow%20Sports%201%20AU%20(Copy).png" group-title="Australia & New Zealand",Flow Sports 1 AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=1061802&extension=ts&play_token=Ik5Ku7WEER
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/Fox%20Sports%20501%20AU%20(Copy).png" group-title="Australia & New Zealand",Fox Sports 501 AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=141764&extension=ts&play_token=uk1TVoSI13
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/FOX%20Sports%20News%20HD%20AU%20(Copy).png" group-title="Australia & New Zealand",FOX Sports 501 Cricket HD AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=1061804&extension=ts&play_token=JGTmq2HUyK
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/FOX%20LEAGUE%202%20(Copy).png" group-title="Australia & New Zealand",Fox Sports 502 AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=141763&extension=ts&play_token=YnRINWRwzO
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/FOX%20Sports%20News%20HD%20AU%20(Copy).png" group-title="Australia & New Zealand",FOX Sports 502 Leauge HD AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=1061805&extension=ts&play_token=pUOoal9g7Q
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/fox-sports-503-hd-au.png" group-title="Australia & New Zealand",Fox Sports 503 AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=141762&extension=ts&play_token=oCUFLaB8VE
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/FOX%20Sports%20News%20HD%20AU%20(Copy).png" group-title="Australia & New Zealand",FOX Sports 503 HD AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=1061806&extension=ts&play_token=kIntzmiJkg
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/tRN8ck9M/Fox-Sports504-HD.jpg" group-title="Australia & New Zealand",Fox Sports 504 AFL AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=141761&extension=ts&play_token=5vLB9F71R7
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/FOX%20Sports%20News%20HD%20AU%20(Copy).png" group-title="Australia & New Zealand",FOX Sports 504 Fotty HD AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=1061807&extension=ts&play_token=CNwlm8oxMY
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox-sports-505-us-au.png" group-title="Australia & New Zealand",Fox Sports 505 AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=141760&extension=ts&play_token=ZGTJ10mo55
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/FOX%20Sports%20News%20HD%20AU%20(Copy).png" group-title="Australia & New Zealand",FOX Sports 505 HD AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=1061808&extension=ts&play_token=2y1ohlpaPm
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/HWytNkHv/Fox-Sports506-HD.jpg" group-title="Australia & New Zealand",Fox Sports 506 AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=141759&extension=ts&play_token=eIUIguL1qT
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/FOX%20Sports%20News%20HD%20AU%20(Copy).png" group-title="Australia & New Zealand",FOX Sports 506 HD AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=1061809&extension=ts&play_token=Q6TdCvbLlB
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/fox-sports-507-au.png" group-title="Australia & New Zealand",Fox Sports 507 AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=141758&extension=ts&play_token=AtXnoxl75W
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/FOX%20Sports%20News%20HD%20AU%20(Copy).png" group-title="Australia & New Zealand",FOX Sports 507 HD AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=1061810&extension=ts&play_token=C4kdyim73i
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/fox-sports-news-hd-au.png" group-title="Australia & New Zealand",Fox Sports News HD AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=141765&extension=ts&play_token=1XMuAkRcFj
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/FOX%20Sports%20News%20HD%20AU%20(Copy).png" group-title="Australia & New Zealand",FOX Sports News HD AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=1061811&extension=ts&play_token=P2kLtAl8nR
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/Fuel%20TV%20HD%20AU%20(Copy).png" group-title="Australia & New Zealand",Fuel TV HD AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=1061812&extension=ts&play_token=THSWnYGfy3
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/nine-au.png" group-title="Australia & New Zealand",Nine Melbourne HD AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=1061712&extension=ts&play_token=kpIczT2dbQ
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/optus-sport-au.png" group-title="Australia & New Zealand",Optus Sport  11 HD AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=350490&extension=ts&play_token=ROfQJyNTsH
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/optus-sport-1-au.png" group-title="Australia & New Zealand",Optus Sport 1 HD AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=350480&extension=ts&play_token=189SYAuZ66
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/optus-sport-au.png" group-title="Australia & New Zealand",Optus Sport 10 HD AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=350489&extension=ts&play_token=UNUXKfCCdd
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/optus-sport-au.png" group-title="Australia & New Zealand",Optus Sport 12 HD AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=350491&extension=ts&play_token=9v5nwvkqz5
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/optus-sport-2-au.png" group-title="Australia & New Zealand",Optus Sport 2 HD AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=350481&extension=ts&play_token=s6IzbiUfoH
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/optus-sport-3-au.png" group-title="Australia & New Zealand",Optus Sport 3 HD AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=350482&extension=ts&play_token=6BQuYPXmKW
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/optus-sport-4-au.png" group-title="Australia & New Zealand",Optus Sport 4  HD AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=350483&extension=ts&play_token=ArUS7guqUp
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/optus-sport-5-au.png" group-title="Australia & New Zealand",Optus Sport 5 HD AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=350484&extension=ts&play_token=6J87TgnuF0
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/optus-sport-6-au.png" group-title="Australia & New Zealand",Optus Sport 6 HD AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=350485&extension=ts&play_token=8xENcxN5V0
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/optus-sport-7-au.png" group-title="Australia & New Zealand",Optus Sport 7 HD AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=350486&extension=ts&play_token=01DIzajrMD
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/optus-sport-au.png" group-title="Australia & New Zealand",Optus Sport 8 HD AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=350487&extension=ts&play_token=VyrjezR1O7
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/optus-sport-au.png" group-title="Australia & New Zealand",Optus Sport 9 HD AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=350488&extension=ts&play_token=oz6zAJzwxq
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/outdoor-channel-au.png" group-title="Australia & New Zealand",Outdoor Channel HD AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=141857&extension=ts&play_token=sjuFwEsAR6
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/PAC%2012%20Network%20AU%20(Copy).png" group-title="Australia & New Zealand",PAC 12 Network AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=1061818&extension=ts&play_token=dyO9mcdhQh
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/PAC%2012%20Network%20AU%20(Copy).png" group-title="Australia & New Zealand",PAC 12 Network HD AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=1061817&extension=ts&play_token=iXzIGvmahx
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/RACING%20AU%20(Copy).png" group-title="Australia & New Zealand",RACING AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=141863&extension=ts&play_token=jAMiWBGDZw
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/Racing.com%20HD%20AU%20(Copy).png" group-title="Australia & New Zealand",Racing.com HD AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=1061819&extension=ts&play_token=nMgmfqeVXX
+#EXTINF:-1 tvg-id="" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51OvgIyfLDL._SY400_.png" group-title="Australia & New Zealand",Redbull TV AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=141867&extension=ts&play_token=ujbTnIDBIe
+#EXTINF:-1 tvg-id="" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51OvgIyfLDL._SY400_.png" group-title="Australia & New Zealand",Redbull TV National AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=141869&extension=ts&play_token=Li4fgtLjfM
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/SBS%20Brisbane%20AU%20(Copy).png" group-title="Australia & New Zealand",SBS Brisbane AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=1061821&extension=ts&play_token=GESn0BLmCt
+#EXTINF:-1 tvg-id="" tvg-logo="http://138.199.27.237:8080/0tv_logo/3502.png" group-title="Australia & New Zealand",SBS Brisbane AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=141870&extension=ts&play_token=HcPr4sIeTm
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/sbs-food-au.png" group-title="Australia & New Zealand",SBS Food AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=141872&extension=ts&play_token=EvN5IlUzdj
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/SBS%20Food%20HD%20AU%20new%20(Copy).png" group-title="Australia & New Zealand",SBS Food HD AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=1061822&extension=ts&play_token=gVlbSiiPvA
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/SBS%20HD%20AU.webp" group-title="Australia & New Zealand",SBS HD AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=1061830&extension=ts&play_token=3Jorjo3ZUe
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/sbs-au.png" group-title="Australia & New Zealand",SBS HD AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=1061633&extension=ts&play_token=jkYjpmVe87
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/SBS%20Perth%20AU%20new.png" group-title="Australia & New Zealand",SBS Melbourne AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=1061823&extension=ts&play_token=vWpuuyPCC1
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/SBS%20Perth%20AU%20new.png" group-title="Australia & New Zealand",SBS NITV HD AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=1061824&extension=ts&play_token=rUFIGHQOUO
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/SBS%20Perth%20AU%20new.png" group-title="Australia & New Zealand",SBS Perth AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=1061825&extension=ts&play_token=KfvO4esRRO
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/sbs-viceland-au.png" group-title="Australia & New Zealand",SBS Viceland AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=141883&extension=ts&play_token=saZWFYtzH8
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/sbs-viceland-au.png" group-title="Australia & New Zealand",SBS VICELAND MELBOURNE HD AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=1061634&extension=ts&play_token=nuvZitCOmS
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/SBS%20World%20Movies%20AU.webp" group-title="Australia & New Zealand",SBS World Movies AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=1061829&extension=ts&play_token=KkHRZ0bvE2
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/sbs-world-watch-hz-au.png" group-title="Australia & New Zealand",SBS World Movies HD AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=1061636&extension=ts&play_token=HZyRPsbCi1
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/sbs-world-movies-au.png" group-title="Australia & New Zealand",SBS World Movies HD AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=1061828&extension=ts&play_token=5CelKDOSm2
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/SBS_World_Movies_logo_2019.svg/1200px-SBS_World_Movies_logo_2019.svg.png" group-title="Australia & New Zealand",SBS World Movies National AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=141884&extension=ts&play_token=ajGu0wr0zQ
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/SBS_World_Movies_logo_2019.svg/1200px-SBS_World_Movies_logo_2019.svg.png" group-title="Australia & New Zealand",SBS World Movies Perth AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=141885&extension=ts&play_token=fPA3pdLAgL
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/sbs-world-watch-hz-au.png" group-title="Australia & New Zealand",SBS World Watch HD AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=1061637&extension=ts&play_token=veu8kaGBKb
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/e05a308babbf1307d7dadc339aeb6194.png" group-title="Australia & New Zealand",Seven HD AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=686246&extension=ts&play_token=knLNuGHe4C
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/SEVEN%20Melbourne%20AU.webp" group-title="Australia & New Zealand",SEVEN Melbourne AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=1061832&extension=ts&play_token=4adiufQuSO
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/SEVEN%20Sydney%20AU.webp" group-title="Australia & New Zealand",SEVEN Sydney AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=1061834&extension=ts&play_token=3dAnzdU3b1
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/sky-news-au.png" group-title="Australia & New Zealand",Sky News AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=60114&extension=ts&play_token=xj2TVdbwcR
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/sky-news-extra-au.png" group-title="Australia & New Zealand",Sky News Extra 3 AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=1061838&extension=ts&play_token=wH7C4sPIBP
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/sky-news-extra-au.png" group-title="Australia & New Zealand",Sky News Extra AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=141889&extension=ts&play_token=G2FQrDmLO3
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/sky-news-extra-au.png" group-title="Australia & New Zealand",Sky News Extra 2 AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=1061837&extension=ts&play_token=hv6Lghw8Fu
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/UFC%20Main%20Event%20HD%20AU%20%5bKAYO%20(Copy).png" group-title="Australia & New Zealand",UFC Main Event HD AU [KAYO}
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=1061641&extension=ts&play_token=PVmHNOmU0E
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/Sky%20Racing%20-%20Thoroughbred%20Central%20HD%20AU%20(Copy).png" group-title="Australia & New Zealand",Sky Racing #2 HD AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=1061642&extension=ts&play_token=UrIsr0DCVD
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/Sky%20Racing%20-%20Thoroughbred%20Central%20HD%20AU%20(Copy).png" group-title="Australia & New Zealand",Sky Racing - Thoroughbred Central HD AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=1061643&extension=ts&play_token=2QFpJGFWVB
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/sky-racing-1-au.png" group-title="Australia & New Zealand",Sky Racing 1 AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=141890&extension=ts&play_token=dkMHCMR6SV
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky_au_racing_2.png" group-title="Australia & New Zealand",Sky Racing 2 AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=60124&extension=ts&play_token=PEhsWkdL28
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/SMTV%20FHD%20AU.webp" group-title="Australia & New Zealand",SMTV FHD AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=1061839&extension=ts&play_token=UARFI7fbxp
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/TEN%20HD%20AU%20(Copy).png" group-title="Australia & New Zealand",TEN HD AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=648966&extension=ts&play_token=zuD56MdKoE
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/TEN%20HD%20AU%20AU.webp" group-title="Australia & New Zealand",TEN HD AU AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=1061846&extension=ts&play_token=hcCaeQxj1W
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/TEN%20Peach%20AU.webp" group-title="Australia & New Zealand",TEN Peach AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=1061843&extension=ts&play_token=ARoj5W51K7
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/TEN%20Sydney%20AU.webp" group-title="Australia & New Zealand",TEN Sydney AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=1061845&extension=ts&play_token=QHJkLrFBcP
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/tvsn-au.png" group-title="Australia & New Zealand",TVSN HD AU AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=1061847&extension=ts&play_token=mKnVA5Epxv
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/tvsn-au.png" group-title="Australia & New Zealand",TVSN Beauty HD AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=60103&extension=ts&play_token=oVB9bbA9WZ
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/TVSN%20Jewellery%20AU%20(Copy).png" group-title="Australia & New Zealand",TVSN Jewellery AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=1061648&extension=ts&play_token=f1o3AsS2WM
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/Wicked%20Tuna%20AU%20(Copy).png" group-title="Australia & New Zealand",Wicked Tuna AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=1061661&extension=ts&play_token=t7gGRbGg6d
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/Wonder%20HD%20AU%20(1)%20(Copy).png" group-title="Australia & New Zealand",Wonder HD AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=110543&extension=ts&play_token=Gv9I4E72UB
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/Stan%20Sport%2020%20FHD%20AU%20(Copy).png" group-title="Australia & New Zealand",AU (STAN 01) | Guadalajara: Day 3  WTA 500 (2026-09-16 05:00:29)
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=621912&extension=ts&play_token=eb09Ryuoj4
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/Stan%20Sport%2020%20FHD%20AU%20(Copy).png" group-title="Australia & New Zealand",AU (STAN 02) | AraratArmenia v Sparta Praha  UEFA Europa League 2026/2027 (2026-09-17 02:40:29)
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=621913&extension=ts&play_token=fQzHl18sR8
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/Stan%20Sport%2020%20FHD%20AU%20(Copy).png" group-title="Australia & New Zealand",AU (STAN 03) | Omonia Nicosia v Celta de Vigo  UEFA Europa League 2026/2027 (2026-09-17 02:40:34)
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=621914&extension=ts&play_token=J8wbofZx9v
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/Stan%20Sport%2020%20FHD%20AU%20(Copy).png" group-title="Australia & New Zealand",Stan Sport 4 FHD AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=621915&extension=ts&play_token=Xy1RrG7WBo
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/Stan%20Sport%2020%20FHD%20AU%20(Copy).png" group-title="Australia & New Zealand",Stan Sport 5 FHD AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=621916&extension=ts&play_token=6QlMJdnD5N
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/Stan%20Sport%2020%20FHD%20AU%20(Copy).png" group-title="Australia & New Zealand",Stan Sport 6 FHD AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=621917&extension=ts&play_token=p6xRT34tLE
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/Stan%20Sport%2020%20FHD%20AU%20(Copy).png" group-title="Australia & New Zealand",Stan Sport 7 FHD AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=621918&extension=ts&play_token=dFRslJv6EA
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/Stan%20Sport%2020%20FHD%20AU%20(Copy).png" group-title="Australia & New Zealand",Stan Sport 8 FHD AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=621919&extension=ts&play_token=RwlT5EPTKO
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/Stan%20Sport%2020%20FHD%20AU%20(Copy).png" group-title="Australia & New Zealand",Stan Sport 9 FHD AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=621920&extension=ts&play_token=DXhMNT59nC
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/Stan%20Sport%2020%20FHD%20AU%20(Copy).png" group-title="Australia & New Zealand",Stan Sport 10 FHD AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=621921&extension=ts&play_token=M0EsBvN4wD
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/Stan%20Sport%2020%20FHD%20AU%20(Copy).png" group-title="Australia & New Zealand",Stan Sport 11 FHD AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=621922&extension=ts&play_token=6kRFv6bxgn
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/Stan%20Sport%2020%20FHD%20AU%20(Copy).png" group-title="Australia & New Zealand",Stan Sport 12 FHD AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=621923&extension=ts&play_token=ZXGmyId8p9
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/Stan%20Sport%2020%20FHD%20AU%20(Copy).png" group-title="Australia & New Zealand",Stan Sport 13 FHD AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=621924&extension=ts&play_token=w3eVZua7cS
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/Stan%20Sport%2020%20FHD%20AU%20(Copy).png" group-title="Australia & New Zealand",Stan Sport 14 FHD AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=621925&extension=ts&play_token=gYf42tNfHp
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/Stan%20Sport%2020%20FHD%20AU%20(Copy).png" group-title="Australia & New Zealand",Stan Sport 15 FHD AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=621926&extension=ts&play_token=KZQ7i0mpus
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/Stan%20Sport%2020%20FHD%20AU%20(Copy).png" group-title="Australia & New Zealand",Stan Sport 16 FHD AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=621927&extension=ts&play_token=japhKXM5bB
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/Stan%20Sport%2020%20FHD%20AU%20(Copy).png" group-title="Australia & New Zealand",Stan Sport 17 FHD AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=621928&extension=ts&play_token=LRsi3ShO08
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/Stan%20Sport%2020%20FHD%20AU%20(Copy).png" group-title="Australia & New Zealand",Stan Sport 18 FHD AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=621929&extension=ts&play_token=y9jW72Y69c
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/Stan%20Sport%2020%20FHD%20AU%20(Copy).png" group-title="Australia & New Zealand",Stan Sport 19 FHD AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=621930&extension=ts&play_token=MW4qbELrIh
+#EXTINF:-1 tvg-id="" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/australia/Stan%20Sport%2020%20FHD%20AU%20(Copy).png" group-title="Australia & New Zealand",Stan Sport 20 FHD AU
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=621931&extension=ts&play_token=lPIg1Otfie
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Australia & New Zealand",AU (STAN 21) | Juventus v NEC  UEFA Europa League 2026/2027 (2026-09-18 04:55:59)
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=2325171&extension=ts&play_token=cLpKSA1cYY
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Australia & New Zealand",AU (STAN 22) | Guadalajara: Day 5  WTA 500 (2026-09-18 05:00:29)
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=2325172&extension=ts&play_token=qkGKtZmv7u
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Australia & New Zealand",AU (STAN 23) | Tasman v Auckland  NPC Round 8 2026 (2026-09-18 17:00:29)
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=2325173&extension=ts&play_token=Ibsy4JizPU
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Australia & New Zealand",AU (STAN 24) | São Paulo: Day 5  WTA 250 (2026-09-19 02:00:29)
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=2325174&extension=ts&play_token=foOWwZr8aS
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Australia & New Zealand",AU (STAN 25) | Biarritz  Ultimate Sevens Round 2 2026 (2026-09-19 02:30:29)
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=2325175&extension=ts&play_token=9GOdz884tE
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Australia & New Zealand",AU (STAN 26) | Manchester City v Liverpool  WSL 2026/27 (2026-09-19 03:50:29)
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=2325176&extension=ts&play_token=dk47hWj4TX
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Australia & New Zealand",AU (STAN 27) | Wales v South Africa  WXV 2026 (2026-09-19 04:05:29)
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=2325177&extension=ts&play_token=Yc64t7IjdC
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Australia & New Zealand",AU (STAN 28) | Brentford v Chelsea  Premier League Matchweek 5 2026/2027 (2026-09-19 04:30:29)
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=2325178&extension=ts&play_token=ymhfVVR6Wy
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Australia & New Zealand",AU (STAN 29) | Guadalajara: Day 6  WTA 500 (2026-09-19 09:00:29)
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=2325179&extension=ts&play_token=JiLzCQwZdj
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Australia & New Zealand",AU (STAN 30) | Bay of Plenty v Auckland  Farah Palmer Cup Round 4 2026 (2026-09-19 09:30:29)
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=2325180&extension=ts&play_token=GIOXjJZm7r
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Australia & New Zealand",AU (STAN 31) | Bay of Plenty v Hawke`s Bay  NPC Round 8 2026 (2026-09-19 12:00:29)
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=2325181&extension=ts&play_token=TkGI8hAwyU
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Australia & New Zealand",AU (STAN 32) | Wellington v Northland  Farah Palmer Cup Round 4 2026 (2026-09-19 14:30:29)
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=2325182&extension=ts&play_token=osC8Vq163h
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Australia & New Zealand",AU (STAN 33) | Waikato v Manawatū  NPC Round 8 2026 (2026-09-19 15:00:29)
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=2325183&extension=ts&play_token=mB2XjIOQUC
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Australia & New Zealand",AU (STAN 34) | Canada v USA  Pacific Nations Cup 3rd Place Playoffs 2026 (2026-09-19 16:50:29)
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=2325184&extension=ts&play_token=A5qGPlVGa3
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Australia & New Zealand",AU (STAN 35) | Wellington v Northland  NPC Round 8 2026 (2026-09-19 17:00:29)
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=2325185&extension=ts&play_token=XX2vhcfWui
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Australia & New Zealand",AU (STAN 36) | Bucheon v Gimcheon  K League 2026 (2026-09-19 17:25:29)
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=2325186&extension=ts&play_token=8RZoeOSqpv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Australia & New Zealand",AU (STAN 37) | Reds v Waratahs  Super Rugby AUS Round 2 2026 (2026-09-19 17:40:29)
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=2325187&extension=ts&play_token=M13sI7wRpq
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Australia & New Zealand",AU (STAN 38) | Avispa Fukuoka v Sanfrecce Hiroshima  J.League 2026 (2026-09-19 18:55:29)
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=2325188&extension=ts&play_token=ZJCZ2sKMZ7
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Australia & New Zealand",AU (STAN 39) | Nagasaki v Cerezo Osaka  J.League 2026 (2026-09-19 19:25:29)
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=2325189&extension=ts&play_token=Jd2ub3Zvkc
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Australia & New Zealand",AU (STAN 40) | Anyang v Ulsan  K League 2026 (2026-09-19 19:55:29)
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=2325190&extension=ts&play_token=O6hTJPWJuA
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Australia & New Zealand",AU (STAN 41) | FC Tokyo v Nagoya Grampus  J.League 2026 (2026-09-19 19:55:34)
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=2325191&extension=ts&play_token=QKO0aOBfsT
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Australia & New Zealand",AU (STAN 42) | Fiji v Japan  Pacific Nations Cup Final 2026 (2026-09-19 19:55:39)
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=2325192&extension=ts&play_token=CqQaVtd4Sd
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Australia & New Zealand",AU (STAN 43) | Tottenham Hotspur v Aston Villa  Premier League Matchweek 5 2026/2027 (2026-09-19 20:30:29)
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=2325193&extension=ts&play_token=P0hCiWaWaE
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Australia & New Zealand",AU (STAN 44) |  • Tottenham Hotspur v Aston Villa  Premier League Matchweek 5 2026/2027 (2026-09-19 21:20:29)
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=2325194&extension=ts&play_token=gbuODJe91N
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Australia & New Zealand",AU (STAN 45) | Charlton Athletic v London City Lionesses  WSL 2026/27 (2026-09-19 21:20:34)
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=2325195&extension=ts&play_token=xdC1deFL5K
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Australia & New Zealand",AU (STAN 46) | Chelsea v Birmingham City  WSL 2026/27 (2026-09-19 21:35:29)
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=2325196&extension=ts&play_token=ZATk3M8gUT
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Australia & New Zealand",AU (STAN 47) | Italy v Japan  WXV 2026 (2026-09-19 22:20:29)
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=2325197&extension=ts&play_token=acnmoYHJ1n
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Australia & New Zealand",AU (STAN 48) | Brighton & Hove Albion v Arsenal  Premier League Matchweek 5 2026/2027 (2026-09-19 23:50:29)
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=2325198&extension=ts&play_token=v9JHkl4zCW
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Australia & New Zealand",AU (STAN 49) | Goal Rush: Brighton & Hove Albion v Arsenal • 19 September  Premier League 2026/2027 (2026-09-19 23:50:39)
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=2325199&extension=ts&play_token=JVbDokdefE
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Australia & New Zealand",AU (STAN 50) | Everton v Ipswich Town  Premier League Matchweek 5 2026/2027 (2026-09-19 23:50:44)
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=2325200&extension=ts&play_token=kQZ9l0D3r4
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Australia & New Zealand",AU (STAN 51) | Newcastle United v Hull City  Premier League Matchweek 5 2026/2027 (2026-09-19 23:50:49)
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=2325201&extension=ts&play_token=BZYsXbFfuR
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Australia & New Zealand",AU (STAN 52) | England v Canada  WXV 2026 (2026-09-19 23:50:54)
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=2325202&extension=ts&play_token=4BHzU9HnvS
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Australia & New Zealand",AU (STAN 53) | France v Australia  WXV 2026 (2026-09-20 01:35:29)
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=2325203&extension=ts&play_token=d9ZW7e9qVg
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Australia & New Zealand",AU (STAN 54) | Scotland v New Zealand  WXV 2026 (2026-09-20 02:00:29)
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=2325204&extension=ts&play_token=WKauw65uhz
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Australia & New Zealand",AU (STAN 55) | Nottingham Forest v Coventry City  Premier League Matchweek 5 2026/2027 (2026-09-20 02:20:29)
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=2325205&extension=ts&play_token=qktvLUUlLI
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Australia & New Zealand",AU (STAN 56) | Crosscountry Olympic: Soldier Hollow  UCI Mountain Bike World Series 2026 (2026-09-20 04:45:29)
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=2325206&extension=ts&play_token=ZO19JRSRPz
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Australia & New Zealand",AU (STAN 57) | North Harbour v Tasman  Farah Palmer Cup Round 4 2026 (2026-09-20 09:30:29)
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=2325207&extension=ts&play_token=oPhJbp8vN4
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Australia & New Zealand",AU (STAN 58) | North Harbour v Canterbury  NPC Round 8 2026 (2026-09-20 12:00:29)
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=2325208&extension=ts&play_token=3SXDeEUQ2T
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Australia & New Zealand",AU (STAN 59) | Race Day Part 1: Australia  MXGP 2026 (2026-09-20 12:30:29)
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=2325209&extension=ts&play_token=xHPux02rQC
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Australia & New Zealand",AU (STAN 60) | Taranaki v Southland  NPC Round 8 2026 (2026-09-20 15:00:29)
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=2325210&extension=ts&play_token=as8wquJBlD
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.shareicon.net/data/256x256/2015/11/14/165975_new_256x256.png" group-title="Australia & New Zealand",-= New Zealand =-
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=23607&extension=ts&play_token=ug42BMtrvh
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/5ed7e790e31357324d7aff357a1ea730.png" group-title="Australia & New Zealand",Sky Sport 1 NZ
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=482874&extension=ts&play_token=wMm0RHOHZg
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/a6b9f0bf3612b084e53247b809cecc5c.png" group-title="Australia & New Zealand",Sky Sport 2 NZ
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=482875&extension=ts&play_token=2QNmsDtns6
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/0bf9466c8f578761dadc9ce1f99f5677.png" group-title="Australia & New Zealand",Sky Sport 3 NZ
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=482876&extension=ts&play_token=ujevlocoyL
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/eb66040f6d5b2b1b68d081dd34668033.png" group-title="Australia & New Zealand",Sky Sport 4 NZ
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=482877&extension=ts&play_token=xShNv7EpP1
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/773a17d6f9d31094cb82ed98f197cc96.png" group-title="Australia & New Zealand",Sky Sport 5 NZ
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=482878&extension=ts&play_token=VYvAd43enM
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/7d464629e0c6826c1afcae7478a2172d.png" group-title="Australia & New Zealand",Sky Sport 6 NZ
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=482879&extension=ts&play_token=Db64uKmBrb
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/d8922f9133b9e38996ef277d5ce830a6.png" group-title="Australia & New Zealand",Sky Sport 7 NZ
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=482880&extension=ts&play_token=vwU5rfSZ2N
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/299061401984bbf6f42c7859bdd45ac3.png" group-title="Australia & New Zealand",Sky Sport 8 NZ
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=482881&extension=ts&play_token=VoB8jr6BKz
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/bf8f52fc298816f7327ffaae3105c7b0.png" group-title="Australia & New Zealand",Sky Sport 9 NZ
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=482882&extension=ts&play_token=dmX4Dxlzsm
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/bf8f52fc298816f7327ffaae3105c7b0.png" group-title="Australia & New Zealand",Sky Sport Select NZ
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:C0:16:27&stream=482883&extension=ts&play_token=ow6Y9oxBlK
