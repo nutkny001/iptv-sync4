@@ -21,7 +21,6 @@ CATEGORY_MAPPING = {
     "1982": "UK Ligue 1",
     "2401": "NZ Sky sport",
     "1606": "NZ Sky sports",
-
 }
 
 headers = {
@@ -59,6 +58,10 @@ def generate_stalker_m3u():
         session.headers.update({"Authorization": f"Bearer {token}"})
         session.cookies.set("token", token)
 
+        # กำหนดลิงก์ EPG สำหรับ Stalker (ส่วนที่เพิ่มเข้ามา)
+        # โดยทั่วไป Stalker Portal จะให้บริการ XMLTV ผ่าน path ลักษณะนี้ครับ
+        epg_url = f"{PORTAL_URL}/server/load.php?type=itv&action=get_epg&mac={MAC_ADDRESS}"
+
         # 2. ดึงรายการช่องทั้งหมด
         print("[2] กำลังดึงรายชื่อช่องรายการทั้งหมด...")
         channels_url = f"{PORTAL_URL}/server/load.php?type=itv&action=get_all_channels&JsHttpRequest=1-xml"
@@ -76,7 +79,8 @@ def generate_stalker_m3u():
         success_count = 0
 
         with open(OUTPUT_LIVE_M3U, "w", encoding="utf-8") as f:
-            f.write('#EXTM3U url-tvg=""\n')
+            # ใส่ลิงก์ EPG เข้าไปในแท็ก url-tvg ของ M3U
+            f.write(f'#EXTM3U url-tvg="{epg_url}"\n')
             f.write(f'#EXTINF:-1 group-title="ℹ️ SYSTEM INFO",🕒 🟢 อัปเดตล่าสุด: {now_str} 🟢\n')
             f.write("http://clients.link/updated\n")
 
