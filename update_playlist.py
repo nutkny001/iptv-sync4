@@ -3,23 +3,25 @@ import os
 import requests
 from zoneinfo import ZoneInfo
 
-PORTAL_URL = "http://45.139.122.199:8080/c"
-MAC_ADDRESS = "00:1A:79:C0:16:27"
+PORTAL_URL = "http://185.80.197.65:80/c/"
+MAC_ADDRESS = "00:1A:79:5E:41:10"
 OUTPUT_M3U = "stalker_playlist.m3u"
 OUTPUT_LIVE_M3U = OUTPUT_M3U
 
 # กำหนดรหัสหมวดหมู่ที่ต้องการดึง (อ้างอิงตาม ID ของ Server)
 CATEGORY_MAPPING = {
-    "111": "Australia & New Zealand",
-    "658": "EFL UK",
-    "657": "EFL CUP UK",
-    "659": "Italy Serie A UK",
-    "716": "Hub Premier(EPL) UK",
-    "761": "UK SPORTS",
-    "737": "Paramount+ Original US",
-    "1323": "World Football Events",
-    "1504": "LaLiga+ Eventos ES",
-    "1534": "Ligue Plus FR",
+    "401": "UK SPORTS",
+    "1308": "UK EPL",
+    "1505": "UK EFL",
+    "1658": "UK CUP",
+    "1309": "UK World SPORTS",
+    "1570": "UK HUB Premier",
+    "1591": "UK Laliga",
+    "1590": "UK Serie A",
+    "1982": "UK Ligue 1",
+    "2401": "NZ Sky sport",
+    "1606": "NZ Sky sports",
+
 }
 
 headers = {
