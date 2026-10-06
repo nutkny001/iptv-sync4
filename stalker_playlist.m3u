@@ -1,729 +1,729 @@
 #EXTM3U url-tvg="http://185.80.197.65:80/c//server/load.php?type=itv&action=get_epg&mac=00:1A:79:5E:41:10"
-#EXTINF:-1 group-title="ℹ️ SYSTEM INFO",🕒 🟢 อัปเดตล่าสุด: 2026-10-05 11:57:34 🟢
+#EXTINF:-1 group-title="ℹ️ SYSTEM INFO",🕒 🟢 อัปเดตล่าสุด: 2026-10-06 12:45:23 🟢
 http://clients.link/updated
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/UK.png" group-title="UK SPORTS",##### SKY SPORTS HD #####
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=230682&extension=ts&play_token=I3FuepFNAq
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=230682&extension=ts&play_token=RREfu805Pf
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/SKYSPORTSPLUS.png" group-title="UK SPORTS",UK| SKY SPORTS + HD
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=83455&extension=ts&play_token=IjLTzd0HQ9
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=83455&extension=ts&play_token=kA0XY0zB9G
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/SKYSPORTSACTION.png" group-title="UK SPORTS",UK|SKY SPORTS ACTION HD
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=83456&extension=ts&play_token=SthWsKIyCf
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=83456&extension=ts&play_token=XMZujPpzar
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/SKYSPORTSCRICKET.png" group-title="UK SPORTS",UK| SKY SPORTS CRICKET HD
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=83454&extension=ts&play_token=gSjk2CDkEB
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=83454&extension=ts&play_token=QyiDOUdEmY
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/SKYSPORTSF1.png" group-title="UK SPORTS",UK| SKY SPORTS F1 HD
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=83453&extension=ts&play_token=FuA5STSoP1
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=83453&extension=ts&play_token=XF3NDtmwDF
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/SKYSPORTSF1.png" group-title="UK SPORTS",UK| SKY SPORTS F1 UHD/4K
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1641637&extension=ts&play_token=yLUjk0biPi
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1641637&extension=ts&play_token=hEkeZGryql
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/SKYSPORTSFOOTBALL.png" group-title="UK SPORTS",UK| SKY SPORTS FOOTBALL HD
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=83452&extension=ts&play_token=RLZtk5L4Zv
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=83452&extension=ts&play_token=j8KBGs7B1V
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/SKYSPORTSGOLF.png" group-title="UK SPORTS",UK| SKY SPORTS GOLF HD
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=83451&extension=ts&play_token=6vma8wACI6
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=83451&extension=ts&play_token=MramVcBEug
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/SKYSPORTSMAINEVENT.png" group-title="UK SPORTS",UK| SKY SPORTS MAIN EVENT UHD/4K
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1641636&extension=ts&play_token=5DMxmKVC4r
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1641636&extension=ts&play_token=nNshHEPASv
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/SKYSPORTSMAINEVENTS.png" group-title="UK SPORTS",UK| SKY SPORTS MAIN EVENTS HD
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=83450&extension=ts&play_token=QcxXZ5SADa
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=83450&extension=ts&play_token=WTVhs52Iej
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/SKYSPORTSMAINEVENT.png" group-title="UK SPORTS",UK| SKY SPORTS MAIN EVENTS HD(BK)
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1448189&extension=ts&play_token=VJXHbkUCV9
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1448189&extension=ts&play_token=Y2aYsa5RnX
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/SKYSPORTSMIX.png" group-title="UK SPORTS",UK| SKY SPORTS MIX HD
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=83449&extension=ts&play_token=MPhcPFIySP
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=83449&extension=ts&play_token=HuclvaSZ6l
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/SKYSPORTSNEWS.png" group-title="UK SPORTS",UK| SKY SPORTS NEWS HD
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=83448&extension=ts&play_token=YYNHB7S8ia
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=83448&extension=ts&play_token=LGP1YHhNVp
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/SKYSPORTSPL.png" group-title="UK SPORTS",UK| SKY SPORTS PL HD
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=83447&extension=ts&play_token=frDM2JlTso
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=83447&extension=ts&play_token=H1Ez99iftk
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/SKYSPORTSRACING.png" group-title="UK SPORTS",UK| SKY SPORTS RACING HD
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=83446&extension=ts&play_token=PxQKj7gReL
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=83446&extension=ts&play_token=Ed750dgUI3
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/SKYSPOIRTSTENNIS.png" group-title="UK SPORTS",UK| SKY SPORTS TENNIS HD
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1454231&extension=ts&play_token=nwAWFeb3L8
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1454231&extension=ts&play_token=uosIwzJsug
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.92/images/79486.png" group-title="UK SPORTS",UK| TNT SPORTS 1 HD
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=79486&extension=ts&play_token=43QPsaV4dC
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=79486&extension=ts&play_token=NEQo31zDYO
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/TNTSPORTS1.png" group-title="UK SPORTS",UK| TNT SPORTS 1 HD ◉
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1261564&extension=ts&play_token=bb4s5aaVkh
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1261564&extension=ts&play_token=79ojEfLrL8
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.92/images/79485.png" group-title="UK SPORTS",UK| TNT SPORTS 2 HD
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=79485&extension=ts&play_token=784yMhLxWR
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=79485&extension=ts&play_token=aczOtQ9vmC
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.92/images/79484.png" group-title="UK SPORTS",UK| TNT SPORTS 3 HD
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=79484&extension=ts&play_token=mRvicKpJMX
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=79484&extension=ts&play_token=DxeNGg5H91
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/TNTSPORTS4.png" group-title="UK SPORTS",UK| TNT SPORTS 4 HD
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1002857&extension=ts&play_token=QUmj5HnRJz
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1002857&extension=ts&play_token=TbHlxJLzI9
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/TNTSPORTS5.png" group-title="UK SPORTS",UK| TNT SPORTS 5 HD
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1004549&extension=ts&play_token=GKKJEz62uf
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1004549&extension=ts&play_token=9XJ5WMys6F
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/BTBOXOFFICE.png" group-title="UK SPORTS",UK| BT BOX OFFICE HD
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1019934&extension=ts&play_token=uNWPzROTVQ
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1019934&extension=ts&play_token=l79IBP8juV
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/DAZN1.png" group-title="UK SPORTS",UK| DAZN 1 HD
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1221178&extension=ts&play_token=Nvyw6FYsgB
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1221178&extension=ts&play_token=2pSZURLp5k
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/MANCHESTERUNITED.png" group-title="UK SPORTS",UK| MANCHESTER UNITED HD
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=725954&extension=ts&play_token=Sz93s2HMCI
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=725954&extension=ts&play_token=C8BlAFXLCU
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/CHELSEA.png" group-title="UK SPORTS",UK| CHELSEA TV HD
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=45327&extension=ts&play_token=196x86drgR
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=45327&extension=ts&play_token=EjnKQAW40N
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/LFC.png" group-title="UK SPORTS",UK| LFC TV FHD
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=910647&extension=ts&play_token=M5KVaiznmM
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=910647&extension=ts&play_token=GbudnmnrQp
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/LFC.png" group-title="UK SPORTS",UK| LFC TV
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=45268&extension=ts&play_token=ekp29165Xz
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=45268&extension=ts&play_token=xdJGdOxjhp
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/MUTV.png" group-title="UK SPORTS",UK| MUTV FHD
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=45324&extension=ts&play_token=o2lMVdetKl
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=45324&extension=ts&play_token=bXaDKSUyI5
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/EUROSPORT1.png" group-title="UK SPORTS",UK| EUROSPORT 1 HD
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=547746&extension=ts&play_token=XztosmNZsE
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=547746&extension=ts&play_token=lKEsTLTuE2
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/EUROSPORT2.png" group-title="UK SPORTS",UK| EUROSPORT 2 HD
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=547747&extension=ts&play_token=bcALHh6pVI
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=547747&extension=ts&play_token=uvSgLZh2kR
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/PREMIERSPORTLALIGA.png" group-title="UK SPORTS",UK| PREMIER SPORT LALIGA TV HD
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=163610&extension=ts&play_token=4u37j8cRlN
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=163610&extension=ts&play_token=8SszpqPapC
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/PREMIERSPORTS1.png" group-title="UK SPORTS",UK| PREMIER SPORTS 1 HD
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=45235&extension=ts&play_token=fTAJcvhzm8
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=45235&extension=ts&play_token=oduBZl7Pcm
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.92/images/163608.png" group-title="UK SPORTS",UK| PREMIER SPORT 2 HD
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=163608&extension=ts&play_token=BSopYOtqBg
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=163608&extension=ts&play_token=xdNuuNKhjr
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/UK.png" group-title="UK SPORTS",##### SKY SPORTS FHD #####
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=230681&extension=ts&play_token=GWuHsikVbu
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=230681&extension=ts&play_token=qugcyiyedG
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.92/images/30500.png" group-title="UK SPORTS",UK| SKY SPORTS + FHD
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=30500&extension=ts&play_token=Ckph5rfRbD
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=30500&extension=ts&play_token=wgpra0ZBcA
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.92/images/30501.png" group-title="UK SPORTS",UK| SKY SPORTS ACTION FHD
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=30501&extension=ts&play_token=VO9vOm35FN
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=30501&extension=ts&play_token=l1JtRKqfi3
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.92/images/30502.png" group-title="UK SPORTS",UK| SKY SPORTS CRICKET FHD
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=30502&extension=ts&play_token=6EvPkAiYEI
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=30502&extension=ts&play_token=5zOxxnq3Sh
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.92/images/30499.png" group-title="UK SPORTS",UK| SKY SPORTS F1 FHD
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=30499&extension=ts&play_token=kJCv3SbBbs
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=30499&extension=ts&play_token=2FyQWRG2tt
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.92/images/30498.png" group-title="UK SPORTS",UK| SKY SPORTS FOOTBALL FHD
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=30498&extension=ts&play_token=skEHAhnYa8
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=30498&extension=ts&play_token=Vzar1SNRaP
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.92/images/30497.png" group-title="UK SPORTS",UK| SKY SPORTS GOLF FHD
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=30497&extension=ts&play_token=QkhZv1OBQI
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=30497&extension=ts&play_token=fWrayMNVpG
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.92/images/30496.png" group-title="UK SPORTS",UK| SKY SPORTS MAIN EVENT FHD
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=30496&extension=ts&play_token=N4PFfLZirj
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=30496&extension=ts&play_token=m1CluZIwLH
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.92/images/30495.png" group-title="UK SPORTS",UK| SKY SPORTS MIX FHD
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=30495&extension=ts&play_token=KANuPldtkz
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=30495&extension=ts&play_token=8nStnoo7at
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.92/images/30494.png" group-title="UK SPORTS",UK| SKY SPORTS NEWS FHD
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=30494&extension=ts&play_token=kL7Dn8L9uM
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=30494&extension=ts&play_token=7UGCkmefTE
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.92/images/30493.png" group-title="UK SPORTS",UK| SKY SPORTS PL FHD
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=30493&extension=ts&play_token=dJ5LFX3H2C
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=30493&extension=ts&play_token=Bm0k88cr8n
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.92/images/77373.png" group-title="UK SPORTS",UK| SKY SPORTS RACING FHD
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=77373&extension=ts&play_token=9xmlYDDAZu
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=77373&extension=ts&play_token=Gtj2w4IGWv
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/SKYSPOIRTSTENNIS.png" group-title="UK SPORTS",UK| SKY SPORTS TENNIS FHD
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1454232&extension=ts&play_token=YclS4G5Hen
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1454232&extension=ts&play_token=V9kisLdnmM
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/TNTULTIMATE.png" group-title="UK SPORTS",UK| TNT ULTIMATE 4K+ [LIVE-EVENT]
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1379047&extension=ts&play_token=p6iMzmWwKO
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1379047&extension=ts&play_token=fM2Ye97t9D
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/BTBOXOFFICE.png" group-title="UK SPORTS",UK| TNT BOX OFFICE FHD
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1019933&extension=ts&play_token=HRVnR3oRAE
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1019933&extension=ts&play_token=lKn8qktlh8
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.92/images/30564.png" group-title="UK SPORTS",UK| TNT SPORTS ESPN FHD
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=30564&extension=ts&play_token=Q6HxYyJVdF
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=30564&extension=ts&play_token=aegyA6PzdD
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.92/images/30567.png" group-title="UK SPORTS",UK| TNT SPORTS 1 FHD
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=30567&extension=ts&play_token=TLEar8BgCr
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=30567&extension=ts&play_token=j7oXrSzeh9
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.92/images/30566.png" group-title="UK SPORTS",UK| TNT SPORTS 2 FHD
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=30566&extension=ts&play_token=29gYkGlyV6
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=30566&extension=ts&play_token=ydQvaDL8CU
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.92/images/30565.png" group-title="UK SPORTS",UK| TNT SPORTS 3 FHD
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=30565&extension=ts&play_token=BRkuGjFSQa
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=30565&extension=ts&play_token=W6Ov8FstyP
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/TNTSPORTS4.png" group-title="UK SPORTS",UK| TNT SPORTS 4 FHD
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1019935&extension=ts&play_token=Fi92HCMynV
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1019935&extension=ts&play_token=4W3ZIAFJOO
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/TNTSPORTS5.png" group-title="UK SPORTS",UK| TNT SPORTS 5 FHD
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1004548&extension=ts&play_token=sysyMgu8Jx
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1004548&extension=ts&play_token=M2fxSp48zP
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/UK.png" group-title="UK SPORTS",##### SKY SPORTS SD #####
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=230683&extension=ts&play_token=uv9MXfzOaL
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=230683&extension=ts&play_token=gxDbEMX12j
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.92/images/79481.png" group-title="UK SPORTS",UK| SKY SPORTS +
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=79481&extension=ts&play_token=G2dewn4gcf
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=79481&extension=ts&play_token=JVZnTeD3LF
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.92/images/79482.png" group-title="UK SPORTS",UK| SKY SPORTS ACTION
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=79482&extension=ts&play_token=sVXrgdI69H
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=79482&extension=ts&play_token=8a7KOBIkjF
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.92/images/79480.png" group-title="UK SPORTS",UK| SKY SPORTS CRICKET
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=79480&extension=ts&play_token=4LJkqBFToC
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=79480&extension=ts&play_token=vo8N066bwi
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.92/images/79479.png" group-title="UK SPORTS",UK| SKY SPORTS F1
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=79479&extension=ts&play_token=skJxAw2IDI
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=79479&extension=ts&play_token=oKM3FkqCwx
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.92/images/79478.png" group-title="UK SPORTS",UK| SKY SPORTS FOOTBALL
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=79478&extension=ts&play_token=kVccAubzin
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=79478&extension=ts&play_token=z7B7jpDhWZ
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.92/images/79477.png" group-title="UK SPORTS",UK| SKY SPORTS GOLF
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=79477&extension=ts&play_token=tttSXLYSmF
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=79477&extension=ts&play_token=Q8SlWZ6FjW
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.92/images/79476.png" group-title="UK SPORTS",UK| SKY SPORTS MAIN EVENT
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=79476&extension=ts&play_token=3LK02zJEJd
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=79476&extension=ts&play_token=UnE1WmXZYQ
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.92/images/79475.png" group-title="UK SPORTS",UK| SKY SPORTS MIX
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=79475&extension=ts&play_token=JEn16relbB
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=79475&extension=ts&play_token=pqTsoqjgsX
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.92/images/79474.png" group-title="UK SPORTS",UK| SKY SPORTS NEWS
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=79474&extension=ts&play_token=SkeCGNpctQ
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=79474&extension=ts&play_token=KYmjJbsZ0K
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.92/images/79473.png" group-title="UK SPORTS",UK| SKY SPORTS PREMIER LEAGUE FHD
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=79473&extension=ts&play_token=lulzc0ciJK
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=79473&extension=ts&play_token=38fLQFChFZ
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.92/images/79472.png" group-title="UK SPORTS",UK| SKY SPORTS RACING
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=79472&extension=ts&play_token=9fSV2umquN
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=79472&extension=ts&play_token=EPOgCYq01l
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/TNTSPORTS1.png" group-title="UK SPORTS",UK| TNT SPORTS 1 SD
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1047260&extension=ts&play_token=LB6MMnA0CP
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1047260&extension=ts&play_token=kotjokmUwK
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/TNTSPORTS2.png" group-title="UK SPORTS",UK| TNT SPORTS 2 SD
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1047261&extension=ts&play_token=tgJZUnJMR9
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1047261&extension=ts&play_token=VV7vIjpZJS
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/TNTSPORTS3.png" group-title="UK SPORTS",UK| TNT SPORTS 3 SD
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1047262&extension=ts&play_token=7ospxjfCKh
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1047262&extension=ts&play_token=Q6r08sPUjR
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/TNTSPORTS4.png" group-title="UK SPORTS",UK| TNT SPORTS 4 SD
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1047263&extension=ts&play_token=WIYna7PxMY
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1047263&extension=ts&play_token=of98fQ8w9C
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/TNTSPORTS5.png" group-title="UK SPORTS",UK| TNT SPORTS 5
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1004550&extension=ts&play_token=zUNfiDOPKf
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1004550&extension=ts&play_token=25V6vKUHfC
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.92/images/30541.png" group-title="UK SPORTS",UK| EUROSPORT 1 FHD
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=30541&extension=ts&play_token=wfVkMfdwzV
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=30541&extension=ts&play_token=V2zbB1sfhE
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.92/images/30540.png" group-title="UK SPORTS",UK| EUROSPORT 2 FHD
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=30540&extension=ts&play_token=qMVlvmHkng
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=30540&extension=ts&play_token=64tFOjhNZa
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/VIAPLAYXTRA.png" group-title="UK SPORTS",UK| VIAPLAY XTRA HD
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1014260&extension=ts&play_token=1mlA8ECC7I
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1014260&extension=ts&play_token=Q5uZkYhJGA
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.92/images/163611.png" group-title="UK SPORTS",UK| PREMIER SPORT LALIGA TV FHD
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=163611&extension=ts&play_token=v3HAhY0SN5
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=163611&extension=ts&play_token=7xaxaCmZUj
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.92/images/163607.png" group-title="UK SPORTS",UK| PREMIER SPORT 1 FHD
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=163607&extension=ts&play_token=PkiUfD4y8W
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=163607&extension=ts&play_token=p4nci4h21K
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.92/images/45251.png" group-title="UK SPORTS",UK| PREMIER SPORTS 2 FHD
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=45251&extension=ts&play_token=xlYAeDEJqX
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=45251&extension=ts&play_token=Lagrb6wJnc
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.92/images/30523.png" group-title="UK SPORTS",UK| RACING UK FHD
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=30523&extension=ts&play_token=iP8Acm9mnf
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=30523&extension=ts&play_token=S1GzxK94gy
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/RACING.png" group-title="UK SPORTS",UK| RACING UK ◉
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1069214&extension=ts&play_token=FSUUXfSpSy
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1069214&extension=ts&play_token=d2AhVSJPai
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/PDCDARTS.png" group-title="UK SPORTS",UK| PDC DARTS TV 2 (Event Only)
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1014239&extension=ts&play_token=5yWfCYe2G4
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1014239&extension=ts&play_token=VfSlJj7phc
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/PDCDARTS.png" group-title="UK SPORTS",UK| PDC DARTS TV 1 (Event Only)
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1014240&extension=ts&play_token=TaspLY6fai
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1014240&extension=ts&play_token=L3dcT3Hs4m
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/EDGESPORT.png" group-title="UK SPORTS",UK| EDGE SPORT FHD
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1014266&extension=ts&play_token=1Bz3gUIzOB
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1014266&extension=ts&play_token=bvE05K5Dg1
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/UFC.png" group-title="UK SPORTS",UK| UFC TV (Events2)
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1014267&extension=ts&play_token=VkaUU6HjWc
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1014267&extension=ts&play_token=wzSmzpDNwZ
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/UFC.png" group-title="UK SPORTS",UK| UFC HD
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=825538&extension=ts&play_token=At56yNjr4p
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=825538&extension=ts&play_token=nnnXfunUFr
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/UK.png" group-title="UK EPL",##### EPL PREMIER LEAGUE #####
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=467421&extension=ts&play_token=sYHWNPZ73u
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=467421&extension=ts&play_token=dwTF11EvE5
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/PREMIERELEAGUE.png" group-title="UK EPL",UK| EPL 1 4K/UHD
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1579368&extension=ts&play_token=CCsPCj9yjC
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1579368&extension=ts&play_token=lo9G8qaTPT
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/PREMIERELEAGUE.png" group-title="UK EPL",UK| EPL 2 4K/UHD
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1579367&extension=ts&play_token=u8OKlJR3j3
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1579367&extension=ts&play_token=fJEBB7pNSR
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/EPLAFCBOURNEMOUTH.png" group-title="UK EPL",UK| EPL AFC BOURNEMOUTH
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=988366&extension=ts&play_token=mAQqfU6QZa
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=988366&extension=ts&play_token=jrLHIVejRU
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/EPLARSENAL.png" group-title="UK EPL",UK| EPL ARSENAL
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=988368&extension=ts&play_token=z0vafhelbB
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=988368&extension=ts&play_token=iebhIKqjXL
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/EPLASTONVILLA.png" group-title="UK EPL",UK| EPL ASTON VILLA
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=988367&extension=ts&play_token=3foBXDvGKD
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=988367&extension=ts&play_token=FOqqcBeWce
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/BRENTFORD.png" group-title="UK EPL",UK| EPL BRENTFORD
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=988365&extension=ts&play_token=9kbyjdr2HB
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=988365&extension=ts&play_token=mOx5IbZ0Cs
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/BRIGHTON.png" group-title="UK EPL",UK| EPL BRIGHTON
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=988364&extension=ts&play_token=5NlabQwDWv
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=988364&extension=ts&play_token=OMgRaPvLMT
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/BURNLEY.png" group-title="UK EPL",UK| EPL COVENTRY
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=988359&extension=ts&play_token=IujWUsQa24
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=988359&extension=ts&play_token=hrKtexU8Mx
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/CHELSEA.png" group-title="UK EPL",UK| EPL CHELSEA
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=988363&extension=ts&play_token=HgX7h364N8
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=988363&extension=ts&play_token=wI5FysNszF
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/CRYSTALPALACE.png" group-title="UK EPL",UK| EPL CRYSTAL PALACE
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=988362&extension=ts&play_token=l9AgUT1ZlM
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=988362&extension=ts&play_token=dPVqr3YKNH
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/EPLEVERTON.png" group-title="UK EPL",UK| EPL EVERTON
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=988361&extension=ts&play_token=wA3nZwZlPS
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=988361&extension=ts&play_token=IF62VTctuu
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/FULHAM.png" group-title="UK EPL",UK| EPL FULHAM
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=988360&extension=ts&play_token=L138AbR0d5
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=988360&extension=ts&play_token=6uBL7TKCxi
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UK/1893285.png" group-title="UK EPL",UK| EPL LEEDS
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1893285&extension=ts&play_token=bAd5xg4E7G
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1893285&extension=ts&play_token=SVtJ4SqHDN
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/LFC.png" group-title="UK EPL",UK| EPL LIVERPOOL
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=988358&extension=ts&play_token=Je4BVoBpui
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=988358&extension=ts&play_token=YLWENeB3Eo
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/MANCHESTERCITY.png" group-title="UK EPL",UK| EPL MANCHESTER CITY
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=988357&extension=ts&play_token=gINgZvYApH
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=988357&extension=ts&play_token=OkjTkM5fAE
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/MUTV.png" group-title="UK EPL",UK| EPL MANCHESTER UTD
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=988356&extension=ts&play_token=R570B3YFPV
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=988356&extension=ts&play_token=HKculCVh4H
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/NEWCASTLE.png" group-title="UK EPL",UK| EPL NEWCASTLE UTD
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=988355&extension=ts&play_token=aogF5P2bfh
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=988355&extension=ts&play_token=UE0BmtT6Bg
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/NOTTINGHAMFOREST.png" group-title="UK EPL",UK| EPL NOTTINGHAM FOREST
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=988354&extension=ts&play_token=nukhtLARe0
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=988354&extension=ts&play_token=nmb9WsnEs4
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/SHEFFIEID.png" group-title="UK EPL",UK| EPL HULL CITY
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=988353&extension=ts&play_token=LdXwm7BdST
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=988353&extension=ts&play_token=UekHfjb5dH
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UK/1903316.png" group-title="UK EPL",UK| EPL SUNDERLAND
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1903316&extension=ts&play_token=uidyK0DgDr
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1903316&extension=ts&play_token=1g7vMeExUM
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/TOTTENHAM.png" group-title="UK EPL",UK| EPL TOTTENHAM
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=988352&extension=ts&play_token=5pE5HOXwQN
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=988352&extension=ts&play_token=BZ58AiUhll
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/WESTHAM.png" group-title="UK EPL",UK| EPL IPSWICH
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=988351&extension=ts&play_token=mxc9KruHwy
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=988351&extension=ts&play_token=c510MQW03d
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/UK.png" group-title="UK EPL",##### EPL PREMIER LEAGUE PPV #####
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1616587&extension=ts&play_token=EzoScGJbLR
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1616587&extension=ts&play_token=gXObpxWP2B
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/PREMIERELEAGUE.png" group-title="UK EPL",EPL| PREMIERE LEAGUE 1
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1616586&extension=ts&play_token=GbgELK5XUO
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1616586&extension=ts&play_token=LXIfLM4A9P
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/PREMIERELEAGUE.png" group-title="UK EPL",EPL| PREMIERE LEAGUE 2
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1616585&extension=ts&play_token=PotIOTZXLu
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1616585&extension=ts&play_token=A1dckCgrLH
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/PREMIERELEAGUE.png" group-title="UK EPL",EPL| PREMIERE LEAGUE 3
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1616584&extension=ts&play_token=OiYF8ZNcDM
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1616584&extension=ts&play_token=bPyUtZxo5b
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/PREMIERELEAGUE.png" group-title="UK EPL",EPL| PREMIERE LEAGUE 4
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1616583&extension=ts&play_token=5WXS2v5acT
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1616583&extension=ts&play_token=moiAV6BF5W
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/PREMIERELEAGUE.png" group-title="UK EPL",EPL| PREMIERE LEAGUE 5
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1616582&extension=ts&play_token=Anh62qF1Uj
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1616582&extension=ts&play_token=qxTvbUALol
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/PREMIERELEAGUE.png" group-title="UK EPL",EPL| PREMIERE LEAGUE 6
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1616581&extension=ts&play_token=pJON96O2eR
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1616581&extension=ts&play_token=quKP2RjxG1
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/PREMIERELEAGUE.png" group-title="UK EPL",EPL| PREMIERE LEAGUE 7
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1616580&extension=ts&play_token=5sLXGpvzNb
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1616580&extension=ts&play_token=Ro6UhzeFdh
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/PREMIERELEAGUE.png" group-title="UK EPL",EPL| PREMIERE LEAGUE 8
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1616579&extension=ts&play_token=GiBEosz6gD
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1616579&extension=ts&play_token=OYfrMNYO5x
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/PREMIERELEAGUE.png" group-title="UK EPL",EPL| PREMIERE LEAGUE 9
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1616578&extension=ts&play_token=q99hjNgVUO
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1616578&extension=ts&play_token=ePQBHVwkbD
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/PREMIERELEAGUE.png" group-title="UK EPL",EPL| PREMIERE LEAGUE 10
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1616577&extension=ts&play_token=Rjb1sxXlRJ
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1616577&extension=ts&play_token=0iO2H88Mfq
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/UK.png" group-title="UK EFL",##### UK CHAMPIONSHIP #####
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1313247&extension=ts&play_token=ptNCQLw4fv
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1313247&extension=ts&play_token=TdNuwaMEVv
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/PPV/CHAMPIONSHIP.png" group-title="UK EFL",CHAMP | Burnley
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=2129828&extension=ts&play_token=d9iJm5L0RX
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=2129828&extension=ts&play_token=gdRrIgiH4m
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/PPV/CHAMPIONSHIP.png" group-title="UK EFL",CHAMP | Wrexham
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=2129779&extension=ts&play_token=xlOYt4YRVc
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=2129779&extension=ts&play_token=YwGgq1SQOw
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/PPV/CHAMPIONSHIP.png" group-title="UK EFL",CHAMP | Wolverhampton Wanderers
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=2129778&extension=ts&play_token=jTnnkIDGN4
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=2129778&extension=ts&play_token=t34Z1lndb8
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/PPV/CHAMPIONSHIP.png" group-title="UK EFL",CHAMP | West Ham United
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=2129777&extension=ts&play_token=rfyPcIZCVL
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=2129777&extension=ts&play_token=chklrFwNgf
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/PPV/CHAMPIONSHIP.png" group-title="UK EFL",CHAMP | West Bromwich Albion
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=2129776&extension=ts&play_token=Z3AGVpPzHK
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=2129776&extension=ts&play_token=flf2nqxMMg
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/PPV/CHAMPIONSHIP.png" group-title="UK EFL",CHAMP | Watford
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=2129775&extension=ts&play_token=5MWxGPbpfY
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=2129775&extension=ts&play_token=B159l1LG3o
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/PPV/CHAMPIONSHIP.png" group-title="UK EFL",CHAMP | Swansea City
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=2129774&extension=ts&play_token=SIaaoHEsA5
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=2129774&extension=ts&play_token=lag2LZzC46
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/PPV/CHAMPIONSHIP.png" group-title="UK EFL",CHAMP | Stoke City
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=2129773&extension=ts&play_token=INd6zDOIym
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=2129773&extension=ts&play_token=5D4jn5IHES
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/PPV/CHAMPIONSHIP.png" group-title="UK EFL",CHAMP | Southampton
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=2129772&extension=ts&play_token=3Ps7YJW7eL
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=2129772&extension=ts&play_token=BT9qFwlCXP
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/PPV/CHAMPIONSHIP.png" group-title="UK EFL",CHAMP | Sheffield United
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=2129771&extension=ts&play_token=HzOW4CCJAU
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=2129771&extension=ts&play_token=9TkMliPnzC
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/PPV/CHAMPIONSHIP.png" group-title="UK EFL",CHAMP | Queens Park Rangers
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=2129770&extension=ts&play_token=CpsthFpGmp
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=2129770&extension=ts&play_token=nvNWTVdiJQ
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/PPV/CHAMPIONSHIP.png" group-title="UK EFL",CHAMP | Preston North End
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=2129769&extension=ts&play_token=SEsKDpafVx
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=2129769&extension=ts&play_token=viBiVJRtmu
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/PPV/CHAMPIONSHIP.png" group-title="UK EFL",CHAMP | Portsmouth
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=2129768&extension=ts&play_token=zfeqb2wCHW
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=2129768&extension=ts&play_token=3Csni71qUJ
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/PPV/CHAMPIONSHIP.png" group-title="UK EFL",CHAMP | Norwich City
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=2129767&extension=ts&play_token=ppcsIlnlEp
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=2129767&extension=ts&play_token=Nfmhdx8DcZ
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/PPV/CHAMPIONSHIP.png" group-title="UK EFL",CHAMP | Millwall
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=2129766&extension=ts&play_token=KIiIBCyqip
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=2129766&extension=ts&play_token=TQ4raC657r
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/PPV/CHAMPIONSHIP.png" group-title="UK EFL",CHAMP | Middlesbrough
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=2129765&extension=ts&play_token=k9IpJvGQfH
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=2129765&extension=ts&play_token=JQctumshnn
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/PPV/CHAMPIONSHIP.png" group-title="UK EFL",CHAMP | Lincoln City
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=2129764&extension=ts&play_token=Sr0iZ3cLoV
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=2129764&extension=ts&play_token=PSoG2N8UjL
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/PPV/CHAMPIONSHIP.png" group-title="UK EFL",CHAMP | Derby County
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=2129763&extension=ts&play_token=nfn74VGRtI
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=2129763&extension=ts&play_token=S4DeYvTM3j
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/PPV/CHAMPIONSHIP.png" group-title="UK EFL",CHAMP | Charlton Athletic
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=2129762&extension=ts&play_token=omuRKOwBij
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=2129762&extension=ts&play_token=SdEsCryiqd
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/PPV/CHAMPIONSHIP.png" group-title="UK EFL",CHAMP | Cardiff City
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=2129761&extension=ts&play_token=AsIicVDdyn
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=2129761&extension=ts&play_token=SLDGWlxi8D
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/PPV/CHAMPIONSHIP.png" group-title="UK EFL",CHAMP | Bristol City
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=2129760&extension=ts&play_token=WGpQ9Fy5wj
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=2129760&extension=ts&play_token=3eZJlCHMnX
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/PPV/CHAMPIONSHIP.png" group-title="UK EFL",CHAMP | Bolton Wanderers
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=2129759&extension=ts&play_token=KOohkJ18To
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=2129759&extension=ts&play_token=jZbmXfiWF1
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/PPV/CHAMPIONSHIP.png" group-title="UK EFL",CHAMP | Blackburn Rovers
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=2129758&extension=ts&play_token=spIqsc0Vev
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=2129758&extension=ts&play_token=MmrCIDiPO4
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/PPV/CHAMPIONSHIP.png" group-title="UK EFL",CHAMP | Birmingham City
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=2129757&extension=ts&play_token=nEG3VTU4L6
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=2129757&extension=ts&play_token=YDMtAZOfqF
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK CUP",##### CHAMPIONS LEAGUE #####
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1363062&extension=ts&play_token=kTL0M959cO
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1363062&extension=ts&play_token=4q0RstNwHo
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.95/images/1370387.png" group-title="UK CUP",UEFA  | 01 -
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1370387&extension=ts&play_token=VhHirlt5HT
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1370387&extension=ts&play_token=j93iFrnTQt
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.95/images/1370388.png" group-title="UK CUP",UEFA  | 02 -
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1370388&extension=ts&play_token=k5UYRrR9Ig
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1370388&extension=ts&play_token=hGk7GwRDV2
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.95/images/1370389.png" group-title="UK CUP",UEFA | 03 -
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1370389&extension=ts&play_token=4v55fIqER4
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1370389&extension=ts&play_token=cD1Kl3j7zv
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.95/images/1370390.png" group-title="UK CUP",UEFA | 04 -
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1370390&extension=ts&play_token=BK1NvV1A3z
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1370390&extension=ts&play_token=oAcGZy5In8
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.95/images/1370391.png" group-title="UK CUP",UEFA | 05 -
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1370391&extension=ts&play_token=bL4IeY8oGV
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1370391&extension=ts&play_token=iot84o7f7A
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.95/images/1370392.png" group-title="UK CUP",UEFA | 06 -
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1370392&extension=ts&play_token=hoAxk7cL8h
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1370392&extension=ts&play_token=q3P9RHzbhm
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.95/images/1370393.png" group-title="UK CUP",UEFA | 07 -
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1370393&extension=ts&play_token=nQEJr1R2Gw
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1370393&extension=ts&play_token=kSLNDDClXn
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.95/images/1370394.png" group-title="UK CUP",UEFA | 08 -
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1370394&extension=ts&play_token=5SiHYPhKs1
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1370394&extension=ts&play_token=fkqoL5tLMd
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.95/images/1370395.png" group-title="UK CUP",UEFA | 09 -
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1370395&extension=ts&play_token=p6lG37cUdD
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1370395&extension=ts&play_token=5oj6dx51XD
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK CUP",##### EUROPA LEAGUE #####
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1363965&extension=ts&play_token=p5bDPu9j4z
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1363965&extension=ts&play_token=FclCK597Eb
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.95/images/1363054.png" group-title="UK CUP",UEFA | 01 - Azerbaijan vs Lithuania 2:00pm
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1363054&extension=ts&play_token=2PBXhfTfd9
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1363054&extension=ts&play_token=nI7AnnWw05
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.95/images/1363055.png" group-title="UK CUP",UEFA | 02 - Kososvo vs Austria 5:00pm
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1363055&extension=ts&play_token=DdH64C0vdA
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1363055&extension=ts&play_token=XoaNjxlCdd
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.95/images/1363056.png" group-title="UK CUP",UEFA | 03 - Portugal vs Norway 7:45pm
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1363056&extension=ts&play_token=sAzMkplfaH
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1363056&extension=ts&play_token=VsXGUVVyvw
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.95/images/1363057.png" group-title="UK CUP",UEFA | 04 - Republic of Ireland vs Israel 7:45pm
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1363057&extension=ts&play_token=ZQiGXv7rcg
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1363057&extension=ts&play_token=HLCZRYYUov
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.95/images/1363993.png" group-title="UK CUP",UEFA | 05 - Wales vs Denmark 7:45pm
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1363993&extension=ts&play_token=gpPXT931BL
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1363993&extension=ts&play_token=SzpjqdfGtE
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/EUROPA.png" group-title="UK CUP",UEFA | 06 - Crystal Palace vs Lech Poznań 8:00 pm
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1363992&extension=ts&play_token=FGsoql1lSP
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1363992&extension=ts&play_token=ltyeNlMWz0
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.95/images/1363991.png" group-title="UK CUP",UEFA | 07 - Juventus vs NEC Nijmegen 8:00 pm
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1363991&extension=ts&play_token=FcrCDxTFjn
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1363991&extension=ts&play_token=Ukx82dIXY0
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.95/images/1363990.png" group-title="UK CUP",UEFA | 08 - Real Sociedad vs Bournemouth 8:00 pm
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1363990&extension=ts&play_token=vOu1q9wkD1
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1363990&extension=ts&play_token=lXwQU2Y7XI
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK CUP",##### FA CUB  #####
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1363063&extension=ts&play_token=CnXcscZQX3
-#EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.95/images/1360817.png" group-title="UK CUP",Live Football 01 : Finland vs Albania 14:00 pm
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1360817&extension=ts&play_token=2kLlm6TTmJ
-#EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.95/images/1360818.png" group-title="UK CUP",Live Football 02 : Belarus vs San Marino 17:00 pm
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1360818&extension=ts&play_token=D8A3KaUPDt
-#EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.95/images/1360987.png" group-title="UK CUP",Live Football 03 : Estonia vs Luxembourg 17:00 pm
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1360987&extension=ts&play_token=RA5nY8CNrq
-#EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.95/images/1360988.png" group-title="UK CUP",Live Football 04 : Iceland vs Bulgaria 17:00 pm
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1360988&extension=ts&play_token=wV0Lfrh8Zk
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1363063&extension=ts&play_token=GgXKvq6cuF
+#EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.95/images/1360817.png" group-title="UK CUP",Live Football 01 : Latvia vs Cyprus 17:00 pm UK
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1360817&extension=ts&play_token=YQf4Jr3aJn
+#EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.95/images/1360818.png" group-title="UK CUP",Live Football 02 : Bosnia - Herzegovina vs Poland  19:45 pm
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1360818&extension=ts&play_token=JzRf05tfP7
+#EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.95/images/1360987.png" group-title="UK CUP",Live Football 03 : France vs Belgium  19:45 pm
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1360987&extension=ts&play_token=AU2AyoOyiN
+#EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.95/images/1360988.png" group-title="UK CUP",Live Football 04 : Italy vs Turkey  19:45 pm
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1360988&extension=ts&play_token=SahvDqJ2ev
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.95/images/1360989.png" group-title="UK CUP",Live Football 05 :
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1360989&extension=ts&play_token=AAL61AT7eE
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1360989&extension=ts&play_token=Q2frifPJc9
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK CUP",##### CARABO  CUB  #####
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1926112&extension=ts&play_token=qopKTZTcS9
-#EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.95/images/1363059.png" group-title="UK CUP",Live Football 01 : Finland vs Albania 14:00 pm
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1926115&extension=ts&play_token=fWZxq1Bk6a
-#EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.95/images/1363061.png" group-title="UK CUP",Live Football 03 : Estonia vs Luxembourg 17:00 pm
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1926113&extension=ts&play_token=745cVaNHHR
-#EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.95/images/1363060.png" group-title="UK CUP",Live Football 02 : Belarus vs San Marino 17:00 pm
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1926114&extension=ts&play_token=uixS2EUjYF
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1926112&extension=ts&play_token=7wmPiAQxOo
+#EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.95/images/1363059.png" group-title="UK CUP",Live Football 01 : Latvia vs Cyprus 17:00 pm UK
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1926115&extension=ts&play_token=ATLm9BivCb
+#EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.95/images/1363061.png" group-title="UK CUP",Live Football 03 : France vs Belgium  19:45 pm
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1926113&extension=ts&play_token=Q29aIgBoQk
+#EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.95/images/1363060.png" group-title="UK CUP",Live Football 02 : Bosnia - Herzegovina vs Poland  19:45 pm
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1926114&extension=ts&play_token=AhktyQEdf7
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK CUP",##### EUROPIEN QUALIFIER #####
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1370380&extension=ts&play_token=R2cmZonNQm
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1370380&extension=ts&play_token=vvpZd1kiZa
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.95/images/1363997.png" group-title="UK CUP",UEFA | 01 - Azerbaijan vs Lithuania 2:00pm
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1363997&extension=ts&play_token=mFkrZ3vLQ0
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1363997&extension=ts&play_token=OPTEqpVe9o
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.95/images/1363058.png" group-title="UK CUP",UEFA | 05 - Wales vs Denmark 7:45pm
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1363058&extension=ts&play_token=n5x8xG5cJF
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1363058&extension=ts&play_token=0HzsFV1dyG
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.95/images/1363059.png" group-title="UK CUP",UEFA | 06 - Crystal Palace vs Lech Poznań 8:00 pm
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1363059&extension=ts&play_token=Ei3xfLVgj8
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1363059&extension=ts&play_token=ptnxBExhWO
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.95/images/1363060.png" group-title="UK CUP",UEFA | 07 - Juventus vs NEC Nijmegen 8:00 pm
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1363060&extension=ts&play_token=U1bOC7E33p
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1363060&extension=ts&play_token=1XUcZij9KU
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.95/images/1363061.png" group-title="UK CUP",UEFA | 08 - Real Sociedad vs Bournemouth 8:00 pm
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1363061&extension=ts&play_token=l2noZxbD3k
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1363061&extension=ts&play_token=8D7In4aKyv
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.95/images/1363989.png" group-title="UK CUP",UEFA | 09 - Plzeň vs R. Union SG 8:00 pm
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1363989&extension=ts&play_token=KIiMdGfPT8
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1363989&extension=ts&play_token=CWLp8Si6ks
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.95/images/1363988.png" group-title="UK CUP",UEFA |10 -
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1363988&extension=ts&play_token=qi8VSKAqiI
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1363988&extension=ts&play_token=4fEoIK6suI
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.95/images/1363987.png" group-title="UK CUP",UEFA | 11 -
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1363987&extension=ts&play_token=IUkSNoyfx0
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1363987&extension=ts&play_token=uMgVlgqdrJ
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.95/images/1363986.png" group-title="UK CUP",UEFA | 12 -
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1363986&extension=ts&play_token=SX5HvFvEnD
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1363986&extension=ts&play_token=2JHYr9D4Yz
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.95/images/1363985.png" group-title="UK CUP",UEFA | 13 -
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1363985&extension=ts&play_token=J52cuDZMZl
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1363985&extension=ts&play_token=NFYCZJH1QH
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.95/images/1363969.png" group-title="UK CUP",UEFA | 13 - Sheriff Tiraspol vs Servette 20.00
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1363969&extension=ts&play_token=sFqyaVCGwP
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1363969&extension=ts&play_token=Z1qniTKEGw
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.95/images/1363984.png" group-title="UK CUP",UEFA | 14 -
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1363984&extension=ts&play_token=ShIlXV03aU
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1363984&extension=ts&play_token=C7Lk0zUi9b
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.95/images/1363968.png" group-title="UK CUP",UEFA | 14 - Molde vs Häcken 17.45
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1363968&extension=ts&play_token=I8MYllmseg
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1363968&extension=ts&play_token=RSNfFlekfK
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.95/images/1363983.png" group-title="UK CUP",UEFA | 15 -
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1363983&extension=ts&play_token=lGxky8LamB
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1363983&extension=ts&play_token=Oo5npxpg3Q
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.95/images/1363982.png" group-title="UK CUP",UEFA  | 16 -
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1363982&extension=ts&play_token=KEMwEKNadp
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1363982&extension=ts&play_token=X13Ty2DIiG
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.95/images/1363981.png" group-title="UK CUP",UEFA | 17 -
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1363981&extension=ts&play_token=n3uP8aF9IX
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1363981&extension=ts&play_token=lxgvDahf5H
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.95/images/1363980.png" group-title="UK CUP",UEFA | 18 -
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1363980&extension=ts&play_token=45INrpdZuZ
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1363980&extension=ts&play_token=pZYqvMl7CZ
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.95/images/1363996.png" group-title="UK CUP",UEFA | 18 - KAA Gent vs Breidablik 17.45
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1363996&extension=ts&play_token=OgddAoM1UW
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1363996&extension=ts&play_token=uENJ9YPdtX
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.95/images/1363995.png" group-title="UK CUP",UEFA  | 19 - Ballkani vs Astana 17.45
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1363995&extension=ts&play_token=NRcXrNX3JY
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1363995&extension=ts&play_token=rCRL3XVs8n
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/Champions-league.png" group-title="UK CUP",UEFA  | 19 -
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1363979&extension=ts&play_token=Ztnj4fPbDl
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1363979&extension=ts&play_token=ekp9BWKQwx
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.95/images/1363994.png" group-title="UK CUP",UEFA | 20 - Dinamo Zagreb vs Viktoria Plzen 20.00
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1363994&extension=ts&play_token=f6Mpu32r87
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1363994&extension=ts&play_token=QHQIYn8Kw9
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.95/images/1363978.png" group-title="UK CUP",UEFA | 20 -
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1363978&extension=ts&play_token=OJsgKTESM4
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1363978&extension=ts&play_token=jadwG6eXdq
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.95/images/1363977.png" group-title="UK CUP",UEFA | 21 -
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1363977&extension=ts&play_token=xS8IGIo8ZA
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1363977&extension=ts&play_token=Luag9tcPxF
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.95/images/1363976.png" group-title="UK CUP",UEFA | 22 -
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1363976&extension=ts&play_token=yBGzq6LjhW
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1363976&extension=ts&play_token=VM5ycBVNgt
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.95/images/1363975.png" group-title="UK CUP",UEFA | 23 -
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1363975&extension=ts&play_token=sg9qLNKPXH
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1363975&extension=ts&play_token=lFVBor2hkX
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.95/images/1363974.png" group-title="UK CUP",UEFA | 24 -
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1363974&extension=ts&play_token=3qGenSKpzu
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1363974&extension=ts&play_token=cY44X9lRxN
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.95/images/1363973.png" group-title="UK CUP",UEFA | 25 -
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1363973&extension=ts&play_token=87XYLBuauG
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1363973&extension=ts&play_token=TB8Mc1RLYg
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.95/images/1363972.png" group-title="UK CUP",UEFA | 26 -
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1363972&extension=ts&play_token=plAauUB49I
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1363972&extension=ts&play_token=sOYk2RImoM
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/Champions-league.png" group-title="UK CUP",UEFA | 27 -
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1363971&extension=ts&play_token=fjOBf9OjWU
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1363971&extension=ts&play_token=64vWBKDGhI
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.95/images/1363970.png" group-title="UK CUP",UEFA | 28 -
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1363970&extension=ts&play_token=99l5esuRTP
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1363970&extension=ts&play_token=sTEbparX9e
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.95/images/1363967.png" group-title="UK CUP",UEFA | 31 -
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1363967&extension=ts&play_token=HLPJkK0eSa
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1363967&extension=ts&play_token=AlDiDBqosQ
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.95/images/1363966.png" group-title="UK CUP",UEFA | 32 - ARSENAL - ATHLETIC CLUB BILBAO | Sat 09 Aug 15:45
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1363966&extension=ts&play_token=0qlolBtR6J
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1363966&extension=ts&play_token=MitpSy5Tcc
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/UK.png" group-title="UK World SPORTS",##### BEIN SPORTS #####
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=238271&extension=ts&play_token=5craKlVSdW
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=238271&extension=ts&play_token=XVds562sGx
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/BEINSPORTS1.png" group-title="UK World SPORTS",UK| BEIN SPORT 1 EN FHD
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=483921&extension=ts&play_token=LSdQF7IN0q
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=483921&extension=ts&play_token=BPvvN9bIjq
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/BEINSPORTS1.png" group-title="UK World SPORTS",UK| BEIN SPORT 1 EN HD
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=49226&extension=ts&play_token=SvledSMv3b
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=49226&extension=ts&play_token=Le8kIa6Q1T
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/BEINSPORTS2.png" group-title="UK World SPORTS",UK| BEIN SPORT 2 EN FHD
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=483920&extension=ts&play_token=VjBHsVZPvr
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=483920&extension=ts&play_token=qgrZL4IaLE
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/BEINSPORTS2.png" group-title="UK World SPORTS",UK| BEIN SPORT 2 EN HD
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=49225&extension=ts&play_token=JyoiJRt4Tn
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=49225&extension=ts&play_token=dLrKuakpI5
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/BEINSPORTS1.png" group-title="UK World SPORTS",UK| BEIN SPORTS 1 EN SD
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=735946&extension=ts&play_token=JSsUhETrmk
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=735946&extension=ts&play_token=1LKUlirvUX
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/BEINSPORTS1.png" group-title="UK World SPORTS",UK| BEIN SPORTS 1 HD
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=238265&extension=ts&play_token=XSGKAlOSvC
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=238265&extension=ts&play_token=NINF0kLAOK
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/BEINSPORTS1.png" group-title="UK World SPORTS",UK| BEIN SPORTS 1 PREMIUM HD
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=238261&extension=ts&play_token=hmWlBb4x6H
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=238261&extension=ts&play_token=3PjFEWGZWo
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/BEINSPORTS2.png" group-title="UK World SPORTS",UK| BEIN SPORTS 2 EN SD
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=735945&extension=ts&play_token=9A1yfW209O
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=735945&extension=ts&play_token=hasxPX15y6
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/BEINSPORTS2.png" group-title="UK World SPORTS",UK| BEIN SPORTS 2 HD
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=238264&extension=ts&play_token=cHed95fFx2
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=238264&extension=ts&play_token=naxv76TS3B
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/BEINSPORTS2.png" group-title="UK World SPORTS",UK| BEIN SPORTS 2 PREMIUM HD
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=238262&extension=ts&play_token=stysTNeD6I
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=238262&extension=ts&play_token=zs7GatoVm9
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/BEINSPORTS3.png" group-title="UK World SPORTS",UK| BEIN SPORTS 3 EN SD
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=735944&extension=ts&play_token=Fjd4OYMhSt
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=735944&extension=ts&play_token=yicJAOxXjA
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/BEINSPORTS3.png" group-title="UK World SPORTS",UK| BEIN SPORTS 3 HD
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=238266&extension=ts&play_token=ndr2GrJkvp
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=238266&extension=ts&play_token=oCy84FRVUZ
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/BEINSPORTS3.png" group-title="UK World SPORTS",UK| BEIN SPORTS 3 PREMIUM HD
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=238263&extension=ts&play_token=1GuLkMKEtv
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=238263&extension=ts&play_token=YflVjkpOD9
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/BEINSPORTS4.png" group-title="UK World SPORTS",UK| BEIN SPORTS 4 HD
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=238267&extension=ts&play_token=HaYZhEZlDk
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=238267&extension=ts&play_token=qEXqtY7PsH
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/BEINSPORTS5.png" group-title="UK World SPORTS",UK| BEIN SPORTS 5 HD
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=238268&extension=ts&play_token=0IvyDIHqIO
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=238268&extension=ts&play_token=JUKcH9XvPf
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/BEINSPORTS6.png" group-title="UK World SPORTS",UK| BEIN SPORTS 6 HD
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=238269&extension=ts&play_token=xt2a34OwxD
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=238269&extension=ts&play_token=aUgM9FrPlq
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/BEINSPORTS7.png" group-title="UK World SPORTS",UK| BEIN SPORTS 7 HD
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=238270&extension=ts&play_token=wdAgHqHSiy
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=238270&extension=ts&play_token=ZB2xEQfM3U
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/BEINSPORTS1.png" group-title="UK World SPORTS",UK| BEIN SPORTS AU 1
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1348093&extension=ts&play_token=VgBkCoWILn
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1348093&extension=ts&play_token=IUow26M9l5
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/BEINSPORTS2.png" group-title="UK World SPORTS",UK| BEIN SPORTS AU 2
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1348102&extension=ts&play_token=guaERAyPph
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1348102&extension=ts&play_token=suyV6goF2z
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/BEINSPORTS3.png" group-title="UK World SPORTS",UK| BEIN SPORTS AU 3
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1348103&extension=ts&play_token=myaqL606k6
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1348103&extension=ts&play_token=sThHwYUGq2
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/UK.png" group-title="UK World SPORTS",##### BEIN SPORTS ASIA #####
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=923433&extension=ts&play_token=EXvfsennzg
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=923433&extension=ts&play_token=ganYWcujbH
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/BEINSPORTS1.png" group-title="UK World SPORTS",UK| BEIN SPORTS ASIA 1
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=923432&extension=ts&play_token=N9d6FyxPus
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=923432&extension=ts&play_token=tY0lvyLm92
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/BEINSPORTS2.png" group-title="UK World SPORTS",UK| UK| BEIN SPORTS ASIA 2
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=923431&extension=ts&play_token=2C9Btdyx0L
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=923431&extension=ts&play_token=UjHIepfinA
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/BEINSPORTS3.png" group-title="UK World SPORTS",UK| UK| BEIN SPORTS ASIA 3
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=923430&extension=ts&play_token=euy69N8DiU
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=923430&extension=ts&play_token=5NXOjdyVXF
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/UK.png" group-title="UK World SPORTS",##### SUPER SPORTS #####
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=239075&extension=ts&play_token=kfcubTLoXd
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=239075&extension=ts&play_token=WhksvfYhcC
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/SUPERSPORT.png" group-title="UK World SPORTS",UK| SUPERSPORTS ACTION HD
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=425668&extension=ts&play_token=uWC2gTzilI
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=425668&extension=ts&play_token=C4QGAF25oB
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/SUPERSPORT.png" group-title="UK World SPORTS",UK| SUPERSPORTS BLITZ HD
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=425310&extension=ts&play_token=cWjwpSx67r
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=425310&extension=ts&play_token=onYQvMSWp0
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/SUPERSPORT.png" group-title="UK World SPORTS",UK| SUPERSPORTS CRICKET HD
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=239087&extension=ts&play_token=oqwjEcLK5W
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=239087&extension=ts&play_token=WAoXNKBxbX
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/SUPERSPORT.png" group-title="UK World SPORTS",UK| SUPERSPORTS EVENTS HD
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=425312&extension=ts&play_token=oNaUBArIRt
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=425312&extension=ts&play_token=zmwG5ddP9e
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/SUPERSPORT.png" group-title="UK World SPORTS",UK| SUPERSPORTS FOOTBALL HD
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=239083&extension=ts&play_token=dRYo0tpVIx
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=239083&extension=ts&play_token=Ei2S173QXl
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/SUPERSPORT.png" group-title="UK World SPORTS",UK| SUPERSPORTS GOLF HD
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=425667&extension=ts&play_token=Spcm989X12
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=425667&extension=ts&play_token=nFePJzbDmi
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/SUPERSPORT.png" group-title="UK World SPORTS",UK| SUPERSPORTS GRANDSTAND HD
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=239079&extension=ts&play_token=tJaRQ2gZkK
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=239079&extension=ts&play_token=CI76z7vh7E
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/SUPERSPORT.png" group-title="UK World SPORTS",UK| SUPERSPORTS LIGA HD
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=239076&extension=ts&play_token=tMnYbezuUR
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=239076&extension=ts&play_token=K4zOd1UDSF
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/SUPERSPORT.png" group-title="UK World SPORTS",UK| SUPERSPORTS MAXIMO HD
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=425666&extension=ts&play_token=Hww41O9O14
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=425666&extension=ts&play_token=fVOoSrS7wS
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/SUPERSPORT.png" group-title="UK World SPORTS",UK| SUPERSPORTS MOTORSPORT HD
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=239082&extension=ts&play_token=mbjwqX4nT2
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=239082&extension=ts&play_token=40B2lZzIR1
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/SUPERSPORT.png" group-title="UK World SPORTS",UK| SUPER SPORTS PLAY 1 HD
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=425313&extension=ts&play_token=rGzJsSsWJP
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=425313&extension=ts&play_token=vKuxMzRiiE
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/SUPERSPORT.png" group-title="UK World SPORTS",UK| SUPERSPORTS PLAY 2 HD
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=425311&extension=ts&play_token=Xm1J70E4da
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=425311&extension=ts&play_token=ibHOl8mCYe
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/SUPERSPORT.png" group-title="UK World SPORTS",UK| SUPERSPORTS PL HD
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=239078&extension=ts&play_token=S858RNzir1
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=239078&extension=ts&play_token=vvgAaWt4wk
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/SUPERSPORT.png" group-title="UK World SPORTS",UK| SUPERSPORTS PSL HD
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=239077&extension=ts&play_token=tJGDIhX8Nm
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=239077&extension=ts&play_token=0h72uUxgCb
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/SUPERSPORT.png" group-title="UK World SPORTS",UK| SUPERSPORTS RUGBY HD
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=239086&extension=ts&play_token=Ks0tNPMG0C
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=239086&extension=ts&play_token=e95ZezXmcU
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/SUPERSPORT.png" group-title="UK World SPORTS",UK| SUPERSPORTS TENNIS HD
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=425314&extension=ts&play_token=TjYkeQkaGZ
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=425314&extension=ts&play_token=rma3kJPVRz
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/SUPERSPORT.png" group-title="UK World SPORTS",UK| SUPERSPORTS VARIETY 1 HD
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=239081&extension=ts&play_token=8YRqoPG3O9
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=239081&extension=ts&play_token=0TcVC8rbKo
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/SUPERSPORT.png" group-title="UK World SPORTS",UK| SUPERSPORTS VARIETY 2 HD
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=239080&extension=ts&play_token=111NHC9nkI
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=239080&extension=ts&play_token=Z5lZU3DqOe
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/SUPERSPORT.png" group-title="UK World SPORTS",UK| SUPERSPORTS VARIETY 3 HD
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=239085&extension=ts&play_token=F7luAYDrXg
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=239085&extension=ts&play_token=ylAUSlF2Gb
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/SUPERSPORT.png" group-title="UK World SPORTS",UK| SUPERSPORTS VARIETY 4 HD
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=239084&extension=ts&play_token=28Q6rm3JIM
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=239084&extension=ts&play_token=1PM0KU7Jlk
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/UK.png" group-title="UK World SPORTS",##### UK ASTRO SPORTS #####
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=918987&extension=ts&play_token=ZeMWcR65U5
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=918987&extension=ts&play_token=hGTGpC7o7W
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/ASTROSPORTS.png" group-title="UK World SPORTS",UK| ASTRO Football
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=918983&extension=ts&play_token=cWFIEF1nIm
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=918983&extension=ts&play_token=tt4nKJ2FxR
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/ASTROSPORTS.png" group-title="UK World SPORTS",UK| ASTRO Football
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1016545&extension=ts&play_token=oj26bNwCny
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1016545&extension=ts&play_token=zzomB0Ti3g
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/ASTROSPORTS.png" group-title="UK World SPORTS",UK| ASTRO Grandstand
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=918984&extension=ts&play_token=mqhPZ9D8cV
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=918984&extension=ts&play_token=fzQAXTg0Me
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/ASTROSPORTS.png" group-title="UK World SPORTS",UK| ASTRO Premier League
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1016544&extension=ts&play_token=QSsAKlhaCD
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1016544&extension=ts&play_token=AySigLV18y
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/ASTROSPORTS.png" group-title="UK World SPORTS",UK| ASTRO Premier League 2 HD
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=918985&extension=ts&play_token=1He6eW0FD4
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=918985&extension=ts&play_token=p4NkmoFbBA
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/ASTROSPORTS.png" group-title="UK World SPORTS",UK| ASTRO Premier League HD
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=918986&extension=ts&play_token=49tUhQutIr
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=918986&extension=ts&play_token=IpzvNuOADx
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/UK.png" group-title="UK World SPORTS",##### UK NOW SPORTS #####
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1032490&extension=ts&play_token=j23COJTjer
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1032490&extension=ts&play_token=zTmYVHwII0
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/NOWSPORTS.png" group-title="UK World SPORTS",UK| NOW HK NOW SPORTS 1
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1032479&extension=ts&play_token=WMC022wdAp
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1032479&extension=ts&play_token=q2zWaXbZm7
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/NOWSPORTS.png" group-title="UK World SPORTS",UK| NOW HK NOW SPORTS 2
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1032478&extension=ts&play_token=W92dPoR8LC
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1032478&extension=ts&play_token=d9dJGS3IXc
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/NOWSPORTS.png" group-title="UK World SPORTS",UK| NOW HK NOW SPORTS 3
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1032477&extension=ts&play_token=hwl8vG9YrK
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1032477&extension=ts&play_token=Boqhbdpnfx
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/NOWSPORTS.png" group-title="UK World SPORTS",UK| NOW HK NOW SPORTS 4
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1032476&extension=ts&play_token=HR3xwaL4rX
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1032476&extension=ts&play_token=81ynYlS5AA
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/NOWSPORTS.png" group-title="UK World SPORTS",UK| NOW HK NOW SPORTS 4K 616
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1032489&extension=ts&play_token=puhg6uRt04
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1032489&extension=ts&play_token=hueM9QdfXc
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/NOWSPORTS.png" group-title="UK World SPORTS",UK| NOW HK NOW SPORTS 4K 617
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1032488&extension=ts&play_token=2M0RqbHl4R
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1032488&extension=ts&play_token=1HZF9lfvPQ
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/NOWSPORTS.png" group-title="UK World SPORTS",UK| NOW HK NOW SPORTS 5
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1032475&extension=ts&play_token=V1EsVjH8GA
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1032475&extension=ts&play_token=iwPBPa6165
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/NOWSPORTS.png" group-title="UK World SPORTS",UK| NOW HK NOW SPORTS 6
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1032474&extension=ts&play_token=0AwdfFebjs
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1032474&extension=ts&play_token=WUocHS3Kg1
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/NOWSPORTS.png" group-title="UK World SPORTS",UK| NOW HK NOW SPORTS 7
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1032473&extension=ts&play_token=NiG1QA1ybP
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1032473&extension=ts&play_token=PME85UYZ0T
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/PREMIERSPORTS.png" group-title="UK World SPORTS",UK| NOW HK PREMIER SPORTS 1
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1032487&extension=ts&play_token=9kwGNa35t5
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1032487&extension=ts&play_token=me6MWekGQh
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/PREMIERSPORTS.png" group-title="UK World SPORTS",UK| NOW HK PREMIER SPORTS 2
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1032486&extension=ts&play_token=FrmV8FVjXd
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1032486&extension=ts&play_token=0hjvl34URL
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/PREMIERSPORTS.png" group-title="UK World SPORTS",UK| NOW HK PREMIER SPORTS 3
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1032485&extension=ts&play_token=QDZdX6R8kR
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1032485&extension=ts&play_token=qAueirmelD
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/PREMIERSPORTS.png" group-title="UK World SPORTS",UK| NOW HK PREMIER SPORTS 4
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1032484&extension=ts&play_token=MPv6Pve4oW
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1032484&extension=ts&play_token=rkPesjCKhR
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/PREMIERSPORTS.png" group-title="UK World SPORTS",UK| NOW HK PREMIER SPORTS 5
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1032483&extension=ts&play_token=DptuxEHkIp
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1032483&extension=ts&play_token=39NlxpyKAC
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/PREMIERSPORTS.png" group-title="UK World SPORTS",UK| NOW HK PREMIER SPORTS 6
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1032482&extension=ts&play_token=CrLBVYW3Lv
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1032482&extension=ts&play_token=1vbJpYuQrR
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/PREMIERSPORTS.png" group-title="UK World SPORTS",UK| NOW HK PREMIER SPORTS 7
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1032481&extension=ts&play_token=kzsbknqTLS
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1032481&extension=ts&play_token=EkSWOY4x5z
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/PREMIERSPORTS.png" group-title="UK World SPORTS",UK| NOW HK PREMIER SPORTS 8
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1032480&extension=ts&play_token=xVnZcnF0yr
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1032480&extension=ts&play_token=iKPBNLCIwb
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/UK.png" group-title="UK HUB Premier",##### UK HUB SPORTS #####
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1032530&extension=ts&play_token=FxRRfV8Q0m
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1032530&extension=ts&play_token=JhdXSLtyrW
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/HUBPREMIER1.png" group-title="UK HUB Premier",UK| HUB PREMIER 1 FHD
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1032529&extension=ts&play_token=oVH5MXxfqh
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1032529&extension=ts&play_token=brrDnmh1Tx
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/HUBPREMIER2.png" group-title="UK HUB Premier",UK| HUB PREMIER 2 FHD
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1032528&extension=ts&play_token=n76OdtgN5j
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1032528&extension=ts&play_token=D1UVXLMZp1
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/HUBPREMIER2.png" group-title="UK HUB Premier",UK| HUB PREMIER 2 UHD
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1032518&extension=ts&play_token=fSub1WDVRD
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1032518&extension=ts&play_token=oIvcNIp3m6
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/HUBPREMIER3.png" group-title="UK HUB Premier",UK| HUB PREMIER 3 FHD
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1032527&extension=ts&play_token=jMKteDj0Kl
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1032527&extension=ts&play_token=yQP2ynLGVw
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/HUBPREMIER4.png" group-title="UK HUB Premier",UK| HUB PREMIER 4 FHD
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1032526&extension=ts&play_token=HfO0clcxcL
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1032526&extension=ts&play_token=6FwMn1t07Z
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/HUBPREMIER5.png" group-title="UK HUB Premier",UK| HUB PREMIER 5 FHD
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1032525&extension=ts&play_token=WvVwToIHCZ
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1032525&extension=ts&play_token=5mxeIiOpM0
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/HUBPREMIER6.png" group-title="UK HUB Premier",UK| HUB PREMIER 6 FHD
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1032524&extension=ts&play_token=R9NuoK85tC
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1032524&extension=ts&play_token=1mWsPE5lRT
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/HUBPREMIER7.png" group-title="UK HUB Premier",UK| HUB PREMIER 7 FHD
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1032523&extension=ts&play_token=PLMVnWfVl7
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1032523&extension=ts&play_token=rj9gv9tsJ1
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/HUBPREMIER8.png" group-title="UK HUB Premier",UK| HUB PREMIER 8 FHD
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1032522&extension=ts&play_token=3apO7ioKBY
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1032522&extension=ts&play_token=Csc1BlDUQ8
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/HUBPREMIER9.png" group-title="UK HUB Premier",UK| HUB PREMIER 9 FHD
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1032521&extension=ts&play_token=n3MpYZcw8X
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1032521&extension=ts&play_token=dmAGu4lmzC
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/HUBPREMIER10.png" group-title="UK HUB Premier",UK| HUB PREMIER 10 FHD
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1032520&extension=ts&play_token=abvQIb9Gp0
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1032520&extension=ts&play_token=GftPU6Bppb
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/HUBPREMIER11.png" group-title="UK HUB Premier",UK| HUB PREMIER 11 FHD
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1032519&extension=ts&play_token=PqgaqnTWKl
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1032519&extension=ts&play_token=jhLsHQgWA7
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/ALAVES.png" group-title="UK Laliga",LA LIGA| ALAVES
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1395530&extension=ts&play_token=vW2qoaAe44
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1395530&extension=ts&play_token=Gq3JOLt2Vf
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/ALMERIA.png" group-title="UK Laliga",LA LIGA| ALMERÍA
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1395529&extension=ts&play_token=G41sySRYEr
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1395529&extension=ts&play_token=IXJf26sjMR
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/ATHLETICBILBAO.png" group-title="UK Laliga",LA LIGA| ATHLETIC BILBAO
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1395528&extension=ts&play_token=jDywU6gvt3
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1395528&extension=ts&play_token=wkc55tRiE4
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/ATLETICOMADRID.png" group-title="UK Laliga",LA LIGA| ATLETICO MADRID
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1395527&extension=ts&play_token=MiIUaAWltq
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1395527&extension=ts&play_token=FWzzCQq9WH
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/BARCELONA.png" group-title="UK Laliga",LA LIGA| BARCELONA
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1395526&extension=ts&play_token=5Pb3SnFyq0
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1395526&extension=ts&play_token=J1S6wv1aEm
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/CADIZ.png" group-title="UK Laliga",LA LIGA| CADIZ
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1395525&extension=ts&play_token=ICi9l9AQFg
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1395525&extension=ts&play_token=uJ2T85mQmU
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/CELTAVIGO.png" group-title="UK Laliga",LA LIGA| CELTA VIGO
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1395524&extension=ts&play_token=DdU4IQpiUT
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1395524&extension=ts&play_token=oBkFaKSvSw
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/GETAFE.png" group-title="UK Laliga",LA LIGA| GETAFE
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1395523&extension=ts&play_token=ggYQRGqbGR
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1395523&extension=ts&play_token=aMurzxaFrz
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/GIRONA.png" group-title="UK Laliga",LA LIGA| GIRONA
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1395522&extension=ts&play_token=zcchqMuIqh
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1395522&extension=ts&play_token=aQT9OoVkWN
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/GRANADA.png" group-title="UK Laliga",LA LIGA| GRANADA
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1395521&extension=ts&play_token=dVbiwqjuyG
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1395521&extension=ts&play_token=cDyQtp1wg5
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/LASPALMAS.png" group-title="UK Laliga",LA LIGA| LAS PALMAS
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1395520&extension=ts&play_token=q0oqj5DXXa
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1395520&extension=ts&play_token=NtTrvWUMqW
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/MALLORCA.png" group-title="UK Laliga",LA LIGA| MALLORCA
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1395519&extension=ts&play_token=5O3AVaZJX1
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1395519&extension=ts&play_token=2xs5dCpufZ
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/OSASUNA.png" group-title="UK Laliga",LA LIGA| OSASUNA
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1395518&extension=ts&play_token=8MkcuSi5cS
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1395518&extension=ts&play_token=tNBbEXd5yA
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/RAYOVALLECANO.png" group-title="UK Laliga",LA LIGA| RAYO VALLECANO
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1395517&extension=ts&play_token=fk6H0eIpbi
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1395517&extension=ts&play_token=rIfft4PV5p
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/REALBETIS.png" group-title="UK Laliga",LA LIGA| REAL BETIS
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1395516&extension=ts&play_token=sngbzFywE0
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1395516&extension=ts&play_token=wU9U401T5T
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/REALMADRID.png" group-title="UK Laliga",LA LIGA| REAL MADRID
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1395515&extension=ts&play_token=YQDxgIZ3KA
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1395515&extension=ts&play_token=CVU4ejUS7t
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/REALSOCIEDAD.png" group-title="UK Laliga",LA LIGA| REAL SOCIEDAD
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1395514&extension=ts&play_token=Eo9DOI4q3V
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1395514&extension=ts&play_token=UkizfbWtCN
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/SEVILLA.png" group-title="UK Laliga",LA LIGA| SEVILLA
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1395513&extension=ts&play_token=GoT3lbpN25
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1395513&extension=ts&play_token=SbrLC8aGOG
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/VALENCIA.png" group-title="UK Laliga",LA LIGA| VALENCIA
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1395512&extension=ts&play_token=xhZgQkPzS5
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1395512&extension=ts&play_token=d3wjmoigZI
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/UKNEW/VILLAREAL.png" group-title="UK Laliga",LA LIGA| VILLAREAL
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1395511&extension=ts&play_token=hFFxesjDCl
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1395511&extension=ts&play_token=K5QW12BC0E
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.95/images/1395510.png" group-title="UK Serie A",SERIE A| AC MILAN
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1395510&extension=ts&play_token=Qb9dv5Clo8
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1395510&extension=ts&play_token=RxxwRlulAz
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.95/images/1395509.png" group-title="UK Serie A",SERIE A| ATALANTA
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1395509&extension=ts&play_token=GgAbpSxI3n
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1395509&extension=ts&play_token=HvnKb5na59
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.95/images/1395508.png" group-title="UK Serie A",SERIE A| BOLOGNa
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1395508&extension=ts&play_token=o8LQwkE3Km
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1395508&extension=ts&play_token=Q2urOlqyTo
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.95/images/1395507.png" group-title="UK Serie A",SERIE A| CAGLIARI
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1395507&extension=ts&play_token=nRGPN9dfZH
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1395507&extension=ts&play_token=7gKLd1grnX
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.95/images/1395506.png" group-title="UK Serie A",SERIE A| EMPOLI
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1395506&extension=ts&play_token=2VJmgzyRZO
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1395506&extension=ts&play_token=UFLk2fzRbg
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.95/images/1395505.png" group-title="UK Serie A",SERIE A| FIORENTINA
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1395505&extension=ts&play_token=uyiVDREthI
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1395505&extension=ts&play_token=QHQjGf1ukE
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.95/images/1395504.png" group-title="UK Serie A",SERIE A| FROSINONE
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1395504&extension=ts&play_token=lHcVkppRjx
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1395504&extension=ts&play_token=Pjf24hgGSt
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.95/images/1395503.png" group-title="UK Serie A",SERIE A| GENOA
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1395503&extension=ts&play_token=lqp1ExwCRS
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1395503&extension=ts&play_token=gv6EDnfN6i
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.95/images/1395502.png" group-title="UK Serie A",SERIE A| INTER MILAN
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1395502&extension=ts&play_token=TE1hEnE4eA
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1395502&extension=ts&play_token=aSe8GLOpyo
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.95/images/1395501.png" group-title="UK Serie A",SERIE A| JUVENTUS
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1395501&extension=ts&play_token=emQ5wBWhJv
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1395501&extension=ts&play_token=uxwXWvVIDr
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.95/images/1395500.png" group-title="UK Serie A",SERIE A| LAZIO
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1395500&extension=ts&play_token=kk917pRDfN
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1395500&extension=ts&play_token=s9iUWV2GLS
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.95/images/1395499.png" group-title="UK Serie A",SERIE A| LECCE
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1395499&extension=ts&play_token=rWGwFMBOYU
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1395499&extension=ts&play_token=VXbKrkm0Dn
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.95/images/1395498.png" group-title="UK Serie A",SERIE A| MONZA
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1395498&extension=ts&play_token=TTVrg2aU9t
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1395498&extension=ts&play_token=syYMZE5T09
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.95/images/1395497.png" group-title="UK Serie A",SERIE A| NAPOLI
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1395497&extension=ts&play_token=T99Khcxl21
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1395497&extension=ts&play_token=HDcDz61dXN
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.95/images/1395496.png" group-title="UK Serie A",SERIE A| ROMA
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1395496&extension=ts&play_token=wa6NFL0wE8
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1395496&extension=ts&play_token=WwdDmKYD6B
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.95/images/1395494.png" group-title="UK Serie A",SERIE A| SALERNITANA
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1395494&extension=ts&play_token=b3d5gqiSZv
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1395494&extension=ts&play_token=f9W385bSYT
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.95/images/1395495.png" group-title="UK Serie A",SERIE A| SASSUOLO
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1395495&extension=ts&play_token=Uv8WiPsDqw
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1395495&extension=ts&play_token=JspzItrlQS
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.95/images/1395493.png" group-title="UK Serie A",SERIE A| TORINO
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1395493&extension=ts&play_token=QyNDuWsyfU
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1395493&extension=ts&play_token=lYjyZMuF52
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.95/images/1395492.png" group-title="UK Serie A",SERIE A| UDINESE
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1395492&extension=ts&play_token=exz1lXyhag
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1395492&extension=ts&play_token=8ZX0gqTeE0
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.95/images/1395491.png" group-title="UK Serie A",SERIE A| VERONA
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1395491&extension=ts&play_token=6KnuD5ZNTE
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1395491&extension=ts&play_token=6NDokAhJWM
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.95/images/1688044.png" group-title="UK Ligue 1",Ligue 1 | Match 1
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1688044&extension=ts&play_token=xw1Fyu0Lf0
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1688044&extension=ts&play_token=1QnJYQ67rF
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.95/images/1688043.png" group-title="UK Ligue 1",Ligue 1 | Match 2
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1688043&extension=ts&play_token=fatNVtko9y
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1688043&extension=ts&play_token=ruzSeQTtVZ
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.95/images/1688042.png" group-title="UK Ligue 1",Ligue 1 | Match 3
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1688042&extension=ts&play_token=RpgGrxsSv7
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1688042&extension=ts&play_token=RkrsEOZUDf
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.95/images/1688041.png" group-title="UK Ligue 1",Ligue 1 | Match 4
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1688041&extension=ts&play_token=Y5NkHKFbTX
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1688041&extension=ts&play_token=6l4e09T0TV
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.95/images/1688040.png" group-title="UK Ligue 1",Ligue 1 | Match 5
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1688040&extension=ts&play_token=dt82h5rppX
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1688040&extension=ts&play_token=zXt9Lm96jT
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.95/images/1688039.png" group-title="UK Ligue 1",Ligue 1 | Match 6
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1688039&extension=ts&play_token=dJ7yANsghe
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1688039&extension=ts&play_token=W1yJuDppN5
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.95/images/1688038.png" group-title="UK Ligue 1",Ligue 1 | Match 7
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1688038&extension=ts&play_token=a9bkb7YLUF
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1688038&extension=ts&play_token=Y3YrN0QG3M
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.95/images/1688037.png" group-title="UK Ligue 1",Ligue 1 | Match 8
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1688037&extension=ts&play_token=xN7QpCiVwY
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1688037&extension=ts&play_token=RbuyaFamm5
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.95/images/1688036.png" group-title="UK Ligue 1",Ligue 1 | Match 9
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1688036&extension=ts&play_token=DP2xh6rPr1
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1688036&extension=ts&play_token=s93vdFX8St
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.95/images/1688035.png" group-title="UK Ligue 1",Ligue 1 | Match 10
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1688035&extension=ts&play_token=IJkohZQwzU
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1688035&extension=ts&play_token=XMHq8KaYLt
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/logos/SKY-SPORT.png" group-title="NZ Sky sport",NZ| SKY SPORT 1 FHD
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=2024778&extension=ts&play_token=KplbMGGR4y
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=2024778&extension=ts&play_token=zG4bVBwKmW
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/logos/SKY-SPORT.png" group-title="NZ Sky sport",NZ| SKY SPORT 2 FHD
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=2024777&extension=ts&play_token=DuAV636SRS
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=2024777&extension=ts&play_token=axxVPqpKgq
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/logos/SKY-SPORT.png" group-title="NZ Sky sport",NZ| SKY SPORT 3 FHD
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=2024776&extension=ts&play_token=d1nNgnE2O2
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=2024776&extension=ts&play_token=1ZwwxFDEJZ
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/logos/SKY-SPORT.png" group-title="NZ Sky sport",NZ| SKY SPORT 4 FHD
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=2024775&extension=ts&play_token=ytSO7RSJkU
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=2024775&extension=ts&play_token=Poti4YLxCu
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/logos/SKY-SPORT.png" group-title="NZ Sky sport",NZ| SKY SPORT 5 FHD
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=2024774&extension=ts&play_token=seYaZ0Ymba
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=2024774&extension=ts&play_token=b2lEXtk6cY
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/logos/SKY-SPORT.png" group-title="NZ Sky sport",NZ| SKY SPORT 6 FHD
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=2024773&extension=ts&play_token=uvADX2Szbf
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=2024773&extension=ts&play_token=cta210mqRm
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/logos/SKY-SPORT.png" group-title="NZ Sky sport",NZ| SKY SPORT 7 FHD
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=2024772&extension=ts&play_token=uQtQy0679u
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=2024772&extension=ts&play_token=au7FUz4OFF
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/logos/SKY-SPORT.png" group-title="NZ Sky sport",NZ| SKY SPORT 8 FHD
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=2024771&extension=ts&play_token=4SwT1xyiND
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=2024771&extension=ts&play_token=i52IrnEP1R
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/logos/SKY-SPORT.png" group-title="NZ Sky sport",NZ| SKY SPORT 9 FHD
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=2024770&extension=ts&play_token=DdbAm8vQJa
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=2024770&extension=ts&play_token=taYIl7AGg9
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.154/picons/logos/logos/SKY-SPORT.png" group-title="NZ Sky sport",NZ| SKY SPORT POP UP 1 FHD
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=2024769&extension=ts&play_token=xZrAuVSGIw
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=2024769&extension=ts&play_token=V1hzFXqDDT
 #EXTINF:-1 tvg-id="" tvg-logo="http://picons.cmshulk.com/picons/1424311.png" group-title="NZ Sky sports",NZ| SKY SPORTS NZ PL
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1424311&extension=ts&play_token=6Pk50RzGFr
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1424311&extension=ts&play_token=q90KVPm2BY
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.118/picons/logos/SPAIN/SKY-SPORTS.png" group-title="NZ Sky sports",NZ| SKY SPORTS NZ 9
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1424310&extension=ts&play_token=O0RHEPzrZe
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1424310&extension=ts&play_token=FCaFuK9tXi
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.118/picons/logos/SPAIN/SKY-SPORTS.png" group-title="NZ Sky sports",NZ| SKY SPORTS NZ SELECT
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1424309&extension=ts&play_token=vX04A44QHf
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1424309&extension=ts&play_token=b36bv8E72M
 #EXTINF:-1 tvg-id="" tvg-logo="http://picons.cmshulk.com/picons/1424308.png" group-title="NZ Sky sports",NZ| SKY SPORTS NZ POPUP 1
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1424308&extension=ts&play_token=6p7eNTZcEC
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1424308&extension=ts&play_token=gosgh2yjlR
 #EXTINF:-1 tvg-id="" tvg-logo="http://picons.cmshulk.com/picons/1424307.png" group-title="NZ Sky sports",NZ| SKY NZ ESPN
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1424307&extension=ts&play_token=37J4FFLVXB
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1424307&extension=ts&play_token=QNPJSerdVd
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.118/picons/logos/SPAIN/espn.png" group-title="NZ Sky sports",NZ| SKY NZ ESPN 2
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1424306&extension=ts&play_token=3IuB5IDHPq
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1424306&extension=ts&play_token=rweWEFOE7s
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.118/picons/logos/SPAIN/SKY-SPORTS.png" group-title="NZ Sky sports",NZ| SKY SPORTS NZ 1
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1424318&extension=ts&play_token=Mmo53bK79l
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1424318&extension=ts&play_token=CeWBmH3sYm
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.118/picons/logos/SPAIN/SKY-SPORTS.png" group-title="NZ Sky sports",NZ| SKY SPORTS NZ 2
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1424317&extension=ts&play_token=EwmXqn3zAo
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1424317&extension=ts&play_token=ki38OKE0EG
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.118/picons/logos/SPAIN/SKY-SPORTS.png" group-title="NZ Sky sports",NZ| SKY SPORTS NZ 3
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1424316&extension=ts&play_token=0QliHs8j9h
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1424316&extension=ts&play_token=m5KaHoModO
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.118/picons/logos/SPAIN/SKY-SPORTS.png" group-title="NZ Sky sports",NZ| SKY SPORTS NZ 4
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1424315&extension=ts&play_token=QsQS4WMMyO
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1424315&extension=ts&play_token=l07R5aN163
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.118/picons/logos/SPAIN/SKY-SPORTS.png" group-title="NZ Sky sports",NZ| SKY SPORTS NZ 5
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1424314&extension=ts&play_token=loOKupwiPe
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1424314&extension=ts&play_token=IXVDcjXTKB
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.118/picons/logos/SPAIN/SKY-SPORTS.png" group-title="NZ Sky sports",NZ| SKY SPORTS NZ 6
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1424313&extension=ts&play_token=JZRDJ7Cwvl
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1424313&extension=ts&play_token=8ZiNBpi4L7
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.176.90.118/picons/logos/SPAIN/SKY-SPORTS.png" group-title="NZ Sky sports",NZ| SKY SPORTS NZ 7
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1424312&extension=ts&play_token=SaCrI1VC9g
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:5E:41:10&stream=1424312&extension=ts&play_token=KDDaTaRIJy
